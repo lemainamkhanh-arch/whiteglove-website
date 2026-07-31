@@ -21,7 +21,7 @@ function parseFrontMatter(src) {
     body = src.slice(m[0].length);
     for (const line of m[1].split('\n')) {
       const i = line.indexOf(':');
-      if (i > 0) meta[line.slice(0, i).trim()] = line.slice(i + 1).trim();
+      if (i > 0) { let v = line.slice(i + 1).trim(); if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) v = v.slice(1, -1); meta[line.slice(0, i).trim()] = v; }
     }
   }
   return { meta, body };

@@ -241,3 +241,14 @@ collections:
           - { name: "t076", label: "Chỉ cần tra cứu nhanh một mã đơn?", widget: string, required: false }
           - { name: "t164", label: "Tra cứu vận đơn", widget: string, required: false }
           - { name: "t018", label: "Phiên đăng nhập được mã hóa và tự đóng sau 30 phút không ...", widget: text, required: false }
+
+  - name: notionplan
+    label: "Kế hoạch Notion"
+    files:
+      - name: plan
+        label: "Kế hoạch content từ Notion (read-only)"
+        file: content/notion-plan.md
+        fields:
+          - { name: title, label: "Tiêu đề", widget: string }
+          - { name: updated, label: "Cập nhật lúc", widget: string, required: false }
+          - { name: body, label: "Danh sách bài viết & trạng thái", widget: markdown }
