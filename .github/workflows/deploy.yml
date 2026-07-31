@@ -23,7 +23,7 @@ jobs:
       - name: Assemble _site
         run: |
           mkdir -p _site
-          cp -r index.html assets admin content _site/
+          cp -r index.html assets admin content blog sitemap.xml robots.txt _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
