@@ -16,7 +16,11 @@ main{max-width:720px;margin:0 auto;padding:48px 24px 80px}
 h1{font-family:'Montserrat','Be Vietnam Pro',ui-sans-serif,sans-serif;font-weight:300;letter-spacing:.005em;font-size:clamp(1.9rem,3.2vw,2.4rem);line-height:1.15;margin:0 0 4px}
 ul.posts{list-style:none;padding:0}
 ul.posts li{border-bottom:1px solid var(--line)}
-ul.posts a{display:block;padding:20px 0;text-decoration:none;color:var(--ink)}
+ul.posts a{display:flex;gap:18px;align-items:center;padding:20px 0;text-decoration:none;color:var(--ink)}
+ul.posts .th{flex:0 0 auto;width:150px;height:94px;border-radius:8px;overflow:hidden;background:var(--blue-soft)}
+ul.posts .th img{width:100%;height:100%;object-fit:cover;display:block}
+ul.posts .tx{flex:1 1 auto;min-width:0}
+@media(max-width:560px){ul.posts .th{width:104px;height:70px}}
 ul.posts .d{display:block;font-size:13px;color:var(--muted)}
 ul.posts .t{display:block;font-family:Montserrat,sans-serif;font-weight:600;font-size:19px;margin:4px 0}
 ul.posts .s{display:block;font-size:14px;color:var(--muted)}

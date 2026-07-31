@@ -188,9 +188,12 @@ for (const p of posts) {
     EXTRA_SCHEMA: extraSchema,
   }));
 }
-const items = posts.map((p) =>
-  '<li><a href="/blog/' + p.slug + '/"><span class="d">' + (p.date || '').split('-').reverse().join('/') +
-  '</span><span class="t">' + esc(p.title || '') + '</span><span class="s">' + esc(p.description || '') + '</span></a></li>'
+const items = posts.map((p) => {
+  const im = (p.rawBody || '').match(/!\[[^\]]*\]\(([^)]+)\)/);
+  const thumb = im ? '<span class="th"><img src="' + im[1] + '" alt="" loading="lazy"></span>' : '';
+  return '<li><a href="/blog/' + p.slug + '/">' + thumb + '<span class="tx"><span class="d">' + (p.date || '').split('-').reverse().join('/') +
+  '</span><span class="t">' + esc(p.title || '') + '</span><span class="s">' + esc(p.description || '') + '</span></span></a></li>';
+}
 ).join('\n');
 fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, ITEMS: items || '<li>Bài viết đang được cập nhật…</li>' }));
 
