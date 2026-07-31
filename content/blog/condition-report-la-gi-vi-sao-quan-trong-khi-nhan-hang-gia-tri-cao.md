@@ -43,10 +43,12 @@ Với hàng hóa phổ thông, một vết trầy nhỏ có thể bỏ qua. Như
 
 ## Câu hỏi thường gặp
 
-**Condition report có bắt buộc theo luật không?**
+### Condition report có bắt buộc theo luật không?
+
 Không có quy định pháp luật bắt buộc, nhưng gần như mọi hợp đồng bảo hiểm hàng hóa và hợp đồng dịch vụ logistics uy tín đều yêu cầu như một điều khoản chuẩn.
 
-**Ai chịu trách nhiệm lập report — người gửi hay người vận chuyển?**
+### Ai chịu trách nhiệm lập report — người gửi hay người vận chuyển?
+
 Cả hai. Người vận chuyển lập report khi tiếp nhận hàng; người nhận (khách hàng hoặc đại diện) lập report khi ký nhận hàng tại điểm cuối.
 
 Nếu bạn cần vận chuyển hàng giá trị cao và muốn có hồ sơ condition report minh bạch ở mọi chặng, đội ngũ White Glove Logistics lập biên bản kèm ảnh tại từng điểm giao nhận — không phát sinh tranh chấp về sau.

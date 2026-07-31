@@ -117,6 +117,24 @@ function extractHowTo(body, name) {
 function jsonLd(obj) {
   return JSON.stringify(obj).replace(/</g, '\\u003c');
 }
+function styleFaqSection(html) {
+  const heading = '<h2>C\u00e2u h\u1ecfi th\u01b0\u1eddng g\u1eb7p</h2>\n';
+  const idx = html.indexOf(heading);
+  if (idx === -1) return html;
+  let pos = idx + heading.length;
+  const itemRe = /^<h3>([\s\S]*?)<\/h3>\n<p>([\s\S]*?)<\/p>\n?/;
+  const items = [];
+  while (true) {
+    const rest = html.slice(pos);
+    const m = rest.match(itemRe);
+    if (!m) break;
+    items.push({ q: m[1], a: m[2] });
+    pos += m[0].length;
+  }
+  if (!items.length) return html;
+  const wrapped = '<div class="faq-list">\n' + items.map((it) => '<div class="faq-item">\n<h3>' + it.q + '</h3>\n<p>' + it.a + '</p>\n</div>').join('\n') + '\n</div>\n';
+  return html.slice(0, idx + heading.length) + wrapped + html.slice(pos);
+}
 function fill(tpl, vars) {
   let out = tpl;
   for (const [k, v] of Object.entries(vars)) out = out.split('%%' + k + '%%').join(v);
@@ -131,7 +149,7 @@ if (fs.existsSync(blogSrc)) {
   for (const f of fs.readdirSync(blogSrc).filter((x) => x.endsWith('.md'))) {
     const { meta, body } = parseFrontMatter(fs.readFileSync(path.join(blogSrc, f), 'utf8'));
     if (!meta.slug || meta.draft === 'true') continue;
-    posts.push({ ...meta, bodyHtml: mdToHtml(body), rawBody: body });
+    posts.push({ ...meta, bodyHtml: styleFaqSection(mdToHtml(body)), rawBody: body });
   }
 }
 posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
