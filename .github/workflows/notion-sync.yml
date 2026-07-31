@@ -47,7 +47,7 @@ jobs:
         if: steps.diff.outputs.changed == 'true'
         run: |
           mkdir -p _site
-          cp -r index.html assets admin content blog sitemap.xml robots.txt llms.txt _site/
+          cp -r index.html assets admin content blog sitemap.xml robots.txt llms.txt googlef676cce070b8ebee.html _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
         if: steps.diff.outputs.changed == 'true'
