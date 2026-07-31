@@ -10,6 +10,24 @@ let html = template;
 for (const [key, value] of Object.entries(content)) {
   html = html.split('@@' + key + '@@').join(value);
 }
+
+// Site settings (contact info) — optional file managed via CMS "Cài đặt chung"
+let settingsContactHtml = '';
+if (fs.existsSync('content/settings.json')) {
+  try {
+    const settings = JSON.parse(fs.readFileSync('content/settings.json', 'utf8'));
+    const parts = [];
+    if (settings.hotline) parts.push('<a href="tel:' + settings.hotline.replace(/[^0-9+]/g, '') + '">' + settings.hotline + '</a>');
+    if (settings.email) parts.push('<a href="mailto:' + settings.email + '">' + settings.email + '</a>');
+    if (settings.address) parts.push('<span style="display:block;color:rgba(255,255,255,.58);font-size:.86rem;margin:9px 0">' + settings.address + '</span>');
+    if (settings.workingHours) parts.push('<span style="display:block;color:rgba(255,255,255,.58);font-size:.86rem;margin:9px 0">' + settings.workingHours + '</span>');
+    if (settings.facebook) parts.push('<a href="' + settings.facebook + '" target="_blank" rel="noopener">Facebook</a>');
+    if (settings.zalo) parts.push('<a href="' + settings.zalo + '" target="_blank" rel="noopener">Zalo</a>');
+    settingsContactHtml = parts.join('');
+  } catch (e) { settingsContactHtml = ''; }
+}
+html = html.split('@@SETTINGS_CONTACT@@').join(settingsContactHtml);
+
 fs.writeFileSync('index.html', html);
 
 // Extract the shared header (announcement bar + nav) from the built homepage
