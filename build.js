@@ -63,6 +63,60 @@ function mdToHtml(md) {
   flush(); closeList();
   return out.join('\n');
 }
+function extractSection(body, headingRegex) {
+  const lines = body.split('\n');
+  let start = -1, end = lines.length;
+  for (let i = 0; i < lines.length; i++) {
+    if (start === -1 && headingRegex.test(lines[i])) { start = i + 1; continue; }
+    if (start !== -1 && /^##\s/.test(lines[i])) { end = i; break; }
+  }
+  if (start === -1) return null;
+  return lines.slice(start, end).join('\n');
+}
+function extractFaq(body) {
+  const section = extractSection(body, /^##\s*C\u00e2u h\u1ecfi th\u01b0\u1eddng g\u1eb7p/i);
+  if (!section) return [];
+  const faqs = [];
+  const lines = section.split('\n');
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i].trim();
+    let q = null;
+    const h3 = line.match(/^###\s+(.+)$/);
+    const bold = line.match(/^\*\*(.+)\*\*$/);
+    if (h3) q = h3[1].trim();
+    else if (bold) q = bold[1].trim();
+    if (q) {
+      let j = i + 1;
+      while (j < lines.length && lines[j].trim() === '') j++;
+      const ansLines = [];
+      while (j < lines.length && lines[j].trim() !== '') { ansLines.push(lines[j].trim()); j++; }
+      if (ansLines.length) faqs.push({ q, a: ansLines.join(' ') });
+      i = j;
+    } else { i++; }
+  }
+  return faqs;
+}
+function extractHowTo(body, name) {
+  const section = extractSection(body, /^##\s*Quy tr\u00ecnh/i);
+  if (!section) return null;
+  const stepRe = /^-\s+\*\*B\u01b0\u1edbc\s*\d+(?:\s*[\u2014-]\s*(.+?))?\*\*:\s*(.+)$/;
+  const steps = [];
+  for (const raw of section.split('\n')) {
+    const line = raw.trim();
+    const m = line.match(stepRe);
+    if (m) {
+      const title = (m[1] || '').trim();
+      const text = m[2].trim();
+      steps.push({ name: title || text.split(/[.,;\u2014]/)[0].slice(0, 60).trim(), text });
+    }
+  }
+  if (steps.length < 2) return null;
+  return { name, steps };
+}
+function jsonLd(obj) {
+  return JSON.stringify(obj).replace(/</g, '\\u003c');
+}
 function fill(tpl, vars) {
   let out = tpl;
   for (const [k, v] of Object.entries(vars)) out = out.split('%%' + k + '%%').join(v);
@@ -77,7 +131,7 @@ if (fs.existsSync(blogSrc)) {
   for (const f of fs.readdirSync(blogSrc).filter((x) => x.endsWith('.md'))) {
     const { meta, body } = parseFrontMatter(fs.readFileSync(path.join(blogSrc, f), 'utf8'));
     if (!meta.slug || meta.draft === 'true') continue;
-    posts.push({ ...meta, bodyHtml: mdToHtml(body) });
+    posts.push({ ...meta, bodyHtml: mdToHtml(body), rawBody: body });
   }
 }
 posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -87,6 +141,24 @@ fs.mkdirSync('blog', { recursive: true });
 for (const p of posts) {
   const dir = path.join('blog', p.slug);
   fs.mkdirSync(dir, { recursive: true });
+  let extraSchema = '';
+  const faqs = extractFaq(p.rawBody || '');
+  if (faqs.length) {
+    extraSchema += '<script type="application/ld+json">' + jsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+    }) + '</script>\n';
+  }
+  const howto = extractHowTo(p.rawBody || '', p.title || '');
+  if (howto) {
+    extraSchema += '<script type="application/ld+json">' + jsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'HowTo',
+      name: howto.name,
+      step: howto.steps.map((s) => ({ '@type': 'HowToStep', name: s.name, text: s.text })),
+    }) + '</script>\n';
+  }
   fs.writeFileSync(path.join(dir, 'index.html'), fill(postTpl, {
     HEADER: subHeader,
     TITLE: esc(p.title || ''),
@@ -95,6 +167,7 @@ for (const p of posts) {
     DATE_HUMAN: (p.date || '').split('-').reverse().join('/'),
     URL: SITE + '/blog/' + p.slug + '/',
     BODY: p.bodyHtml,
+    EXTRA_SCHEMA: extraSchema,
   }));
 }
 const items = posts.map((p) =>
