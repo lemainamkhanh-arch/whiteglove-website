@@ -7,6 +7,22 @@ site_url: https://whiteglove.vn
 media_folder: assets
 public_folder: /assets
 collections:
+  - name: blog
+    label: "Blog (SEO)"
+    folder: content/blog
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    editor: { preview: false }
+    fields:
+      - { name: title, label: "Tieu de bai viet", widget: string }
+      - { name: description, label: "Meta description", widget: text }
+      - { name: slug, label: "Slug (khong dau, gach ngang)", widget: string, hint: "vd: uy-thac-nhap-khau-la-gi" }
+      - { name: date, label: "Ngay dang", widget: date, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { name: keyword, label: "Tu khoa chinh", widget: string, required: false }
+      - { name: draft, label: "Draft (an bai, khong len site)", widget: boolean, default: false, required: false }
+      - { name: body, label: "Noi dung bai viet", widget: markdown }
   - name: site
     label: "Nội dung website"
     editor: { preview: false }
