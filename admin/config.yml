@@ -3,6 +3,7 @@ backend:
   repo: lemainamkhanh-arch/whiteglove-website
   branch: main
   base_url: https://sveltia-cms-auth.lemainamkhanh.workers.dev
+publish_mode: editorial_workflow
 site_url: https://whiteglove.vn
 media_folder: assets
 public_folder: /assets
@@ -23,225 +24,21 @@ collections:
       - { name: keyword, label: "Tu khoa chinh", widget: string, required: false }
       - { name: draft, label: "Draft (an bai, khong len site)", widget: boolean, default: false, required: false }
       - { name: body, label: "Noi dung bai viet", widget: markdown }
-  - name: site
-    label: "Nội dung website"
+  - name: settings
+    label: "Cài đặt chung"
     editor: { preview: false }
     files:
-      - name: content
-        label: "Toàn bộ text trên trang"
-        file: content/site.json
+      - name: contact
+        label: "Thông tin liên hệ"
+        file: content/settings.json
         format: json
         fields:
-          - { name: "t021", label: "White Glove Logistics Vietnam — giao hàng, lắp đặt và ủy ...", widget: text, required: false }
-          - { name: "t053", label: "White Glove Logistics Vietnam | Precision Delivery", widget: string, required: false }
-          - { name: "t038", label: "WHITE GLOVE LOGISTICS · TP.HCM · PREMIUM DELIVERY & INSTA...", widget: string, required: false }
-          - { name: "t199", label: "Báo giá", widget: string, required: false }
-          - { name: "t149", label: "Giao chuẩn xác.", widget: string, required: false }
-          - { name: "t137", label: "Đặt đúng vị trí.", widget: string, required: false }
-          - { name: "t006", label: "Dịch vụ giao hàng và lắp đặt cao cấp cho nội thất, dự án ...", widget: text, required: false }
-          - { name: "t138", label: "Khám phá dịch vụ", widget: string, required: false }
-          - { name: "t122", label: "Scheduled delivery", widget: string, required: false }
-          - { name: "t176", label: "Trained crew", widget: string, required: false }
-          - { name: "t192", label: "Photo POD", widget: string, required: false }
-          - { name: "t078", label: "Final mile, fully considered.", widget: string, required: false }
-          - { name: "t033", label: "Condition report · Site protection · Assembly · Placement...", widget: string, required: false }
-          - { name: "t165", label: "Room of Choice", widget: string, required: false }
-          - { name: "t123", label: "Đến đúng căn phòng", widget: string, required: false }
-          - { name: "t139", label: "Full White Glove", widget: string, required: false }
-          - { name: "t129", label: "Mở kiện & lắp đặt", widget: string, required: false }
-          - { name: "t150", label: "Project Control", widget: string, required: false }
-          - { name: "t101", label: "Nhiều site & milestone", widget: string, required: false }
-          - { name: "t140", label: "Chain of Custody", widget: string, required: false }
-          - { name: "t107", label: "Handoff có bằng chứng", widget: string, required: false }
-          - { name: "t077", label: "Order tracking · Live visibility", widget: string, required: false }
-          - { name: "t072", label: "Biết chính xác đơn hàng đang ở đâu.", widget: string, required: false }
-          - { name: "t014", label: "Nhập mã đơn để xem trạng thái thật của từng milestone — k...", widget: text, required: false }
-          - { name: "t177", label: "Tra cứu ngay", widget: string, required: false }
-          - { name: "t208", label: "Demo:", widget: string, required: false }
-          - { name: "t116", label: "(đang vận chuyển) ·", widget: string, required: false }
-          - { name: "t193", label: "(đã giao)", widget: string, required: false }
-          - { name: "t025", label: "Không tìm thấy mã đơn. Vui lòng kiểm tra lại mã hoặc liên...", widget: text, required: false }
-          - { name: "t194", label: "≤ 15 phút", widget: string, required: false }
-          - { name: "t124", label: "Cập nhật milestone", widget: string, required: false }
-          - { name: "t183", label: "Khung 3 giờ", widget: string, required: false }
-          - { name: "t184", label: "ETA cam kết", widget: string, required: false }
-          - { name: "t197", label: "100% đơn", widget: string, required: false }
-          - { name: "t209", label: "Tuyến", widget: string, required: false }
-          - { name: "t031", label: "Mỗi milestone kèm timestamp, owner và bằng chứng: ảnh · s...", widget: string, required: false }
-          - { name: "t085", label: "Imported design selection", widget: string, required: false }
-          - { name: "t166", label: "Những sản phẩm", widget: string, required: false }
-          - { name: "t102", label: "thường được nhập khẩu.", widget: string, required: false }
-          - { name: "t004", label: "Trọng tâm là designer furniture, modular seating, custom ...", widget: text, required: false }
-          - { name: "t108", label: "01 · SYSTEM FURNITURE", widget: string, required: false }
-          - { name: "t090", label: "Designer Shelving System", widget: string, required: false }
-          - { name: "t151", label: "Hệ kệ tùy chỉnh", widget: string, required: false }
-          - { name: "t178", label: "Custom crate", widget: string, required: false }
-          - { name: "t152", label: "Component check", widget: string, required: false }
-          - { name: "t117", label: "02 · ICONIC SEATING", widget: string, required: false }
-          - { name: "t153", label: "Sculptural Sofa", widget: string, required: false }
-          - { name: "t130", label: "Ghế sofa thiết kế", widget: string, required: false }
-          - { name: "t154", label: "Material review", widget: string, required: false }
-          - { name: "t118", label: "03 · MODULAR LOUNGE", widget: string, required: false }
-          - { name: "t155", label: "Modular Seating", widget: string, required: false }
-          - { name: "t167", label: "Hệ sofa module", widget: string, required: false }
-          - { name: "t179", label: "Module count", widget: string, required: false }
-          - { name: "t141", label: "Serial/photo POD", widget: string, required: false }
-          - { name: "t103", label: "04 · KITCHEN APPLIANCE", widget: string, required: false }
-          - { name: "t119", label: "Luxury Range Cooker", widget: string, required: false }
-          - { name: "t156", label: "Bếp nấu cao cấp", widget: string, required: false }
-          - { name: "t142", label: "Voltage/gas spec", widget: string, required: false }
-          - { name: "t168", label: "Crated freight", widget: string, required: false }
-          - { name: "t131", label: "Technical install", widget: string, required: false }
-          - { name: "t200", label: "01 — 04", widget: string, required: false }
-          - { name: "t023", label: "Đồng bộ từ database Sản phẩm nổi bật nhập khẩu · Danh mục...", widget: text, required: false }
-          - { name: "t143", label: "Đúng mức phục vụ", widget: string, required: false }
-          - { name: "t144", label: "cho đúng rủi ro.", widget: string, required: false }
-          - { name: "t011", label: "Ba tuyến dịch vụ chính — thiết kế theo sản phẩm, giá trị ...", widget: text, required: false }
-          - { name: "t016", label: "Giao theo khung giờ, đưa tận phòng, mở kiện, lắp đặt, pla...", widget: text, required: false }
-          - { name: "t169", label: "Nhận báo giá →", widget: string, required: false }
-          - { name: "t019", label: "Compliance, chứng từ, thuế & thông quan, vận tải quốc tế ...", widget: text, required: false }
-          - { name: "t110", label: "Yêu cầu assessment →", widget: string, required: false }
-          - { name: "t020", label: "Tìm nguồn, xác thực, thanh toán và đưa về tận phòng các m...", widget: text, required: false }
-          - { name: "t174", label: "Gửi yêu cầu →", widget: string, required: false }
-          - { name: "t111", label: "Furniture & Interior", widget: string, required: false }
-          - { name: "t035", label: "Không để sản phẩm cao cấp kết thúc bằng một lần giao thôn...", widget: string, required: false }
-          - { name: "t007", label: "Chúng tôi kết nối kho, showroom, công trình và khách hàng...", widget: text, required: false }
-          - { name: "t093", label: "Kiểm tra trước khi nhận", widget: string, required: false }
-          - { name: "t049", label: "Ảnh tình trạng, packaging, serial và hư hỏng có sẵn.", widget: string, required: false }
-          - { name: "t034", label: "Floor runner, blanket, corner guard và lối di chuyển đã t...", widget: string, required: false }
-          - { name: "t157", label: "Final placement", widget: string, required: false }
-          - { name: "t045", label: "Mở kiện, lắp ráp, leveling, bố trí và cleanup theo scope.", widget: string, required: false }
-          - { name: "t180", label: "How it works", widget: string, required: false }
-          - { name: "t104", label: "Một hành trình rõ ràng", widget: string, required: false }
-          - { name: "t086", label: "trước khi hàng di chuyển.", widget: string, required: false }
-          - { name: "t017", label: "Từng bước đều có đầu vào, owner và bằng chứng. Những job ...", widget: text, required: false }
-          - { name: "t201", label: "STEP 01", widget: string, required: false }
-          - { name: "t050", label: "Hiểu hàng hóa, access, timeline, crew và acceptance.", widget: string, required: false }
-          - { name: "t202", label: "STEP 02", widget: string, required: false }
-          - { name: "t055", label: "Condition report, packaging và bảo vệ công trình.", widget: string, required: false }
-          - { name: "t203", label: "STEP 03", widget: string, required: false }
-          - { name: "t132", label: "Deliver & Install", widget: string, required: false }
-          - { name: "t064", label: "ETA chủ động, placement và setup theo scope.", widget: string, required: false }
-          - { name: "t204", label: "STEP 04", widget: string, required: false }
-          - { name: "t057", label: "Ảnh, checklist, serial, chữ ký và exception log.", widget: string, required: false }
-          - { name: "t133", label: "Project Logistics", widget: string, required: false }
-          - { name: "t046", label: "Delivery control tower cho những dự án nhiều chuyển động.", widget: string, required: false }
-          - { name: "t012", label: "Fit-out, hospitality và retail rollout cần hàng, site, in...", widget: text, required: false }
-          - { name: "t206", label: "1 plan", widget: string, required: false }
-          - { name: "t109", label: "cho mọi vendor & crew", widget: string, required: false }
-          - { name: "t112", label: "exception management", widget: string, required: false }
-          - { name: "t094", label: "acceptance & punch list", widget: string, required: false }
-          - { name: "t120", label: "POD & daily summary", widget: string, required: false }
-          - { name: "t095", label: "Gửi BOQ / Delivery Plan", widget: string, required: false }
-          - { name: "t058", label: "Một đầu mối từ supplier đến đúng vị trí sử dụng.", widget: string, required: false }
-          - { name: "t001", label: "White Glove kết nối compliance, chứng từ, thông quan, vận...", widget: text, required: false }
-          - { name: "t145", label: "Item eligibility", widget: string, required: false }
-          - { name: "t032", label: "Rà soát mô tả, vật liệu, xuất xứ, HS dự kiến và chính sác...", widget: string, required: false }
-          - { name: "t113", label: "Commercial & customs", widget: string, required: false }
-          - { name: "t029", label: "Contract, Incoterms, invoice, packing list, C/O, thuế và ...", widget: string, required: false }
-          - { name: "t083", label: "International to final mile", widget: string, required: false }
-          - { name: "t028", label: "Booking, insurance, customs coordination, QC, White Glove...", widget: string, required: false }
-          - { name: "t105", label: "Yêu cầu XNK assessment", widget: string, required: false }
-          - { name: "t189", label: "Industries", widget: string, required: false }
-          - { name: "t158", label: "Một tiêu chuẩn.", widget: string, required: false }
-          - { name: "t159", label: "Nhiều bối cảnh.", widget: string, required: false }
-          - { name: "t010", label: "Chúng tôi không áp một checklist cho mọi ngành. Service l...", widget: text, required: false }
-          - { name: "t125", label: "Furniture & Retail", widget: string, required: false }
-          - { name: "t036", label: "White-label delivery và trải nghiệm nhất quán đến nhà khá...", widget: string, required: false }
-          - { name: "t126", label: "Interior & Fit-out", widget: string, required: false }
-          - { name: "t054", label: "Consolidation, staging và delivery theo room/zone.", widget: string, required: false }
-          - { name: "t185", label: "Hospitality", widget: string, required: false }
-          - { name: "t059", label: "Phased delivery cho phòng, villa và public area.", widget: string, required: false }
-          - { name: "t106", label: "Luxury Appliances & AV", widget: string, required: false }
-          - { name: "t065", label: "Delivery, placement và technical acceptance.", widget: string, required: false }
-          - { name: "t096", label: "Office & Retail Rollout", widget: string, required: false }
-          - { name: "t052", label: "Dedicated crew, multi-site scheduling và reporting.", widget: string, required: false }
-          - { name: "t043", label: "Kiểm tra mặt hàng, chứng từ, thông quan và giao hàng cao ...", widget: string, required: false }
-          - { name: "t084", label: "Quality, safety & insurance", widget: string, required: false }
-          - { name: "t074", label: "Sự cẩn trọng phải nhìn thấy được.", widget: string, required: false }
-          - { name: "t008", label: "Chất lượng không phải một lời hứa chung chung. Nó là trai...", widget: text, required: false }
-          - { name: "t181", label: "TRAINED CREW", widget: string, required: false }
-          - { name: "t067", label: "Handling, protection, etiquette và POD.", widget: string, required: false }
-          - { name: "t186", label: "SITE SAFETY", widget: string, required: false }
-          - { name: "t075", label: "JHA, PPE và quyền dừng công việc.", widget: string, required: false }
-          - { name: "t195", label: "TRACEABLE", widget: string, required: false }
-          - { name: "t070", label: "Ảnh, serial, seal và custody handoff.", widget: string, required: false }
-          - { name: "t187", label: "RISK REVIEW", widget: string, required: false }
-          - { name: "t068", label: "Coverage theo scope và declared value.", widget: string, required: false }
-          - { name: "t134", label: "About White Glove", widget: string, required: false }
-          - { name: "t097", label: "Bạn luôn biết chính xác", widget: string, required: false }
-          - { name: "t079", label: "món hàng của mình đang ở đâu.", widget: string, required: false }
-          - { name: "t003", label: "Mỗi đơn hàng có một mã tra cứu riêng. Từ lúc rời kho đến ...", widget: text, required: false }
-          - { name: "t098", label: "Theo dõi thời gian thực", widget: string, required: false }
-          - { name: "t022", label: "Vị trí xe và trạng thái đơn cập nhật liên tục — bạn nhận ...", widget: text, required: false }
-          - { name: "t099", label: "Minh bạch bằng hình ảnh", widget: string, required: false }
-          - { name: "t013", label: "Bộ ảnh hiện trạng chụp khi nhận hàng, trước khi giao và l...", widget: text, required: false }
-          - { name: "t100", label: "Bằng chứng giao nhận số", widget: string, required: false }
-          - { name: "t015", label: "Chữ ký POD điện tử, giờ giao thực tế và biên bản nghiệm t...", widget: text, required: false }
-          - { name: "t073", label: "Thử chúng tôi với một đơn hàng khó", widget: string, required: false }
-          - { name: "t135", label: "Partner ecosystem", widget: string, required: false }
-          - { name: "t066", label: "Cùng tạo nên một trải nghiệm không đứt gãy.", widget: string, required: false }
-          - { name: "t005", label: "White Glove hợp tác với những đơn vị cùng coi trọng chất ...", widget: text, required: false }
-          - { name: "t160", label: "01 · Commercial", widget: string, required: false }
-          - { name: "t091", label: "Showroom & Luxury Brands", widget: string, required: false }
-          - { name: "t027", label: "White-label delivery, import coordination và trải nghiệm ...", widget: string, required: false }
-          - { name: "t188", label: "02 · Design", widget: string, required: false }
-          - { name: "t080", label: "Architects & Interior Studios", widget: string, required: false }
-          - { name: "t044", label: "Delivery planning theo room, material và milestone của dự...", widget: string, required: false }
-          - { name: "t190", label: "03 · Trade", widget: string, required: false }
-          - { name: "t081", label: "Global Suppliers & Forwarders", widget: string, required: false }
-          - { name: "t030", label: "Chứng từ, booking, handoff và visibility xuyên suốt hành ...", widget: string, required: false }
-          - { name: "t170", label: "04 · Execution", widget: string, required: false }
-          - { name: "t082", label: "Installers & Specialist Crews", widget: string, required: false }
-          - { name: "t041", label: "Qualification, method statement và nghiệm thu theo đúng s...", widget: string, required: false }
-          - { name: "t071", label: "Một tiêu chuẩn chung cho mọi handoff.", widget: string, required: false }
-          - { name: "t002", label: "Đối tác được onboarding theo capability, coverage, bảo hi...", widget: text, required: false }
-          - { name: "t161", label: "Đề xuất hợp tác", widget: string, required: false }
-          - { name: "t048", label: "Showroom · Supplier · Designer · Forwarder · Installer", widget: string, required: false }
-          - { name: "t162", label: "Request a quote", widget: string, required: false }
-          - { name: "t060", label: "Cho chúng tôi đủ dữ liệu để lập kế hoạch đúng.", widget: string, required: false }
-          - { name: "t009", label: "Job high-value, technical, oversized hoặc access chưa rõ ...", widget: text, required: false }
-          - { name: "t171", label: "Thông tin hàng", widget: string, required: false }
-          - { name: "t069", label: "Ảnh, kích thước, trọng lượng, giá trị.", widget: string, required: false }
-          - { name: "t146", label: "Thông tin access", widget: string, required: false }
-          - { name: "t061", label: "Floor, lift, stairs, loading bay và placement.", widget: string, required: false }
-          - { name: "t163", label: "Scope mong muốn", widget: string, required: false }
-          - { name: "t063", label: "Unpacking, assembly, installation và cleanup.", widget: string, required: false }
-          - { name: "t207", label: "Họ tên", widget: string, required: false }
-          - { name: "t191", label: "Điện thoại", widget: string, required: false }
-          - { name: "t172", label: "Ngày mong muốn", widget: string, required: false }
-          - { name: "t196", label: "Mô tả job", widget: string, required: false }
-          - { name: "t121", label: "Gửi yêu cầu báo giá", widget: string, required: false }
-          - { name: "t024", label: "Bằng việc gửi form, bạn đồng ý để White Glove sử dụng thô...", widget: text, required: false }
-          - { name: "t026", label: "Đã ghi nhận yêu cầu mẫu. Trong website thật, dữ liệu sẽ đ...", widget: text, required: false }
-          - { name: "t040", label: "Premium delivery, installation và project logistics tại T...", widget: string, required: false }
-          - { name: "t114", label: "Chất lượng & an toàn", widget: string, required: false }
-          - { name: "t175", label: "Ngành phục vụ", widget: string, required: false }
-          - { name: "t205", label: "Liên hệ", widget: string, required: false }
-          - { name: "t147", label: "Tra cứu đơn hàng", widget: string, required: false }
-          - { name: "t182", label: "Partnerships", widget: string, required: false }
-          - { name: "t127", label: "Operations support", widget: string, required: false }
-          - { name: "t148", label: "TP.HCM, Việt Nam", widget: string, required: false }
-          - { name: "t062", label: "© 2026 White Glove Logistics. Concept website.", widget: string, required: false }
-          - { name: "t087", label: "Privacy · Terms · Cookies", widget: string, required: false }
-          - { name: "t088", label: "Toàn bộ đơn hàng của bạn,", widget: string, required: false }
-          - { name: "t136", label: "trong một cửa sổ.", widget: string, required: false }
-          - { name: "t037", label: "Không cần gọi điện để biết hàng đang ở đâu. Đăng nhập là ...", widget: string, required: false }
-          - { name: "t042", label: "Trạng thái live từng milestone, kèm timestamp và đội phụ ...", widget: string, required: false }
-          - { name: "t051", label: "Bộ ảnh hiện trạng, biên bản nghiệm thu và chữ ký POD", widget: string, required: false }
-          - { name: "t056", label: "Chứng từ nhập khẩu, tờ khai và lịch sử thanh toán", widget: string, required: false }
-          - { name: "t047", label: "Đặt lịch giao, đổi khung giờ và yêu cầu lắp đặt bổ sung", widget: string, required: false }
-          - { name: "t039", label: "Dành cho khách hàng và đối tác đang có hợp đồng với White...", widget: string, required: false }
-          - { name: "t092", label: "Email hoặc mã khách hàng", widget: string, required: false }
-          - { name: "t198", label: "Mật khẩu", widget: string, required: false }
-          - { name: "t115", label: "Ghi nhớ thiết bị này", widget: string, required: false }
-          - { name: "t173", label: "Quên mật khẩu?", widget: string, required: false }
-          - { name: "t128", label: "Chưa có tài khoản?", widget: string, required: false }
-          - { name: "t089", label: "Yêu cầu mở quyền truy cập", widget: string, required: false }
-          - { name: "t076", label: "Chỉ cần tra cứu nhanh một mã đơn?", widget: string, required: false }
-          - { name: "t164", label: "Tra cứu vận đơn", widget: string, required: false }
-          - { name: "t018", label: "Phiên đăng nhập được mã hóa và tự đóng sau 30 phút không ...", widget: text, required: false }
-
+          - { name: hotline, label: "Hotline (số điện thoại)", widget: string, required: false, hint: "Hiện ở footer khi có giá trị; để trống nếu chưa muốn công khai" }
+          - { name: email, label: "Email liên hệ", widget: string, required: false }
+          - { name: address, label: "Địa chỉ / khu vực phục vụ", widget: string, required: false }
+          - { name: workingHours, label: "Giờ làm việc", widget: string, required: false }
+          - { name: facebook, label: "Link Facebook Fanpage", widget: string, required: false }
+          - { name: zalo, label: "Link/số Zalo", widget: string, required: false }
   - name: notionplan
     label: "Kế hoạch Notion"
     files:
