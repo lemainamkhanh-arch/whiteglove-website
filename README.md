@@ -5,19 +5,29 @@ Website tĩnh cho **whiteglove.vn** — dịch vụ giao hàng & lắp đặt ca
 ## Cấu trúc
 
 ```
-index.html      # Toàn bộ trang (HTML + CSS + JS inline)
-assets/         # 14 ảnh JPEG (img-01 → img-14)
+template.html      # Khung HTML (KHÔNG sửa text ở đây)
+content/site.json  # Toàn bộ text hiển thị (209 trường) — sửa ở đây hoặc qua /admin
+build.js           # Ghép template + content → index.html
+index.html         # File build ra (không sửa tay)
+assets/            # 14 ảnh JPEG
+admin/             # Sveltia CMS — giao diện quản trị tại /admin
 ```
 
-## Chỉnh sửa
+## Sửa nội dung
 
-Sửa trực tiếp `index.html` trên GitHub (nút ✏️ Edit). Ảnh tham chiếu theo đường dẫn tương đối `assets/img-XX.jpg` — thay ảnh thì upload đè cùng tên file.
+- **Qua admin panel**: vào `whiteglove.vn/admin`, đăng nhập GitHub, sửa text / thay ảnh → CMS tự commit → site tự deploy.
+- **Qua GitHub**: sửa `content/site.json` (text) hoặc upload đè ảnh cùng tên trong `assets/`.
 
 ## Deploy (Cloudflare Pages)
 
-1. Cloudflare Dashboard → **Workers & Pages** → **Create** → **Pages** → **Connect to Git** → chọn repo này
-2. Build settings: không cần build command, output directory = `/` (root)
-3. **Custom domains** → thêm `whiteglove.vn` (và `www.whiteglove.vn`)
-4. Trỏ DNS/nameserver của domain tại nhà đăng ký .vn theo hướng dẫn của Cloudflare
+1. Workers & Pages → Create → Pages → Connect to Git → chọn repo này
+2. Build command: `node build.js` — Output directory: `/` (root)
+3. Custom domains: thêm `whiteglove.vn` + `www.whiteglove.vn`, trỏ DNS theo hướng dẫn
 
-Sau khi kết nối, mỗi commit lên `main` sẽ tự động deploy.
+## Kích hoạt đăng nhập admin (làm 1 lần)
+
+1. GitHub → Settings → Developer settings → **OAuth Apps** → New OAuth App
+   - Homepage: `https://whiteglove.vn`
+   - Callback URL: `https://<auth-worker>.workers.dev/callback`
+2. Deploy [sveltia-cms-auth](https://github.com/sveltia/sveltia-cms-auth) lên Cloudflare Workers (nút Deploy 1-click trong repo đó), điền `GITHUB_CLIENT_ID` + `GITHUB_CLIENT_SECRET`
+3. Sửa `admin/config.yml` → `base_url:` = URL của Worker vừa deploy
