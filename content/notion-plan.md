@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-07-31T10:58:25.169Z"
+updated: "2026-07-31T12:31:46.322Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
@@ -20,12 +20,9 @@ updated: "2026-07-31T10:58:25.169Z"
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
-## Đã duyệt (1)
-
-- Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao
-
-## Đã publish (3)
+## Đã publish (4)
 
 - Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — [https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/)
+- Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — [https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/](https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/)
 - Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — [https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/)
 - White Glove Delivery là gì? Khi nào bạn thật sự cần dịch vụ này — [https://whiteglove.vn/blog/white-glove-delivery-la-gi/](https://whiteglove.vn/blog/white-glove-delivery-la-gi/)
