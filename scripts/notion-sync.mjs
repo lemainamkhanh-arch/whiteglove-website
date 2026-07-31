@@ -37,9 +37,28 @@ const rt = arr => (arr || []).map(t => {
 const slugify = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D')
   .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80);
 
-async function blocksToMarkdown(blockId) {
+async function downloadImage(url, slug, idx) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok) { console.log('IMG HTTP ' + res.status + ' (' + slug + '-' + idx + ')'); return null; }
+    const buf = Buffer.from(await res.arrayBuffer());
+    const ct = (res.headers.get('content-type') || '').toLowerCase();
+    let ext = '';
+    const clean = url.split('?')[0].toLowerCase();
+    const dot = clean.lastIndexOf('.');
+    if (dot !== -1) { const cand = clean.slice(dot + 1); if (['png', 'jpg', 'jpeg', 'webp', 'gif', 'avif', 'svg'].includes(cand)) ext = cand; }
+    if (!ext) ext = ct.includes('png') ? 'png' : ct.includes('webp') ? 'webp' : ct.includes('gif') ? 'gif' : ct.includes('svg') ? 'svg' : ct.includes('avif') ? 'avif' : (ct.includes('jpeg') || ct.includes('jpg')) ? 'jpg' : 'png';
+    if (ext === 'jpeg') ext = 'jpg';
+    fs.mkdirSync('assets/blog', { recursive: true });
+    const rel = 'assets/blog/' + slug + '-' + idx + '.' + ext;
+    fs.writeFileSync(rel, buf);
+    return '/' + rel;
+  } catch (e) { console.log('IMG download failed (' + slug + '-' + idx + '): ' + e.message); return null; }
+}
+
+async function blocksToMarkdown(blockId, slug) {
   const lines = [];
-  let cursor, prevList = false;
+  let cursor, prevList = false, imgIdx = 0;
   do {
     const data = await api('/blocks/' + blockId + '/children?page_size=100' + (cursor ? '&start_cursor=' + cursor : ''));
     for (const b of data.results) {
@@ -51,7 +70,7 @@ async function blocksToMarkdown(blockId) {
       else if (t === 'heading_3') { lines.push('### ' + plain(v.rich_text)); lines.push(''); }
       else if (isList) { lines.push('- ' + rt(v.rich_text)); }
       else if (t === 'quote' || t === 'callout') { lines.push('> ' + rt(v.rich_text)); lines.push(''); }
-      else if (t === 'image') { const u = v.type === 'external' ? v.external.url : (v.file || {}).url; if (u) { lines.push('![' + plain(v.caption) + '](' + u + ')'); lines.push(''); } }
+      else if (t === 'image') { const u = v.type === 'external' ? v.external.url : (v.file || {}).url; if (u) { imgIdx++; const local = slug ? await downloadImage(u, slug, imgIdx) : null; lines.push('![' + plain(v.caption) + '](' + (local || u) + ')'); lines.push(''); } }
       prevList = isList;
     }
     cursor = data.has_more ? data.next_cursor : null;
@@ -84,7 +103,7 @@ async function main() {
     const title = titleOf(page);
     const slug = (textOf(page, P_SLUG).replace(/^\/?(blog\/)?/, '').replace(/\//g, '').trim()) || slugify(title);
     let body;
-    try { body = await blocksToMarkdown(page.id); }
+    try { body = await blocksToMarkdown(page.id, slug); }
     catch (e) { console.log('SKIP "' + title + '": cannot read page body — ' + e.message); continue; }
     if (body.trim().length < 200) { console.log('SKIP "' + title + '": page body qua ngan — hay viet noi dung day du trong Notion truoc.'); continue; }
     const desc = textOf(page, P_DESC).trim() || body.replace(/[#>*`!\[\]()-]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 155);
