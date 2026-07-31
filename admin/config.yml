@@ -2,7 +2,7 @@ backend:
   name: github
   repo: lemainamkhanh-arch/whiteglove-website
   branch: main
-  base_url: https://whiteglove-cms-auth.namkhanh.workers.dev
+  base_url: https://sveltia-cms-auth.lemainamkhanh.workers.dev
 site_url: https://whiteglove.vn
 media_folder: assets
 public_folder: /assets
