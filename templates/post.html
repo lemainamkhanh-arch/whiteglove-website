@@ -25,7 +25,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Be+Vietnam+Pro:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--ink:#1d1b18;--muted:#716d65;--line:#ded9cf;--paper:#fcfbf8;--gold:#b18a52}
+:root{--ink:#1d1b18;--muted:#716d65;--line:#ded9cf;--paper:#fcfbf8;--gold:#b18a52;--blue:#8b6a3d;--blue-soft:#f2eadc;--deep:#161513}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:'Be Vietnam Pro',sans-serif;line-height:1.75}
 header{border-bottom:1px solid var(--line);padding:18px 24px}
 header a{font-family:Montserrat,sans-serif;font-weight:700;letter-spacing:.12em;font-size:13px;color:var(--ink);text-decoration:none}
@@ -41,10 +41,24 @@ article a{color:var(--gold)}
 .cta{margin-top:48px;padding:24px;background:#f2eadc;border-radius:8px}
 .cta a{display:inline-block;margin-top:8px;background:var(--ink);color:#fff;text-decoration:none;padding:10px 22px;border-radius:6px;font-size:14px}
 footer{border-top:1px solid var(--line);padding:24px;text-align:center;color:var(--muted);font-size:13px}
+
+.topline{background:var(--deep);color:#fff;font-size:.62rem;font-weight:600;text-align:center;padding:10px 16px;letter-spacing:.2em;text-transform:uppercase}
+.nav{height:76px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;background:rgba(255,255,255,.92);backdrop-filter:blur(18px);border-bottom:1px solid rgba(231,229,225,.85);z-index:50;padding:0 max(24px,calc((100vw - 1120px)/2))}
+.brand{display:flex;align-items:center;gap:11px;font-weight:800;letter-spacing:-.03em}
+.brand-logo{height:30px;width:auto;display:block}
+.navlinks{display:flex;gap:24px;align-items:center;font-size:.9rem;font-weight:650}
+.navlinks a{color:var(--ink);text-decoration:none}
+.navlinks a:not(.btn):hover{color:var(--blue)}
+.nav-login{display:inline-flex;align-items:center;gap:6px}
+.nav .btn{display:inline-flex;align-items:center;justify-content:center;min-height:42px;border:1px solid transparent;border-radius:6px;padding:0 20px;font-weight:750;cursor:pointer;transition:.2s ease;text-decoration:none}
+.nav .btn.primary{background:var(--ink);color:#fff}
+.nav .btn.primary:hover{background:var(--blue)}
+.menu{display:none;background:transparent;border:0;font-size:1.4rem;cursor:pointer}
+@media(max-width:900px){.navlinks{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;padding:20px 24px;border-bottom:1px solid var(--line);flex-direction:column;align-items:flex-start;gap:16px}.navlinks.open{display:flex}.menu{display:block}}
 </style>
 </head>
 <body>
-<header><a href="/">WHITE GLOVE <span>LOGISTICS</span></a></header>
+%%HEADER%%
 <main>
 <p class="meta"><a href="/blog/" style="color:inherit">← Blog</a> · %%DATE_HUMAN%%</p>
 <h1>%%TITLE%%</h1>

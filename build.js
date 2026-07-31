@@ -12,6 +12,18 @@ for (const [key, value] of Object.entries(content)) {
 }
 fs.writeFileSync('index.html', html);
 
+// Extract the shared header (announcement bar + nav) from the built homepage
+// so blog/post pages always show the exact same header as the homepage.
+const navMatch = html.match(/<div class="topline">[\s\S]*?<\/nav>/);
+let subHeader = '';
+if (navMatch) {
+  subHeader = navMatch[0]
+    .split('href="#').join('href="/#')
+    .split('<a href="/blog/">Blog</a>').join('<a href="/blog/" style="color:var(--blue)" aria-current="page">Blog</a>');
+  subHeader += '<script>(function(){var m=document.querySelector(".menu"),l=document.querySelector(".navlinks");if(!m||!l)return;m.addEventListener("click",function(){var o=l.classList.toggle("open");m.setAttribute("aria-expanded",o)});l.querySelectorAll("a").forEach(function(a){a.addEventListener("click",function(){l.classList.remove("open")})});})();</script>';
+}
+
+
 // 2) Blog: markdown posts -> static pages
 function parseFrontMatter(src) {
   const m = src.match(/^---\n([\s\S]*?)\n---\n?/);
@@ -76,6 +88,7 @@ for (const p of posts) {
   const dir = path.join('blog', p.slug);
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, 'index.html'), fill(postTpl, {
+    HEADER: subHeader,
     TITLE: esc(p.title || ''),
     DESCRIPTION: esc(p.description || ''),
     DATE: p.date || '',
@@ -88,7 +101,7 @@ const items = posts.map((p) =>
   '<li><a href="/blog/' + p.slug + '/"><span class="d">' + (p.date || '').split('-').reverse().join('/') +
   '</span><span class="t">' + esc(p.title || '') + '</span><span class="s">' + esc(p.description || '') + '</span></a></li>'
 ).join('\n');
-fs.writeFileSync('blog/index.html', fill(blogTpl, { ITEMS: items || '<li>Bài viết đang được cập nhật…</li>' }));
+fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, ITEMS: items || '<li>Bài viết đang được cập nhật…</li>' }));
 
 // 3) sitemap.xml
 const today = new Date().toISOString().slice(0, 10);
