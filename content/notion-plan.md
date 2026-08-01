@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-01T14:51:17.567Z"
+updated: "2026-08-01T15:50:54.947Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
