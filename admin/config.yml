@@ -16,6 +16,8 @@ collections:
     extension: md
     format: frontmatter
     editor: { preview: false }
+    media_folder: "/assets/blog/{{slug}}"
+    public_folder: "/assets/blog/{{slug}}"
     fields:
       - { name: title, label: "Tieu de bai viet", widget: string }
       - { name: description, label: "Meta description", widget: text }
