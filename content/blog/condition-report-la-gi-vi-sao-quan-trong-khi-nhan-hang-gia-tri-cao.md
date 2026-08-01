@@ -7,7 +7,7 @@ keyword: "condition report là gì? vì sao quan trọng khi nhận hàng giá t
 draft: false
 ---
 
-![Minh hoạ lập condition report khi nhận hàng giá trị cao](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-1.png)
+![Minh hoạ lập condition report khi nhận hàng giá trị cao](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-1.png)
 
 **Trả lời nhanh:** Condition report (biên bản tình trạng hàng hóa) là hồ sơ ghi lại chi tiết tình trạng vật lý của một món hàng — bằng ảnh, mô tả và đôi khi cả số serial — tại hai thời điểm: trước khi vận chuyển và sau khi giao. Nó là bằng chứng pháp lý để xác định trách nhiệm nếu hàng bị hư hỏng trong quá trình vận chuyển.
 

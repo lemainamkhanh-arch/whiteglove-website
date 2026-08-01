@@ -7,7 +7,7 @@ keyword: "white glove delivery là gì? khi nào bạn thật sự cần dịch 
 draft: false
 ---
 
-![Minh hoạ dịch vụ white glove delivery giao và lắp đặt nội thất cao cấp](/assets/blog/white-glove-delivery-la-gi-1.png)
+![Minh hoạ dịch vụ white glove delivery giao và lắp đặt nội thất cao cấp](/assets/blog/white-glove-delivery-la-gi/white-glove-delivery-la-gi-1.png)
 
 Nếu bạn từng mua một món nội thất nhập khẩu vài trăm triệu, một cây đàn piano, hay một thiết bị y tế tinh vi — bạn sẽ hiểu cảm giác hồi hộp khi xe giao hàng đến trước cửa. **White glove delivery** sinh ra để loại bỏ đúng cảm giác đó.
 
