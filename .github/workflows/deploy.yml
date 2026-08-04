@@ -30,7 +30,7 @@ jobs:
       - name: Assemble _site
         run: |
           mkdir -p _site
-          cp -r index.html assets admin content blog sitemap.xml robots.txt llms.txt googlef676cce070b8ebee.html _site/
+          cp -r index.html assets admin content blog sitemap.xml robots.txt llms.txt googlef676cce070b8ebee.html favicon.ico favicon-16x16.png favicon-32x32.png favicon-48x48.png favicon-192x192.png favicon-512x512.png apple-touch-icon.png _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
