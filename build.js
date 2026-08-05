@@ -11,7 +11,7 @@ for (const [key, value] of Object.entries(content)) {
   html = html.split('@@' + key + '@@').join(value);
 }
 
-// Site settings (contact info) — optional file managed via CMS "Cài đặt chung"
+// Site settings (contact info) – optional file managed via CMS "Cài đặt chung"
 let settingsContactHtml = '';
 if (fs.existsSync('content/settings.json')) {
   try {
@@ -38,7 +38,7 @@ if (navMatch) {
   subHeader = navMatch[0]
     .split('href="#').join('href="/#')
     .split('<a href="/blog/">Blog</a>').join('<a href="/blog/" style="color:var(--blue)" aria-current="page">Blog</a>');
-  subHeader += '<script>(function(){var m=document.querySelector(".menu"),l=document.querySelector(".navlinks");if(!m||!l)return;m.addEventListener("click",function(){var o=l.classList.toggle("open");m.setAttribute("aria-expanded",o)});l.querySelectorAll("a").forEach(function(a){a.addEventListener("click",function(){l.classList.remove("open")})});})();</script>';
+  subHeader += '<script>(function(){var m=document.querySelector(".menu"),l=document.querySelector(".navlinks");if(!m||!l)return;m.addEventListener("click",function(){var o=l.classList.toggle("open");m.setAttribute("aria-expanded",o)});l.querySelectorAll("a").forEach(function(a){a.addEventListener("click",function(){l.classList.remove("open")})})})();</script>';
 }
 
 
@@ -92,7 +92,7 @@ function extractSection(body, headingRegex) {
   return lines.slice(start, end).join('\n');
 }
 function extractFaq(body) {
-  const section = extractSection(body, /^##\s*C\u00e2u h\u1ecfi th\u01b0\u1eddng g\u1eb7p/i);
+  const section = extractSection(body, /^##\s*C\u00e2u h\u1ecfi th\u01b0\u1edd\ng g\u1eb7p/i);
   if (!section) return [];
   const faqs = [];
   const lines = section.split('\n');
@@ -118,7 +118,7 @@ function extractFaq(body) {
 function extractHowTo(body, name) {
   const section = extractSection(body, /^##\s*Quy tr\u00ecnh/i);
   if (!section) return null;
-  const stepRe = /^-\s+\*\*B\u01b0\u1edbc\s*\d+(?:\s*[\u2014-]\s*(.+?))?\*\*:\s*(.+)$/;
+  const stepRe = /^-\s*\*\*B\u01b0\u1edbc\s*\d+(?:\s*[\u2014-]\s*(.+?))?\*\*:\s*(.+)$/;
   const steps = [];
   for (const raw of section.split('\n')) {
     const line = raw.trim();
@@ -136,7 +136,7 @@ function jsonLd(obj) {
   return JSON.stringify(obj).replace(/</g, '\\u003c');
 }
 function styleFaqSection(html) {
-  const heading = '<h2>C\u00e2u h\u1ecfi th\u01b0\u1eddng g\u1eb7p</h2>\n';
+  const heading = '<h2>C\u00e2u h\u1ecfi th\u01b0\u1edbng g\u1eb7p</h2>\n';
   const idx = html.indexOf(heading);
   if (idx === -1) return html;
   let pos = idx + heading.length;
@@ -172,4 +172,75 @@ if (fs.existsSync(blogSrc)) {
 }
 posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
-fs.rmSync('blng', { recursive: true, force: true });
+fs.rmSync('blog', { recursive: true, force: true });
+fs.mkdirSync('blog', { recursive: true });
+for (const p of posts) {
+  const dir = path.join('blog', p.slug);
+  fs.mkdirSync(dir, { recursive: true });
+  let extraSchema = '';
+  const faqs = extractFaq(p.rawBody || '');
+  if (faqs.length) {
+    extraSchema += '<script type="application/ld+json">' + jsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+    }) + '</script>\n';
+  }
+  const howto = extractHowTo(p.rawBody || '', p.title || '');
+  if (howto) {
+    extraSchema += '<script type="application/ld+json">' + jsonLd({
+      '@context': 'https://schema.org',
+      '@type': 'HowTo',
+      name: howto.name,
+      step: howto.steps.map((s) => ({ '@type': 'HowToStep', name: s.name, text: s.text })),
+    }) + '</script>\n';
+  }
+  fs.writeFileSync(path.join(dir, 'index.html'), fill(postTpl, {
+    HEADER: subHeader,
+    TITLE: esc(p.title || ''),
+    DESCRIPTION: esc(p.description || ''),
+    DATE: p.date || '',
+    DATE_HUMAN: (p.date || '').split('-').reverse().join('/'),
+    URL: SITE + '/blog/' + p.slug + '/',
+    BODY: p.bodyHtml,
+    EXTRA_SCHEMA: extraSchema,
+  }));
+}
+
+function thumbOf(p) {
+  const im = (p.rawBody || '').match(/!\[[^\]]*\]\(([^)]+)\)/);
+  return im ? im[1] : '';
+}
+
+const [featuredPost, ...restPosts] = posts;
+let featuredHtml = '';
+if (featuredPost) {
+  const thumbUrl = thumbOf(featuredPost);
+  const thumb = thumbUrl ? '<span class="fth"><img src="' + thumbUrl + '" alt="" loading="lazy"></span>' : '';
+  featuredHtml = '<a class="featured" href="/blog/' + featuredPost.slug + '/">' + thumb +
+    '<span class="fd">' + (featuredPost.date || '').split('-').reverse().join('/') + '</span>' +
+    '<span class="ft">' + esc(featuredPost.title || '') + '</span>' +
+    '<span class="fs">' + esc(featuredPost.description || '') + '</span></a>';
+}
+
+const items = restPosts.map((p) => {
+  const thumbUrl = thumbOf(p);
+  const thumb = thumbUrl ? '<span class="th"><img src="' + thumbUrl + '" alt="" loading="lazy"></span>' : '';
+  return '<li><a href="/blog/' + p.slug + '/">' + thumb + '<span class="tx"><span class="d">' + (p.date || '').split('-').reverse().join('/') +
+  '</span><span class="t">' + esc(p.title || '') + '</span><span class="s">' + esc(p.description || '') + '</span></span></a></li>';
+}).join('\n');
+fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, FEATURED: featuredHtml, ITEMS: items || (featuredPost ? '' : '<li>B\u00e0i vi\u1ebft \u0111ang \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt\u2026</li>') }));
+
+// 3) sitemap.xml
+const today = new Date().toISOString().slice(0, 10);
+const urls = [
+  { loc: SITE + '/', lastmod: today, priority: '1.0' },
+  { loc: SITE + '/blog/', lastmod: today, priority: '0.6' },
+  ...posts.map((p) => ({ loc: SITE + '/blog/' + p.slug + '/', lastmod: p.date || today, priority: '0.7' })),
+];
+fs.writeFileSync('sitemap.xml',
+  '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+  urls.map((u) => '  <url><loc>' + u.loc + '</loc><lastmod>' + u.lastmod + '</lastmod><priority>' + u.priority + '</priority></url>').join('\n') +
+  '\n</urlset>\n');
+
+console.log('Built: index.html, ' + posts.length + ' blog post(s), blog/index.html, sitemap.xml');
