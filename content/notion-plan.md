@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-05T16:52:26.605Z"
+updated: "2026-08-05T17:08:41.059Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
@@ -20,16 +20,16 @@ updated: "2026-08-05T16:52:26.605Z"
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
-## Đã duyệt (5)
+## Đã duyệt (1)
 
-- Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì?
 - Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?
-- Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì?
-- Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn
-- Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026
 
-## Đã publish (4)
+## Đã publish (8)
 
+- Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — [https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/](https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/)
+- Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/](https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/)
+- Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — [https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/](https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/)
+- Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — [https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/](https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/)
 - Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — [https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/)
 - Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — [https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/](https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/)
 - Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — [https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/)

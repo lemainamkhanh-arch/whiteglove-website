@@ -9,8 +9,6 @@ draft: false
 
 ![Vận chuyển nội thất dễ vỡ](/assets/blog/van-chuyen-noi-that-de-vo-1.png)
 
-> [🔁 Ép đồng bộ ngay với website](https://github.com/lemainamkhanh-arch/whiteglove-website/actions/workflows/notion-sync.yml) — mở trang GitHub Actions, bấm "Run workflow" để publish ngay các bài đã duyệt mà không cần chờ chu kỳ tự động 15 phút.
-
 > Trả lời nhanh: Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần đóng gói chuyên dụng riêng cho từng chất liệu, tránh để các mặt cững tiếp xúc trực tiếp với nhau, cố định chắc chắn trong khoang xe và có người giám sát suốt quá trình bốc xếp — không giao cho đơn vị vận chuyển hàng thông thuờng
 
 > Trả lời nhanh: Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần đóng gói chuyên dụng riêng cho từng chất liệu, tránh để các mặt cứng tiếp xúc trực tiếp với nhau, cố định chắc chắn trong khoang xe và có người giám sát suốt quá trình bốc xếp — không giao cho đơn vị vận chuyển hàng thông thường không có kinh nghiệm xử lý hàng dễ vỡ.
