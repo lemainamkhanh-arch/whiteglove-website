@@ -1,1 +1,56 @@
-LS0tCnRpdGxlOiAiVuG6rW4gY2h1eeG7g24gbuG7mWkgdGjhuqV0IGThu4UgduG7oToga8OtbmgsIMSRw6EsIGfhu5cgdOG7sSBuaGnDqm4gY+G6p24gbMawdSDDvSBnw6w/IgpkZXNjcmlwdGlvbjogIlbhuq1uIGNodXnhu4NuIG7hu5lpIHRo4bqldCBk4buFIHbhu6EgbmjGsCBrw61uaCwgxJHDoSwgZ+G7lyB04buxIG5oacOqbiBj4bqnbiBsxrB1IMO9IGfDrCDEkeG7gyB0csOhbmggbuG7qXQgduG7oSwgdHLhuqd5IHjGsOG7m2M/IEjGsOG7m25nIGThuqtuIHThu6sgV2hpdGUgR2xvdmUgTG9naXN0aWNzIFZpZXRuYW0uIgpzbHVnOiB2YW4tY2h1eWVuLW5vaS10aGF0LWRlLXZvCmRhdGU6IDIwMjYtMDgtMDUKa2V5d29yZDogInbhuq1uIGNodXnhu4NuIG7hu5lpIHRo4bqldCBk4buFIHbhu6E6IGvDrW5oLCDEkcOhLCBn4buXIHThu7Egbmhpw6puIGPhuqduIGzGsHUgw70gZ8OsPyIKZHJhZnQ6IGZhbHNlCi0tLQoKIVtW4bqtbiBjaHV54buDbiBu4buZaSB0aOG6pXQgZOG7hSB24buhXSgvYXNzZXRzL2Jsb2cvdmFuLWNodXllbi1ub2ktdGhhdC1kZS12by0xLnBuZykKCj4gVHLhuqMgbOG7nWkgbmhhbmg6IFbhuq1uIGNodXnhu4NuIG7hu5lpIHRo4bqldCBk4buFIHbhu6EgbmjGsCBrw61uaCwgxJHDoSwgZ+G7lyB04buxIG5oacOqbiBj4bqnbiDEkcOzbmcgZ8OzaSBjaHV5w6puIGThu6VuZyByacOqbmcgY2hvIHThu6tuZyBjaOG6pXQgbGnhu4d1LCB0csOhbmggxJHhu4MgY8OhYyBt4bq3dCBj4bupbmcgdGnhur9wIHjDumMgdHLhu7FjIHRp4bq/cCB24bubaSBuaGF1LCBj4buRIMSR4buLbmggY2jhuq9jIGNo4bqvbiB0cm9uZyBraG9hbmcgeGUgdsOgIGPDsyBuZ8aw4budaSBnacOhbSBzw6F0IHN14buRdCBxdcOhIHRyw6xuaCBi4buRYyB44bq/cCDigJQga2jDtG5nIGdpYW8gY2hvIMSRxqFuIHbhu4sgduG6rW4gY2h1eeG7g24gaMOgbmcgdGjDtG5nIHRoxrDhu51uZyBraMO0bmcgY8OzIGtpbmggbmdoaeG7h20geOG7rSBsw70gaMOgbmcgZOG7hSB24buhLgoKTeG7mXQgY2hp4bq/YyBiw6BuIG3hurd0IMSRw6EgaGF5IHThu6cga8OtbmggY8aw4budbmcgbOG7sWMgY8OzIHRo4buDIGNo4buLdSDEkcaw4bujYyB2YSDEkeG6rXAgbmjhurkga2hpIMSR4bupbmcgecOqbiwgbmjGsG5nIGzhuqFpIHLhuqV0IGThu4UgbuG7qXQvduG7oSBraGkgY2jhu4t1IGzhu7FjIHhv4bqvbiBob+G6t2MgcnVuZyDEkeG7mW5nIGxpw6puIHThu6VjIHRyb25nIHF1w6EgdHLDrG5oIHbhuq1uIGNodXnhu4NuIOKAlCDEkcOieSBsw6AgbMO9IGRvIG5oaeG7gXUgbMO0IGjDoG5nICJuaMOsbiB0aMOsIGNo4bqvYyIgduG6q24gYuG7iyBoxrAgaOG7j25nIGtoaSDEkeG6v24gbsahaS4KCiMjIFbDrCBzYW8gbuG7mWkgdGjhuqV0IGThu4UgduG7oSBj4bqnbiBxdXkgdHLDrG5oIHJpw6puZz8KCkvDrW5oLCDEkcOhIHbDoCBn4buXIHThu7Egbmhpw6puIGPDsyDEkeG6t2MgdMOtbmggduG6rXQgbMO9IGtow6FjIG5oYXU6IGvDrW5oL8SRw6EgY2jhu4t1IGzhu7FjIG7DqW4gdOG7kXQgbmjGsG5nIHLhuqV0IGvDqW0gY2jhu4t1IGzhu7FjIHhv4bqvbiBob+G6t2MgdmEgxJHhuq1wIMSRaeG7g207IGfhu5cgdOG7sSBuaGnDqm4gZOG7hSB0cuG6p3kgeMaw4bubYyBi4buBIG3hurd0IHbDoCBiaeG6v24gZOG6oW5nIGtoaSDhuqltLiDEkMOzbmcgZ8OzaSBjaHVuZyBt4buZdCBraeG7g3UgY2hvIHThuqV0IGPhuqMgbG/huqFpIGjDoG5nIGfhuqduIG5oxrAgY2jhuq9jIGNo4bqvbiBk4bqrbiDEkeG6v24gaMawIGjhu49uZy4KCiMjIEzGsHUgw70gdGhlbyB04burbmcgbG/huqFpIHbhuq10IGxp4buHdQoKLSAqKkvDrW5oIChiw6BuIGvDrW5oLCB04bunIGvDrW5oLCBnxrDGoW5nKSoqOiBkw7luZyBraHVuZyBn4buXIGhv4bq3YyB04bqlbSBjaOG6r24gY+G7qW5nIGhhaSBt4bq3dCwgxJHhurd0IHRo4bqzbmcgxJHhu6luZyBraMO0bmcgbuG6sW0gbmdhbmcga2hpIGPDsyB0aOG7gywgdHV54buHdCDEkeG7kWkga2jDtG5nIHjhur9wIHbhuq10IG7hurduZyBsw6puIHRyw6puCi0gKirEkMOhICht4bq3dCBiw6BuIMSRw6EsIHTGsOG7o25nIMSRw6EsIHF14bqneSBiYXIgxJHDoSkqKjogYuG7jWMgbmhp4buBdSBs4bubcCDEkeG7h20g4bufIGPDoWMgZ8OzYy9j4bqhbmgg4oCUIG5haSBk4buFIHPhu6l0IG3hur47IG5o4bqldCwgY+G6p24gw610IG5o4bqldCAyLTMgbmfGsOG7nWkga2hpw6puZyBkbyB0cuG7jW5nIGzGsOG7o25nIGzhu5tuCi0gKipH4buXIHThu7Egbmhpw6puIChiw6BuLCB04bunIG5ndXnDqm4ga2jhu5FpKSoqOiBi4buNYyBtw6BuZyBjaOG7kW5nIOG6qW0gdHLGsOG7m2Mga2hpIGLhu41jIMSR4buHbSDEkeG7gyB0csOhbmggY29uZyB2w6puaCBkbyB0aGF5IMSR4buVaSDEkeG7mSDhuqltIGdp4buvYSBjw6FjIGtodSB24buxYyB24bqtbiBjaHV54buDbgoKIyMgTmjhu69uZyBk4bqldSBoaeG7h3UgY2hvIHRo4bqleSDEkcahbiB24buLIHbhuq1uIGNodXnhu4NuIEtIw5RORyDEkeG7pyBraW5oIG5naGnhu4dtIHbhu5tpIGjDoG5nIGThu4UgduG7oQoKLSBLaMO0bmcgaOG7j2kga+G7uSB24buBIGNo4bqldCBsaeG7h3UsIGNo4buJIGjhu49pIGvDrWNoIHRoxrDhu5tjIHbDoCB0cuG7jW5nIGzGsOG7o25nIGNodW5nCi0gxJDDs25nIGfDs2kgYuG6sW5nIHbhuq10IGxp4buHdSB0aOO0bmcgdGjGsOG7nW5nIChjaOG7iSBjYXJ0b24sIGtow7RuZyBjw7Mga2h1bmcvZm9hbSBj4bupbmcpCi0gS2jDtG5nIGNobyBwaMOpcCBnacOhbSBzw6F0IHF1w6EgdHLDrG5oIGLhu5FjIHjhur9wCi0gS2jDtG5nIMOzIGNoIGNodW5nCi0gS2jDtG5nIGPDsyBjaGjDrW5oIHNhw6FjaCBiw6JvIGhp4buDbSBob+G6t2MgYuG7k2kgdGjGsOG7nW5nIHLDtSByw6BuZyBjaG8gaMOgbmcgZOG7hSB24buhCgojIyBRdXkgdHLDrG5oIHjhu60gbMO9IG7hu5lpIHRo4bqldCBk4buFIHbhu6EgY2h14bqpbiB3aGl0ZSBnbG92ZQoKLSBCxrDhu5tjIDEg4oCUIMSQw6FuaCBnacOhIHbhuq10IGxp4buHdSB2w6AgbeG7qWMgxJHhu5kgcuG7p2kgcm86IHjDoWMgxJHhu4tuaCDEkWnhu4NtIHnhur91IGPhu6dhIHThu6tuZyBtw7NuIChnw7NjIGvDrW5oLCBtw6lwIMSR4bqhLCB2w6puIGfhu5cpCi0gQsaw4bubYyAyIOKAlCDEkMOzbmcgZ8OzaSBjaHV5w6puIGThu6VuZyB0aGVvIHbhuq10IGxp4buHdTograHVuZyBn4buXLCBmb2FtIGP7qW5nLCDEkeG7h20gY2jhu5FuZyDhuqltIHTDuXkgbG/huqFpCi0gQsaw4bubYyAzIOKAlCBC4buRYyB44bq/cCBjw7MgZ2nDoW0gc8OhdDogbmjDom4gc+G7sSBraW5oIG5naGnhu4dtIHRy4buxYyB0aeG6v3AgdGhlbyBkw7VpIHThu6tuZyBixrDhu5tjIGRpIGNodXnhu4NuLCBraMO0bmcgZ2lhbyBraG/DoW4KLSBCxrDhu5tjIDQg4oCUIEtp4buDbSB0cmEgdMOsbmggdHLhuqFuZyBraGkgYsOgbiBnaWFvOiBt4bufIGzhu5twIMSRw7NuZyBnw7NpIG5nYXkgdOG6oWkgxJFp4buDbSBnaWFvLCB4w6FjIG5o4bqtbiBjw7luZyBraMOhY2ggaMOgbmcgcXVhIGNvbmRpdGlvbiByZXBvcnQKCiMjIEPDonUgaOG7j2kgdGjGsOG7nW5nIGfhurdwCgojIyMgQsOgbiBt4bq3dCDEkcOhIGzhu5tuIGPDsyBj4bqnbiB0aMOhbyBy4budaSBraGkgduG6rW4gY2h1eeG7g24ga2jDtG5nPwoKVMO5eSB0aGnhur90IGvhur8g4oCUIG5oaeG7gXUgbeG6t3QgxJHDoSBjw7MgdGjhu4MgdGjDoW8ga2jhu49pIGNow6JuIGLDoG4gxJHhu4MgZ2nhuqNtIHJ14buXIHJvIHZhIMSR4bqtcCwgbsOqbiBo4buPaSDEkcahbiB24buLIHbhuq1uIGNodXnhu4NuIGto4bqjbyBzw6F0IHRyxrDhu5tjIGtoaSBxdXnhur90IMSR4buLbmguCgojIyMgQ8OzIG7Dqm4gdOG7sSDEkcOzbmcgZ8OzaSBow6BuZyBk4buFIHbhu6EgxJHhu4MgdGnhur90IGtp4buHbSBjaGkgcGjDrT8KCktow7RuZyBuw6puIHbhu5tpIGjDoG5nIGdpw6EgdHLhu4sgY2FvIOKAlCBjaGkgcGjDrSDEkcOzbmcgZ8OzaSBjaHV5w6puIGThu6VuZyB0aMaw4budbmcgdGjhuqVwIGjGoW4gbmhp4buBdSBzbyB24bubaSBjaGkgcGjDrSB0aGF5IHRo4bq/IG5o4bq/dSBow6BuZyBi4buLIG7hu6l0L3bhu6EgdHJvbmcgcXXDoSB0csOsbmggdOG7sSB24bqtbiBjaHV54buDbi4KCiMjIyBO4bq/dSBwaMOhdCBoaeG7h24gduG6v3QgbuG7qXQgc2F1IGtoaSBuaOG6rW4gaMOgbmcgdGjDrCBjw7MgxJHGsOG7o2MgYuG7k2kgdGjGsOG7nW5nIGtow7RuZz8KCkPhuqduIGtp4buDbSB0cmEgdMOgIGdoaSBuaOG6rW4gbmdheSBsw7pjIGLDoG4gZ2lhbyBxdWEgY29uZGl0aW9uIHJlcG9ydCDigJQgxJHDonkgbMOgIGPEg24gY+G7qSBxdWFuIHRy4buNbmcgbmjhuqV0IMSR4buDIHhhY8OhY2ggxJHhu4tuaCB0csOhY2ggbmhp4buHbSB2w6AgbeG7qWMgYuG7k2kgdGjGsOG7nW5nIG7hur91IGPDsyB0cmFuaCBjaOG6pXAgc2F1IMSRw7MuCgojIyBDw7MgbuG7mWkgdGjhuqV0IGThu4UgduG7oSBj4bqnbiB24bqtbiBjaHV54buDbiBhbiB0b8Ogbj8KCldoaXRlIEdsb3ZlIExvZ2lzdGljcyBWaWV0bmFtIGPDsyBxdXkgdHLDrG5oIMSRw7NuZyBnw7NpIHJpw6puZyBjaG8ga8OtbmgsIMSRw6EsIGfhu5cgdOG7sSBuaGnDqm4ga8OobSBnacOhbSBzw6F0IGLhu5FjIHjhur9wIHRvw6BuIHRyw6xuaCDigJQgbGnDqm4gaOG7hyDEkeG7gyDEkcaw4bujYyBraOG6o28gc8OhdCB2w6AgYsOhbyBnacOhLgo=
+---
+title: "Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?"
+description: "Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần lưu ý gì để tránh nứt vỡ, trầy xước? Hướng dẫn từ White Glove Logistics Vietnam."
+slug: van-chuyen-noi-that-de-vo
+date: 2026-08-05
+keyword: "vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?"
+draft: false
+---
+
+![Vận chuyển nội thất dễ vỡ](/assets/blog/van-chuyen-noi-that-de-vo-1.png)
+
+> Trả lời nhanh: Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần đóng gói chuyên dụng riêng cho từng chất liệu, tránh để các mặt cứng tiếp xúc trực tiếp với nhau, cố định chắc chắn trong khoang xe và có người giám sát suốt quá trình bốc xếp — không giao cho đơn vị vận chuyển hàng thông thường không có kinh nghiệm xử lý hàng dễ vỡ.
+
+Một chiếc bàn mặt đá hay tủ kính cường lực có thể chịu được va đập nhẹ khi đứng yên, nhưng lại rất dễ nứt/vỡ khi chịu lực xoắn hoặc rung động liên tục trong quá trình vận chuyển — đây là lý do nhiều lô hàng "nhìn thì chắc" vẫn bị hư hỏng khi đến nơi.
+
+## Vì sao nội thất dễ vỡ cần quy trình riêng?
+
+Kính, đá và gỗ tự nhiên có đặc tính vật lý khác nhau: kính/đá chịu lực nén tốt nhưng rất kém chịu lực xoắn hoặc va đập điểm; gỗ tự nhiên dễ trầy xước bề mặt và biến dạng khi ẩm. Đóng gói chung một kiểu cho tất cả loại hàng gần như chắc chắn dẫn đến hư hỏng.
+
+## Lưu ý theo từng loại vật liệu
+
+- **Kính (bàn kính, tủ kính, gương)**: dùng khung gỗ hoặc tấm chắn cứng hai mặt, đặt thẳng đứng không nằm ngang khi có thể, tuyệt đối không xếp vật nặng lên trên
+- **Đá (mặt bàn đá, tượng đá, quầy bar đá)**: bọc nhiều lớp đệm ở các góc/cạnh — nơi dễ sứt mẻ nhất, cần ít nhất 2-3 người khiêng do trọng lượng lớn
+- **Gỗ tự nhiên (bàn, tủ nguyên khối)**: bọc màng chống ẩm trước khi bọc đệm để tránh cong vênh do thay đổi độ ẩm giữa các khu vực vận chuyển
+
+## Những dấu hiệu cho thấy đơn vị vận chuyển KHÔNG đủ kinh nghiệm với hàng dễ vỡ
+
+- Không hỏi kỹ về chất liệu, chỉ hỏi kích thước và trọng lượng chung
+- Đóng gói bằng vật liệu thông thường (chỉ carton, không có khung/foam cứng)
+- Không cho phép giám sát quá trình bốc xếp
+- Không có chính sách bảo hiểm hoặc bồi thường rõ ràng cho hàng dễ vỡ
+
+## Quy trình xử lý nội thất dễ vỡ chuẩn white glove
+
+- Bước 1 — Đánh giá vật liệu và mức độ rủi ro: xác định điểm yếu của từng món (góc kính, mép đá, vân gỗ)
+- Bước 2 — Đóng gói chuyên dụng theo vật liệu: khung gỗ, foam cứng, đệm chống ẩm tùy loại
+- Bước 3 — Bốc xếp có giám sát: nhân sự kinh nghiệm trực tiếp theo dõi từng bước di chuyển, không giao khoán
+- Bước 4 — Kiểm tra tình trạng khi bàn giao: mở lớp đóng gói ngay tại điểm giao, xác nhận cùng khách hàng qua condition report
+
+## Câu hỏi thường gặp
+
+### Bàn mặt đá lớn có cần tháo rời khi vận chuyển không?
+
+Tùy thiết kế — nhiều mặt đá có thể tháo khỏi chân bàn để giảm rủi ro va đập, nên hỏi đơn vị vận chuyển khảo sát trước khi quyết định.
+
+### Có nên tự đóng gói hàng dễ vỡ để tiết kiệm chi phí?
+
+Không nên với hàng giá trị cao — chi phí đóng gói chuyên dụng thường thấp hơn nhiều so với chi phí thay thế nếu hàng bị nứt/vỡ trong quá trình tự vận chuyển.
+
+### Nếu phát hiện vết nứt sau khi nhận hàng thì có được bồi thường không?
+
+Cần kiểm tra và ghi nhận ngay lúc bàn giao qua condition report — đây là căn cứ quan trọng nhất để xác định trách nhiệm và mức bồi thường nếu có tranh chấp sau đó.
+
+## Có nội thất dễ vỡ cần vận chuyển an toàn?
+
+White Glove Logistics Vietnam có quy trình đóng gói riêng cho kính, đá, gỗ tự nhiên kèm giám sát bốc xếp toàn trình — liên hệ để được khảo sát và báo giá.
