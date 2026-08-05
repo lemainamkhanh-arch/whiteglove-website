@@ -22,9 +22,11 @@ jobs:
         with:
           node-version: 20
       - name: Install image optimizer
-        run: npm install --no-save sharp
+        run: npm install --no-save sharp png-to-ico
       - name: Optimize images (auto resize + compress)
         run: node scripts/optimize-images.mjs
+      - name: Generate favicon from CMS setting
+        run: node scripts/generate-favicon.mjs
       - name: Build site (template + content -> index.html)
         run: node build.js
       - name: Assemble _site
