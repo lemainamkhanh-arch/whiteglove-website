@@ -5,8 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="noindex" />
 <title>Admin — White Glove Logistics</title>
+<style>
+  #force-sync-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999999;
+    background: #2563eb;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-family: system-ui, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  #force-sync-btn:hover { background: #1d4ed8; }
+</style>
 </head>
 <body>
+<a id="force-sync-btn" href="https://github.com/lemainamkhanh-arch/whiteglove-website/actions/workflows/notion-sync.yml" target="_blank" rel="noopener" title="Mở GitHub Actions để chạy đồng bộ Notion ngay lập tức">🔁 Ép đồng bộ ngay</a>
 <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
 </body>
 </html>
