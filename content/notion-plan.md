@@ -1,24 +1,27 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-05T18:47:06.325Z"
+updated: "2026-08-05T20:20:03.923Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
 
-## Ý tưởng (12)
+## Ý tưởng (7)
 
 - White glove delivery khác gì giao hàng thường? So sánh chi tiết
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
 - Dịch vụ ủy thác xuất nhập khẩu hàng high-end: khi nào doanh nghiệp cần?
-- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn
 - Bảng giá dịch vụ white glove delivery tại TP.HCM (tham khảo)
+- Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa
+- Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
+- Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
+
+## Đã duyệt (5)
+
+- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn
 - Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết?
 - Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM
 - Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng
-- Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa
 - Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối
-- Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
-- Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
 ## Đã publish (9)
 
