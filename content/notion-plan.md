@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-05T17:08:41.059Z"
+updated: "2026-08-05T17:11:59.094Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
@@ -20,13 +20,10 @@ updated: "2026-08-05T17:08:41.059Z"
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
-## Đã duyệt (1)
-
-- Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?
-
-## Đã publish (8)
+## Đã publish (9)
 
 - Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — [https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/](https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/)
+- Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-de-vo/](https://whiteglove.vn/blog/van-chuyen-noi-that-de-vo/)
 - Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/](https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/)
 - Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — [https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/](https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/)
 - Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — [https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/](https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/)
