@@ -6,7 +6,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: notion-sync
+  group: site-deploy
   cancel-in-progress: false
 jobs:
   sync:
