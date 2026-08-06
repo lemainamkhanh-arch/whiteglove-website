@@ -55,3 +55,6 @@ jobs:
           path: _site
       - uses: actions/deploy-pages@v4
         if: steps.diff.outputs.changed == 'true'
+        with:
+          timeout: 1800000
+          error_count: 20
