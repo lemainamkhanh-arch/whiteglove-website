@@ -150,7 +150,7 @@ function styleFaqSection(html) {
     pos += m[0].length;
   }
   if (!items.length) return html;
-  const wrapped = '<div class="faq-list">\n' + items.map((it) => '<div class="faq-item">\n<h3>' + it.q + '</h3>\n<p>' + it.a + '</p>\n</div>').join('\n') + '\n</div>\n';
+  const wrapped = '<div class="faq-list">\n' + items.map((it, i) => '<details class="faq-item"' + (i === 0 ? ' open' : '') + '>\n<summary><span class="faq-q">' + it.q + '</span><span class="faq-icon" aria-hidden="true"></span></summary>\n<div class="faq-a"><p>' + it.a + '</p></div>\n</details>').join('\n') + '\n</div>\n';
   return html.slice(0, idx + heading.length) + wrapped + html.slice(pos);
 }
 function fill(tpl, vars) {
