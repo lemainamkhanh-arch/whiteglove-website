@@ -258,7 +258,7 @@ var pager=document.getElementById('yt-pager');
 if(!grid)return;
 var items=[];
 var page=1;
-function getPerPage(){return window.matchMedia('(max-width:640px)').matches?6:9}
+function getPerPage(){return window.matchMedia('(max-width:640px)').matches?6:8}
 var perPage=getPerPage();
 function totalPages(){return Math.max(1,Math.ceil(items.length/perPage))}
 function decode(t){return String(t||'').replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>')}
