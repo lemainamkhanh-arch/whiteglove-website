@@ -237,58 +237,34 @@ strong,b{font-weight:600}
 </div></div></section>
 <section class="section soft"><div class="wrap">
 <div class="section-head"><div><div class="eyebrow">Video Reels</div><h2>Khám phá nguồn hàng</h2></div><p>Xem các video reel thực tế về quá trình sourcing, kiểm tra và giao nhận hàng cao cấp.</p></div>
-<<div class="yt-shorts-grid" id="yt-shorts-grid" style="margin-top:28px"></div>
+<div class="yt-shorts-grid" id="yt-shorts-grid" style="margin-top:28px"></div>
 <noscript><p style="text-align:center;padding:20px"><a href="https://www.youtube.com/@WhieGloveLogistic" target="_blank">Xem video trên YouTube →</a></p></noscript></div></section>
 <section class="cta"><div class="wrap" style="text-align:center">
 <div class="eyebrow">Liên hệ</div><h2>Bạn cần tìm nguồn hàng cao cấp?</h2>
 <p style="margin:16px auto 28px;max-width:500px">Gửi tin nhắn cho chúng tôi qua Facebook Messenger để được tư vấn sourcing và ủy thác nhập khẩu.</p>
 <a class="btn primary" href="https://m.me/whiteglovevietnam" target="_blank" rel="noopener" style="font-size:1rem;padding:0 32px;min-height:54px">Nhắn tin qua Messenger</a>
 </div></section>
-<
 <script>
-var YT_CH='UCGfUe5ljqW9n2ZsSLXgcbPA';
-var YT_RSS='https://www.youtube.com/feeds/videos.xml?channel_id='+YT_CH;
-var PROXIES=['https://api.allorigins.win/raw?url=','https://corsproxy.io/?url='];
-function loadYT(p){
-if(p>=PROXIES.length){
-var g=document.getElementById('yt-shorts-grid');
-g.innerHTML='';
-var p2=document.createElement('p');
-p2.style.cssText='grid-column:1/-1;text-align:center;color:#97907f;padding:20px';
-var a=document.createElement('a');
-a.href='https://www.youtube.com/@WhieGloveLogistic';
-a.target='_blank';
-a.style.color='var(--gold)';
-a.textContent='Xem tr\u00ean YouTube \u2192';
-p2.appendChild(document.createTextNode('Kh\u00f4ng t\u1ea3i \u0111\u01b0\u1ee3c video. '));
-p2.appendChild(a);
-g.appendChild(p2);
-return;
-}
-var url=PROXIES[p]+encodeURIComponent(YT_RSS);
-fetch(url).then(function(r){return r.text()}).then(function(t){
-var x=new DOMParser().parseFromString(t,'text/xml');
-var entries=x.querySelectorAll('entry');
-if(!entries.length){loadYT(p+1);return;}
+function loadYT(){
+fetch('content/yt-shorts.json').then(function(r){return r.json()}).then(function(data){
 var grid=document.getElementById('yt-shorts-grid');
 grid.innerHTML='';
-entries.forEach(function(en){
-var vid=en.querySelector('videoId').textContent;
-var title=en.querySelector('title').textContent;
-var thumb='https://i.ytimg.com/vi/'+vid+'/oar2.jpg';
+data.shorts.forEach(function(s){
 var w=document.createElement('div');
 w.className='yt-short-wrap';
 var td=document.createElement('div');
 td.className='yt-short-thumb';
-td.dataset.vid=vid;
+td.dataset.vid=s.id;
 var img=document.createElement('img');
-img.src=thumb;img.alt=title;img.loading='lazy';
+img.src='https://i.ytimg.com/vi/'+s.id+'/oar2.jpg';
+img.alt=s.title;
+img.loading='lazy';
 td.appendChild(img);
 var play=document.createElement('span');
 play.className='yt-play';play.textContent='\u25B6';
 td.appendChild(play);
 var tl=document.createElement('span');
-tl.className='yt-short-title';tl.textContent=title;
+tl.className='yt-short-title';tl.textContent=s.title;
 td.appendChild(tl);
 w.appendChild(td);
 grid.appendChild(w);
@@ -305,10 +281,24 @@ this.parentElement.innerHTML='';
 this.parentElement.appendChild(ifr);
 });
 });
-}).catch(function(err){console.error('Proxy '+p+' failed:',err);loadYT(p+1);});
+}).catch(function(err){
+console.error('Failed to load YT shorts:',err);
+var g=document.getElementById('yt-shorts-grid');
+g.innerHTML='';
+var p=document.createElement('p');
+p.style.cssText='grid-column:1/-1;text-align:center;color:#97907f;padding:20px';
+var a=document.createElement('a');
+a.href='https://www.youtube.com/@WhieGloveLogistic';
+a.target='_blank';
+a.style.color='var(--gold)';
+a.textContent='Xem tr\u00ean YouTube \u2192';
+p.appendChild(document.createTextNode('Kh\u00f4ng t\u1ea3i \u0111\u01b0\u1ee3c video. '));
+p.appendChild(a);
+g.appendChild(p);
+});
 }
-if(document.readyState!=='loading')loadYT(0);
-else document.addEventListener('DOMContentLoaded',function(){loadYT(0);});
+if(document.readyState!=='loading')loadYT();
+else document.addEventListener('DOMContentLoaded',loadYT);
 </script>
 </main>
 
