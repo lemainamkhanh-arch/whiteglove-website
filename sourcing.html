@@ -239,6 +239,28 @@ strong,b{font-weight:600}
 <p style="margin:16px auto 28px;max-width:500px">Gửi tin nhắn cho chúng tôi qua Facebook Messenger để được tư vấn sourcing và ủy thác nhập khẩu.</p>
 <a class="btn primary" href="https://m.me/whiteglovevietnam" target="_blank" rel="noopener" style="font-size:1rem;padding:0 32px;min-height:54px">Nhắn tin qua Messenger</a>
 </div></section>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function () {
+  FB.Event.subscribe('xfbml.ready', function (msg) {
+    if (msg.type !== 'video') return;
+    var el = document.getElementById(msg.id);
+    if (!el) return;
+    var player = msg.instance;
+    var timer;
+    el.addEventListener('mouseenter', function () {
+      try { player.mute(); player.play(); } catch (e) {}
+      clearTimeout(timer);
+      timer = setTimeout(function () { try { player.pause(); } catch (e) {} }, 5000);
+    });
+    el.addEventListener('mouseleave', function () {
+      clearTimeout(timer);
+      try { player.pause(); } catch (e) {}
+    });
+  });
+};
+</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v19.0"></script>
 </main>
 
 <footer class="footer"><div class="wrap"><div class="footer-grid"><div><a class="brand" href="/" aria-label="White Glove"><svg class="brand-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.81 34.9"><defs><style>
