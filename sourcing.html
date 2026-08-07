@@ -203,11 +203,14 @@ strong,b{font-weight:600}
 @media(max-width:900px){.reveal{opacity:1;transform:none;transition:none}.section{padding:64px 0}.hero{padding:56px 0 32px}.section-head{margin-bottom:36px}.cta{padding:64px 0}.featured{padding:64px 0}.partners{padding:64px 0}.card{min-height:auto}.hero-visual img{height:420px}.media img,.project-grid img,.quality img{height:380px}}
 </style>
 <style>
-.reel-grid .fb-video-wrap{position:relative;border-radius:4px;overflow:hidden;background:#1a1a1a;aspect-ratio:9/14}
-.reel-grid .fb-video-wrap .fb-video{position:absolute;top:50%;left:50%;width:100%;height:100%;transform:translate(-50%,-50%) scale(1.08);transform-origin:center center;pointer-events:auto}
-.reel-grid .fb-video-wrap .fb-video iframe{width:100% !important;height:100% !important;border:0;display:block;filter:brightness(1.05) saturate(1.02)}
-@media(min-width:641px){.reel-grid{display:grid !important;grid-template-columns:repeat(4,1fr) !important;gap:16px !important}}
-@media(max-width:640px){.reel-grid{display:grid !important;grid-template-columns:repeat(2,1fr);gap:10px !important}.reel-grid .fb-video-wrap{border-radius:3px}}
+.yt-shorts-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.yt-short-wrap{position:relative;border-radius:4px;overflow:hidden;background:#1a1a1a;aspect-ratio:9/16}
+.yt-short-thumb{position:relative;width:100%;height:100%;cursor:pointer}
+.yt-short-thumb img{width:100%;height:100%;object-fit:cover}
+.yt-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:48px;height:48px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;font-size:18px;display:flex;align-items:center;justify-content:center;pointer-events:none}
+.yt-short-title{display:block;font-size:.72rem;color:#e8e5dd;padding:8px 10px;position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,.85));line-height:1.3}
+.yt-short-wrap iframe{width:100%;height:100%;border:0;display:block}
+@media(max-width:640px){.yt-shorts-grid{grid-template-columns:repeat(2,1fr);gap:10px}.yt-short-wrap{border-radius:3px}}
 </style>
 </head>
 <body>
@@ -234,39 +237,79 @@ strong,b{font-weight:600}
 </div></div></section>
 <section class="section soft"><div class="wrap">
 <div class="section-head"><div><div class="eyebrow">Video Reels</div><h2>Khám phá nguồn hàng</h2></div><p>Xem các video reel thực tế về quá trình sourcing, kiểm tra và giao nhận hàng cao cấp.</p></div>
-<div class="reel-grid" style="margin-top:28px">
-<div class="fb-video-wrap"><div class="fb-video" id="reelVideo1" data-href="https://www.facebook.com/reel/2107988323448880" data-width="500" data-show-text="false"></div></div>
-<div class="fb-video-wrap"><div class="fb-video" id="reelVideo2" data-href="https://www.facebook.com/reel/1404932478157923" data-width="500" data-show-text="false"></div></div>
-<div class="fb-video-wrap"><div class="fb-video" id="reelVideo3" data-href="https://www.facebook.com/reel/2115319593198049" data-width="500" data-show-text="false"></div></div>
-<div class="fb-video-wrap"><div class="fb-video" id="reelVideo4" data-href="https://www.facebook.com/reel/1606230614256379" data-width="500" data-show-text="false"></div></div>
-</div></div></section>
+<<div class="yt-shorts-grid" id="yt-shorts-grid" style="margin-top:28px"></div>
+<noscript><p style="text-align:center;padding:20px"><a href="https://www.youtube.com/@WhieGloveLogistic" target="_blank">Xem video trên YouTube →</a></p></noscript></div></section>
 <section class="cta"><div class="wrap" style="text-align:center">
 <div class="eyebrow">Liên hệ</div><h2>Bạn cần tìm nguồn hàng cao cấp?</h2>
 <p style="margin:16px auto 28px;max-width:500px">Gửi tin nhắn cho chúng tôi qua Facebook Messenger để được tư vấn sourcing và ủy thác nhập khẩu.</p>
 <a class="btn primary" href="https://m.me/whiteglovevietnam" target="_blank" rel="noopener" style="font-size:1rem;padding:0 32px;min-height:54px">Nhắn tin qua Messenger</a>
 </div></section>
-<div id="fb-root"></div>
+<
 <script>
-window.fbAsyncInit = function () {
-  FB.Event.subscribe('xfbml.ready', function (msg) {
-    if (msg.type !== 'video') return;
-    var el = document.getElementById(msg.id);
-    if (!el) return;
-    var player = msg.instance;
-    var timer;
-    el.addEventListener('mouseenter', function () {
-      try { player.mute(); player.play(); } catch (e) {}
-      clearTimeout(timer);
-      timer = setTimeout(function () { try { player.pause(); } catch (e) {} }, 5000);
-    });
-    el.addEventListener('mouseleave', function () {
-      clearTimeout(timer);
-      try { player.pause(); } catch (e) {}
-    });
-  });
-};
+var YT_CH='UCGfUe5ljqW9n2ZsSLXgcbPA';
+var YT_RSS='https://www.youtube.com/feeds/videos.xml?channel_id='+YT_CH;
+var PROXIES=['https://api.allorigins.win/raw?url=','https://corsproxy.io/?url='];
+function loadYT(p){
+if(p>=PROXIES.length){
+var g=document.getElementById('yt-shorts-grid');
+g.innerHTML='';
+var p2=document.createElement('p');
+p2.style.cssText='grid-column:1/-1;text-align:center;color:#97907f;padding:20px';
+var a=document.createElement('a');
+a.href='https://www.youtube.com/@WhieGloveLogistic';
+a.target='_blank';
+a.style.color='var(--gold)';
+a.textContent='Xem tr\u00ean YouTube \u2192';
+p2.appendChild(document.createTextNode('Kh\u00f4ng t\u1ea3i \u0111\u01b0\u1ee3c video. '));
+p2.appendChild(a);
+g.appendChild(p2);
+return;
+}
+var url=PROXIES[p]+encodeURIComponent(YT_RSS);
+fetch(url).then(function(r){return r.text()}).then(function(t){
+var x=new DOMParser().parseFromString(t,'text/xml');
+var entries=x.querySelectorAll('entry');
+if(!entries.length){loadYT(p+1);return;}
+var grid=document.getElementById('yt-shorts-grid');
+grid.innerHTML='';
+entries.forEach(function(en){
+var vid=en.querySelector('videoId').textContent;
+var title=en.querySelector('title').textContent;
+var thumb='https://i.ytimg.com/vi/'+vid+'/oar2.jpg';
+var w=document.createElement('div');
+w.className='yt-short-wrap';
+var td=document.createElement('div');
+td.className='yt-short-thumb';
+td.dataset.vid=vid;
+var img=document.createElement('img');
+img.src=thumb;img.alt=title;img.loading='lazy';
+td.appendChild(img);
+var play=document.createElement('span');
+play.className='yt-play';play.textContent='\u25B6';
+td.appendChild(play);
+var tl=document.createElement('span');
+tl.className='yt-short-title';tl.textContent=title;
+td.appendChild(tl);
+w.appendChild(td);
+grid.appendChild(w);
+});
+grid.querySelectorAll('.yt-short-thumb').forEach(function(th){
+th.addEventListener('click',function(){
+var v=this.dataset.vid;
+var ifr=document.createElement('iframe');
+ifr.src='https://www.youtube.com/embed/'+v+'?autoplay=1';
+ifr.frameBorder='0';
+ifr.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+ifr.allowFullscreen=true;
+this.parentElement.innerHTML='';
+this.parentElement.appendChild(ifr);
+});
+});
+}).catch(function(err){console.error('Proxy '+p+' failed:',err);loadYT(p+1);});
+}
+if(document.readyState!=='loading')loadYT(0);
+else document.addEventListener('DOMContentLoaded',function(){loadYT(0);});
 </script>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v19.0"></script>
 </main>
 
 <footer class="footer"><div class="wrap"><div class="footer-grid"><div><a class="brand" href="/" aria-label="White Glove"><svg class="brand-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.81 34.9"><defs><style>
