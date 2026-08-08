@@ -4,7 +4,7 @@ compatibility_date = "2024-01-01"
 
 [vars]
 ALLOWED_ORIGIN = "https://whiteglove.vn"
-NOTION_LEAD_DATABASE_ID = "PASTE_LEAD_DATABASE_ID_HERE"
+NOTION_LEAD_DATABASE_ID = "2e53db00ab34477ab775e705376b4d44"
 
 # NOTION_API_KEY la secret, khong duoc dat o day.
 # Sau khi deploy, chay: wrangler secret put NOTION_API_KEY
