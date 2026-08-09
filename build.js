@@ -236,6 +236,9 @@ fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, FEATURED:
 const today = new Date().toISOString().slice(0, 10);
 const urls = [
   { loc: SITE + '/', lastmod: today, priority: '1.0' },
+  { loc: SITE + '/bang-gia.html', lastmod: today, priority: '0.8' },
+  { loc: SITE + '/quy-trinh.html', lastmod: today, priority: '0.8' },
+  { loc: SITE + '/sourcing.html', lastmod: today, priority: '0.8' },
   { loc: SITE + '/blog/', lastmod: today, priority: '0.6' },
   ...posts.map((p) => ({ loc: SITE + '/blog/' + p.slug + '/', lastmod: p.date || today, priority: '0.7' })),
 ];
