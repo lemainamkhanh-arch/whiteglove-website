@@ -69,11 +69,6 @@ strong,b{font-weight:600}
 .nav{height:84px;background:rgba(252,251,248,.9)}
 .brand{line-height:1}
 .brand-mark{border-radius:0}
-.navlinks{font-size:.7rem;font-weight:600;letter-spacing:.15em;text-transform:uppercase;gap:32px}.navlinks .btn{min-height:40px;padding:0 20px;letter-spacing:.15em}
-.navlinks a:not(.btn){position:relative;padding:4px 0}
-.navlinks a:not(.btn):after{content:'';position:absolute;left:0;bottom:0;width:0;height:1px;background:var(--gold);transition:.3s ease}
-.navlinks a:not(.btn):hover{color:var(--ink)}
-.navlinks a:not(.btn):hover:after{width:100%}
 .btn{border-radius:0;font-size:.7rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;min-height:50px;padding:0 28px;transition:.28s ease}
 .btn.primary:hover{background:var(--blue);transform:none}
 .btn.ghost{background:transparent;border-color:#c9c2b4}
@@ -105,10 +100,6 @@ strong,b{font-weight:600}
 .stat strong{font-family:'Montserrat',sans-serif;font-weight:300;font-size:1.95rem;letter-spacing:.01em}
 /* POLISH V2 */
 .topline{letter-spacing:.2em;text-transform:uppercase;font-size:.64rem;padding:10px 16px}
-.navlinks a:not(.btn){position:relative}
-.navlinks a:not(.btn)::after{content:'';position:absolute;left:0;bottom:-7px;width:0;height:1px;background:var(--gold);transition:.28s ease}
-.navlinks a:not(.btn):hover{color:var(--gold)}
-.navlinks a:not(.btn):hover::after{width:100%}
 .btn{letter-spacing:.15em}
 .btn.primary:hover{background:var(--gold);transform:none}
 .btn.ghost:hover{border-color:var(--gold);color:var(--gold)}
@@ -343,6 +334,16 @@ html,body{max-width:100%;overflow-x:clip}
 .wgd-hero .hero-actions .btn,.imp-hero .hero-actions .btn,.buy-hero .hero-actions .btn{padding-left:10px!important;padding-right:10px!important;justify-content:center!important;text-align:center!important}
 .wgd-hero-meta,.imp-hero-meta,.buy-hero-meta{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:12px!important}
 .imp-sparkle,.buy-sparkle{right:8px!important;width:76px!important;height:76px!important;opacity:.32!important}
+}
+</style>
+<style>
+/* Nav consistency final — unify menu across all pages */
+@media(min-width:901px){
+.navlinks{display:flex!important;gap:30px!important;align-items:center!important;font-size:.95rem!important;font-weight:650!important;letter-spacing:.005em!important;text-transform:none!important}
+.navlinks a{text-transform:none!important}
+.navlinks .btn{min-height:40px!important;padding:0 20px!important;letter-spacing:.02em!important;text-transform:none!important;font-size:.85rem!important;font-weight:650!important}
+.nav-dropdown-menu a{text-transform:none!important;font-weight:400!important;font-size:.5rem!important;letter-spacing:.02em!important;color:var(--ink)!important;white-space:nowrap!important}
+.nav-dropdown-menu a:hover{color:var(--blue)!important}
 }
 </style>
 </head>
