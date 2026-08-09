@@ -16,13 +16,108 @@
           "from": "Kho Thương Đô, Quảng Châu",
           "to": "Quận 1, TP.HCM",
           "milestones": [
-            {"label": "Tiếp nhận yêu cầu", "date": "05/08/2026", "done": true},
-            {"label": "Khảo sát & báo giá", "date": "06/08/2026", "done": true},
-            {"label": "Đóng gói chuyên dụng", "date": "07/08/2026", "done": true},
-            {"label": "Vận chuyển", "date": "09/08/2026", "done": true},
-            {"label": "Lắp đặt tại nhà", "date": "—", "done": false},
-            {"label": "Nghiệm thu & chứng từ", "date": "—", "done": false}
+            {
+              "label": "Tiếp nhận yêu cầu",
+              "date": "05/08/2026",
+              "done": true
+            },
+            {
+              "label": "Khảo sát & báo giá",
+              "date": "06/08/2026",
+              "done": true
+            },
+            {
+              "label": "Đóng gói chuyên dụng",
+              "date": "07/08/2026",
+              "done": true
+            },
+            {
+              "label": "Vận chuyển",
+              "date": "09/08/2026",
+              "done": true
+            },
+            {
+              "label": "Lắp đặt tại nhà",
+              "date": "—",
+              "done": false
+            },
+            {
+              "label": "Nghiệm thu & chứng từ",
+              "date": "—",
+              "done": false
+            }
           ]
+        }
+      ],
+      "invoices": [
+        {
+          "id": "INV-2026-001",
+          "title": "Vận chuyển + lắp đặt sofa nhập khẩu Ý",
+          "date": "05/08/2026",
+          "amount": "2.500.000đ",
+          "status": "Đã thanh toán",
+          "paid": true,
+          "items": [
+            {
+              "name": "Vận chuyển nội thành TP.HCM",
+              "qty": "1 lô",
+              "price": "500.000đ"
+            },
+            {
+              "name": "Lắp đặt tại nhà",
+              "qty": "1 lô",
+              "price": "300.000đ"
+            },
+            {
+              "name": "Đóng gói chuyên dụng",
+              "qty": "1 lô",
+              "price": "150.000đ"
+            },
+            {
+              "name": "Condition report",
+              "qty": "1 món",
+              "price": "200.000đ"
+            },
+            {
+              "name": "Bảo hiểm hàng giá trị cao",
+              "qty": "1%",
+              "price": "1.350.000đ"
+            }
+          ]
+        }
+      ],
+      "documents": [
+        {
+          "id": "DOC-001",
+          "title": "Condition Report — Sofa nhập khẩu Ý",
+          "type": "PDF",
+          "date": "07/08/2026",
+          "status": "Hoàn thành",
+          "done": true
+        },
+        {
+          "id": "DOC-002",
+          "title": "Hợp đồng vận chuyển White Glove",
+          "type": "PDF",
+          "date": "05/08/2026",
+          "status": "Đã ký",
+          "done": true
+        },
+        {
+          "id": "DOC-003",
+          "title": "Biên bản nghiệm thu",
+          "type": "PDF",
+          "date": "—",
+          "status": "Chờ nghiệm thu",
+          "done": false
+        },
+        {
+          "id": "DOC-004",
+          "title": "Photo POD — Hình ảnh bàn giao",
+          "type": "Hình ảnh",
+          "date": "—",
+          "status": "Chờ giao hàng",
+          "done": false
         }
       ],
       "quotes": [
