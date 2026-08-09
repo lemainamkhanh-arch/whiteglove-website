@@ -66,6 +66,30 @@ footer{border-top:1px solid var(--line);padding:24px;text-align:center;color:var
 .nav .btn.primary:hover{background:var(--blue)}
 .menu{display:none;background:transparent;border:0;font-size:1.4rem;cursor:pointer}
 .nav{height:84px;background:rgba(252,251,248,.9)}.navlinks{font-size:.95rem;font-weight:650;gap:30px}.navlinks .btn{min-height:40px;padding:0 20px;letter-spacing:.15em}.navlinks a:not(.btn){position:relative;padding:4px 0}.navlinks a:not(.btn)::after{content:'';position:absolute;left:0;bottom:-7px;width:0;height:1px;background:var(--gold);transition:.28s ease}.navlinks a:not(.btn):hover{color:var(--gold)}.navlinks a:not(.btn):hover::after{width:100%}.nav-login{display:inline-flex;align-items:center;gap:7px;white-space:nowrap;font-size:.75rem;font-weight:600;letter-spacing:.15em;border-bottom:1px solid transparent;transition:.25s}.nav-login .nav-login-ic{color:var(--gold);flex:0 0 auto}.nav-login:hover{color:var(--blue);border-bottom-color:var(--gold)}.topline{font-size:.64rem;color:rgba(255,255,255,.82)}@media(max-width:900px){.navlinks{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;padding:20px 24px;border-bottom:1px solid var(--line);flex-direction:column;align-items:flex-start;gap:16px}.navlinks.open{display:flex}.menu{display:block}}
+
+/* Mobile menu consistency */
+html,body{max-width:100%;overflow-x:clip}
+@media(max-width:900px){.navlinks{gap:3px!important;padding:14px 24px 18px!important;max-height:calc(100vh - 84px);overflow-y:auto}.navlinks>a,.nav-dropdown>a{width:100%;min-height:40px;display:flex;align-items:center;font-size:.875rem!important;line-height:1.4;letter-spacing:.035em!important}.navlinks .btn{min-height:44px;font-size:.8rem!important;justify-content:center;margin-top:5px}.nav-dropdown{width:100%}.nav-dropdown-menu a{min-height:34px;display:flex!important;align-items:center;font-size:.78rem!important;padding:7px 0!important}.menu{width:44px;height:44px;display:grid!important;place-items:center;padding:0}}
+</style>
+<style>
+/* Mobile responsive final override */
+html,body{max-width:100%;overflow-x:clip}
+@media(max-width:900px){
+.navlinks{gap:3px!important;padding:14px 24px 18px!important;max-height:calc(100vh - 62px)!important;overflow-y:auto!important;overscroll-behavior:contain}
+.navlinks>a,.nav-dropdown>a{width:100%!important;min-height:40px!important;display:flex!important;align-items:center!important;font-size:.875rem!important;line-height:1.4!important;letter-spacing:.035em!important}
+.navlinks .btn{min-height:44px!important;font-size:.8rem!important;justify-content:center!important;margin-top:5px!important}
+.nav-dropdown{width:100%!important}.nav-dropdown-menu a{min-height:34px!important;display:flex!important;align-items:center!important;font-size:.78rem!important;line-height:1.35!important;padding:7px 0!important;letter-spacing:.02em!important}
+.menu{width:44px!important;height:44px!important;display:grid!important;place-items:center!important;padding:0!important}
+.partner-rail{grid-template-columns:repeat(2,minmax(0,1fr))!important}.partner-type:nth-child(2n){border-right:0!important}.partner-model{grid-template-columns:1fr!important}
+}
+@media(max-width:640px){
+.section{padding:64px 0!important}.btn{min-height:44px;font-size:.8rem;padding-left:18px;padding-right:18px}.eyebrow{font-size:.62rem!important;line-height:1.5}
+.partner-rail{grid-template-columns:minmax(0,1fr)!important}.partner-type{min-width:0!important;min-height:0!important;padding:24px 22px!important;border-right:0!important;border-bottom:1px solid rgba(29,27,24,.16)!important}.partner-type:last-child{border-bottom:0!important}.partner-model-copy{padding:30px 24px!important}
+.wgd-hero .hero-actions,.imp-hero .hero-actions,.buy-hero .hero-actions{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px!important}
+.wgd-hero .hero-actions .btn,.imp-hero .hero-actions .btn,.buy-hero .hero-actions .btn{padding-left:10px!important;padding-right:10px!important;justify-content:center!important;text-align:center!important}
+.wgd-hero-meta,.imp-hero-meta,.buy-hero-meta{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:12px!important}
+.imp-sparkle,.buy-sparkle{right:8px!important;width:76px!important;height:76px!important;opacity:.32!important}
+}
 </style>
 </head>
 <body>
