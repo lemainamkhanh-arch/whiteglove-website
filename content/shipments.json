@@ -95,5 +95,111 @@
       "status": "Đã phát hành",
       "paid": false
     }
+  ],
+  "quotes": [
+    {
+      "id": "Q-NOTION-001",
+      "title": "Báo giá chi phí vận chuyển (từ Notion Logistic System)",
+      "date": "2026-08-09",
+      "amount": "Chưác tính",
+      "status": "Đã báo giá",
+      "items": [
+        {
+          "name": "Airport Transfer",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "AWB Fee",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Storage Charges (Origin)",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Handover Fee",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "AMS Fee",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Automation Fee / EDI",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "SSC - Security Surcharge",
+          "layer": "Freight & Surcharge",
+          "price": "—"
+        },
+        {
+          "name": "Destination THC",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "Arrival Notice / DO",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "Other Services (Origin)",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Customs Declaration Fee (CDS) - Origin",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Delivery Charge (Destination)",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "Origin THC",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Export Customs Clearance",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "Other Services (Destination)",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "Pickup / Trucking (origin)",
+          "layer": "Local Charge",
+          "price": "—"
+        },
+        {
+          "name": "FSC - Fuel Surcharge",
+          "layer": "Freight & Surcharge",
+          "price": "—"
+        },
+        {
+          "name": "Import Customs Clearance",
+          "layer": "Destination Charge",
+          "price": "—"
+        },
+        {
+          "name": "Terminal Fee",
+          "layer": "Local Charge",
+          "price": "—"
+        }
+      ]
+    }
   ]
 }

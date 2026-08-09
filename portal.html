@@ -279,6 +279,7 @@ strong,b{font-weight:600}
 <li class="portal-menu-item" data-section="orders"><span class="portal-menu-num">02</span> Đơn hàng</li>
 <li class="portal-menu-item" data-section="invoices"><span class="portal-menu-num">03</span> Hoá đơn TM</li>
 <li class="portal-menu-item" data-section="documents"><span class="portal-menu-num">04</span> Chứng từ</li>
+<li class="portal-menu-item" data-section="quotes"><span class="portal-menu-num">05</span> Báo giá</li>
 </ul>
 <div class="portal-logout" onclick="window.logout()">← Đăng xuất</div>
 </aside>
@@ -287,6 +288,7 @@ strong,b{font-weight:600}
 <div class="portal-section" id="section-orders"><h2>Đơn hàng</h2><div id="orders-container"></div></div>
 <div class="portal-section" id="section-invoices"><h2>Hoá đơn thương mại</h2><table class="portal-table" id="inv-table" style="display:none"><thead><tr><th>Số hóa đơn</th><th>Nội dung</th><th>Ngày</th><th>Số tiền</th><th>Trạng thái</th></tr></thead><tbody id="inv-body"></tbody></table><div id="inv-detail"></div><p id="inv-empty" style="color:var(--muted);display:none">Chưa có hóa đơn.</p></div>
 <div class="portal-section" id="section-documents"><h2>Chứng từ</h2><div id="doc-list" style="display:grid;gap:12px"></div><p id="doc-empty" style="color:var(--muted);display:none">Chưa có chứng từ.</p></div>
+<div class="portal-section" id="section-quotes"><h2>Báo giá</h2><div id="quotes-list" style="display:grid;gap:12px"></div><p id="quotes-empty" style="color:var(--muted);display:none">Chưa có báo giá.</p></div>
 </main>
 </div>
 <script>
@@ -311,6 +313,7 @@ document.getElementById('orders-container').innerHTML=oh;
 var nInvs=sd.invoices||[];var cInvs=c.invoices||[];var allInvs=nInvs.concat(cInvs);
 if(allInvs.length){document.getElementById('inv-table').style.display='';document.getElementById('inv-empty').style.display='none';var ih='';allInvs.forEach(function(inv){var st=inv.status||(inv.paid?'Đã thanh toán':'Chưa thanh toán');var bg=inv.paid!==undefined?(inv.paid?'paid':'unpaid'):'pending';ih+='<tr><td><b>'+(inv.id||'')+'</b></td><td>'+(inv.title||inv.payment_terms||'')+'</td><td>'+(inv.date||'')+'</td><td style="color:var(--gold);font-weight:500">'+(inv.amount||'—')+'</td><td><span class="portal-badge '+bg+'">'+st+'</span></td></tr>'});document.getElementById('inv-body').innerHTML=ih}else{document.getElementById('inv-empty').style.display=''}
 if(c.documents&&c.documents.length){document.getElementById('doc-empty').style.display='none';var dh='';c.documents.forEach(function(doc){dh+='<div class="portal-card" style="display:flex;justify-content:space-between;align-items:center;padding:16px 20px;margin-bottom:0"><div><b style="font-size:.8rem">'+doc.id+'</b><div style="font-size:.86rem;margin-top:4px">'+doc.title+'</div><div style="font-size:.72rem;color:var(--muted);margin-top:2px">'+doc.type+' · '+doc.date+'</div></div><div><span class="portal-badge '+(doc.done?'done':'pending')+'">'+doc.status+'</span></div></div>'});document.getElementById('doc-list').innerHTML=dh}else{document.getElementById('doc-empty').style.display=''}
+var cQuotes=(c.quotes||[]).concat(sd.quotes||[]);if(cQuotes.length){document.getElementById('quotes-empty').style.display='none';var qh='';cQuotes.forEach(function(q){var items='';if(q.items){items='<div style="margin-top:8px;font-size:.8rem">';q.items.forEach(function(it){items+='<div style="display:flex;justify-content:space-between;padding:2px 0"><span>'+it.name+'</span><span style="color:var(--gold)">'+it.price+'</span></div>'});items+='</div>'}qh+='<div class="portal-card"><div style="display:flex;justify-content:space-between;align-items:start"><div><b style="font-size:.8rem">'+q.id+'</b><div style="font-size:.86rem;margin-top:4px">'+q.title+'</div><div style="font-size:.72rem;color:var(--muted);margin-top:2px">'+q.date+'</div>'+items+'</div><div style="text-align:right"><div style="font-family:Montserrat;font-size:1.1rem;color:var(--gold);font-weight:500">'+q.amount+'</div><span class="portal-badge paid">'+q.status+'</span></div></div></div>'});document.getElementById('quotes-list').innerHTML=qh}else{document.getElementById('quotes-empty').style.display=''}
 }
 window.logout=function(){localStorage.removeItem('wg_session');window.location.href='/'};
 })();
