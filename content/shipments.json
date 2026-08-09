@@ -1,0 +1,99 @@
+{
+  "shipments": [
+    {
+      "id": "EXP-SGN-YGN-001",
+      "title": "Perfume & Body Spray (DG) — Yangon",
+      "transport_mode": "FCL/SEA",
+      "status": "⚪ Nháp",
+      "from": "Cát Lái (SGN)",
+      "to": "Yangon (YGN)",
+      "incoterm": "FOB",
+      "commodity": "Perfume, Body Spray — 424 Pckgs",
+      "milestones": [
+        {
+          "label": "Xác nhận booking",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Đóng hàng & khai báo HQ",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Hàng lên tàu (B/L)",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Hàng đến cảng đích",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Lấy D/O",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Hàng về kho",
+          "done": false,
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "RBVN-1920",
+      "title": "Khung giường nhập khẩu (Base/Head Frame + Mattress Bottom)",
+      "transport_mode": "FCL/SEA",
+      "status": "🚢 Đang vận chuyển",
+      "from": "Cát Lái (SGN)",
+      "to": "Hồ Chí Minh",
+      "commodity": "Base Frame (60 pcs), Head Frame (60 pcs), Mattress Bottom (60 pcs)",
+      "cargo_ready": "2025-08-11",
+      "milestones": [
+        {
+          "label": "Xác nhận booking",
+          "done": true,
+          "date": null
+        },
+        {
+          "label": "Đóng hàng & khai báo HQ",
+          "done": true,
+          "date": null
+        },
+        {
+          "label": "Hàng lên tàu (B/L)",
+          "done": true,
+          "date": null
+        },
+        {
+          "label": "Hàng đến cảng đích",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Lấy D/O",
+          "done": false,
+          "date": null
+        },
+        {
+          "label": "Hàng về kho",
+          "done": false,
+          "date": null
+        }
+      ]
+    }
+  ],
+  "invoices": [
+    {
+      "id": "IN10-PAP082025",
+      "title": "Commercial Invoice",
+      "date": "2026-07-10",
+      "payment_terms": "L/C at sight",
+      "country_of_origin": "Vietnam",
+      "status": "Đã phát hành",
+      "paid": false
+    }
+  ]
+}
