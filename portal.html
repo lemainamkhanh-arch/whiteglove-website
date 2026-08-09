@@ -393,36 +393,6 @@ window.logout=function(){localStorage.removeItem('wg_session');window.location.h
 })();
 </script>
 </main>
-</div>
-<script>
-(function(){
-var s=localStorage.getItem('wg_session');
-if(!s){window.location.href='/#login';return;}
-var sd=JSON.parse(s);
-document.querySelectorAll('.portal-menu-item').forEach(function(item){item.addEventListener('click',function(){document.querySelectorAll('.portal-menu-item').forEach(function(i){i.classList.remove('active')});document.querySelectorAll('.portal-section').forEach(function(s){s.classList.remove('active')});item.classList.add('active');document.getElementById('section-'+item.dataset.section).classList.add('active')})});
-Promise.all([fetch('/content/customers.json').then(function(r){return r.json()}),fetch('/content/shipments.json').then(function(r){return r.json()})]).then(function(results){var c=results[0].customers.find(function(x){return x.id===sd.customerId});if(!c){localStorage.removeItem('wg_session');window.location.href='/#login';return}render(c,results[1])}).catch(function(e){console.error(e)});
-function render(c,sd){
-document.getElementById('cust-name').textContent=c.name;
-document.getElementById('cust-id').textContent=c.id;
-document.getElementById('portal-app').style.display='flex';
-var ships=sd.shipments||[];
-var active=ships.filter(function(s){return s.status&&s.status.indexOf('Hàng về kho')===-1}).length;
-document.getElementById('stat-orders').textContent=ships.length;
-document.getElementById('stat-active').textContent=active;
-document.getElementById('stat-docs').textContent=(c.documents||[]).length;
-if(ships.length){var lo=ships[0];var ms=lo.milestones.map(function(m){return '<div class="portal-milestone"><div class="portal-milestone-dot '+(m.done?'done':'pending')+'"></div><span class="portal-milestone-label">'+m.label+'</span><span class="portal-milestone-date">'+(m.date||'—')+'</span></div>'}).join('');document.getElementById('overview-recent').innerHTML='<div class="portal-card"><h3>'+lo.title+'</h3><p style="color:var(--muted);font-size:.84rem;margin:0 0 12px">'+lo.id+' · '+lo.status+'</p>'+ms+'</div>'}
-var oh=ships.map(function(o){var ms=o.milestones.map(function(m){return '<div class="portal-milestone"><div class="portal-milestone-dot '+(m.done?'done':'pending')+'"></div><span class="portal-milestone-label">'+m.label+'</span><span class="portal-milestone-date">'+(m.date||'—')+'</span></div>'}).join('');var ft='';if(o.from&&o.to)ft='<p style="color:var(--muted);font-size:.8rem;margin:0 0 16px">Từ: '+o.from+' → Đến: '+o.to+'</p>';else if(o.transport_mode)ft='<p style="color:var(--muted);font-size:.8rem;margin:0 0 16px">'+o.transport_mode+'</p>';return '<div class="portal-card"><h3>'+o.title+'</h3><p style="color:var(--muted);font-size:.84rem;margin:0 0 4px">'+o.id+'</p>'+ft+'<div style="font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:8px">Tiến độ</div>'+ms+'</div>'}).join('');
-document.getElementById('orders-container').innerHTML=oh;
-var nInvs=sd.invoices||[];var cInvs=c.invoices||[];var allInvs=nInvs.concat(cInvs);
-if(allInvs.length){document.getElementById('inv-table').style.display='';document.getElementById('inv-empty').style.display='none';var ih='';allInvs.forEach(function(inv){var st=inv.status||(inv.paid?'Đã thanh toán':'Chưa thanh toán');var bg=inv.paid!==undefined?(inv.paid?'paid':'unpaid'):'pending';ih+='<tr><td><b>'+(inv.id||'')+'</b></td><td>'+(inv.title||inv.payment_terms||'')+'</td><td>'+(inv.date||'')+'</td><td style="color:var(--gold);font-weight:500">'+(inv.amount||'—')+'</td><td><span class="portal-badge '+bg+'">'+st+'</span></td></tr>'});document.getElementById('inv-body').innerHTML=ih}else{document.getElementById('inv-empty').style.display=''}
-var allDocs=[];if(ships.length){allDocs=allDocs.concat(ships[0].documents||[])}allDocs=allDocs.concat(c.documents||[]);if(allDocs.length){document.getElementById('doc-empty').style.display='none';var groups={'hải quan':'🔵 Chứng từ hải quan','thương mại':'🟢 Chứng từ thương mại','ủy thác':'🟣 Chứng từ ủy thác','thanh toán':'🟡 Chứng từ thanh toán'};var gh='';Object.keys(groups).forEach(function(cat){var catDocs=allDocs.filter(function(d){return d.category===cat});if(catDocs.length){gh+='<div class="doc-group"><div class="doc-group-header">'+groups[cat]+'</div>';catDocs.forEach(function(doc){var icon=doc.done?'✅':'⬜';var ref=doc.reference&&doc.reference!='—'?' · '+doc.reference:'';var dt=doc.date&&doc.date!='—'?' · '+doc.date:'';gh+='<div class="doc-item"><div><div class="doc-item-name">'+icon+' '+doc.title+'</div><div class="doc-item-meta">'+ref+dt+'</div></div></div>';});gh+='</div>';}});document.getElementById('doc-groups').innerHTML=gh;}else{document.getElementById('doc-empty').style.display=''}
-var cQuotes=(c.quotes||[]).concat(sd.quotes||[]);if(cQuotes.length){document.getElementById('quotes-empty').style.display='none';var qh='';cQuotes.forEach(function(q){var items='';if(q.items){items='<div style="margin-top:8px;font-size:.8rem">';q.items.forEach(function(it){items+='<div style="display:flex;justify-content:space-between;padding:2px 0"><span>'+it.name+'</span><span style="color:var(--gold)">'+it.price+'</span></div>'});items+='</div>'}qh+='<div class="portal-card"><div style="display:flex;justify-content:space-between;align-items:start"><div><b style="font-size:.8rem">'+q.id+'</b><div style="font-size:.86rem;margin-top:4px">'+q.title+'</div><div style="font-size:.72rem;color:var(--muted);margin-top:2px">'+q.date+'</div>'+items+'</div><div style="text-align:right"><div style="font-family:Montserrat;font-size:1.1rem;color:var(--gold);font-weight:500">'+q.amount+'</div><span class="portal-badge paid">'+q.status+'</span></div></div></div>'});document.getElementById('quotes-list').innerHTML=qh}else{document.getElementById('quotes-empty').style.display=''}
-}
-window.logout=function(){localStorage.removeItem('wg_session');window.location.href='/'};
-})();
-</script>
-</main>
-
 <footer class="footer"><div class="wrap"><div class="footer-grid"><div><a class="brand" href="/" aria-label="White Glove"><svg class="brand-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.81 34.9"><defs><style>
       .cls-1 {
         fill: #1d1d1b;
