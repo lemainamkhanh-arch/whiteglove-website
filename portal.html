@@ -245,7 +245,7 @@ strong,b{font-weight:600}
 .portal-section.active{display:flex}
 
 /* Column 2 - listing */
-.portal-listing{flex:0 0 282px;overflow-y:auto;border-right:1px solid var(--line);background:#fff}
+.portal-listing{flex:0 0 340px;overflow-y:auto;border-right:1px solid var(--line);background:#fff}
 .portal-listing-head{padding:16px 18px 11px;border-bottom:1px solid var(--line);position:sticky;top:0;background:#fff;z-index:2}
 .portal-listing-title{font-family:Montserrat,sans-serif;font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .portal-listing-count{font-size:.72rem;color:var(--gold);margin-top:2px}
@@ -253,7 +253,7 @@ strong,b{font-weight:600}
 .portal-row:hover{background:rgba(177,138,82,.05)}
 .portal-row.selected{background:rgba(177,138,82,.1);border-left-color:var(--gold)}
 .portal-row-title{font-size:.84rem;font-weight:500;margin-bottom:3px}
-.portal-row-meta{font-size:.71rem;color:var(--muted);line-height:1.5}
+.portal-row-meta{font-size:.71rem;color:var(--muted);line-height:1.5;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.portal-row-badge{display:inline-block;font-size:.62rem;font-weight:600;padding:1px 7px;border-radius:4px;margin-bottom:4px}.portal-row-badge.b-blue{background:#eff6ff;color:#2563eb}.portal-row-badge.b-green{background:#f0fdf4;color:#16a34a}.portal-row-badge.b-gray{background:#f5f5f4;color:#78716c}.portal-row-badge.b-amber{background:#fffbeb;color:#ca8a04}.portal-row-tags{display:flex;flex-wrap:wrap;gap:3px;margin:3px 0}.portal-row-tag{font-size:.6rem;padding:1px 5px;border-radius:3px;background:#f5f5f4}.portal-row-price{font-size:.78rem;font-weight:600;color:var(--gold);margin-top:2px}.portal-row-route{font-size:.68rem;color:var(--muted);margin-bottom:2px}
 
 /* Column 3 - detail (wide) */
 .portal-detail{flex:1;min-width:0;overflow-y:auto;padding:26px 34px 64px}
@@ -429,7 +429,10 @@ document.getElementById('overview-detail').innerHTML=h;
 }
 function renderQuoteList(){
 var h='<div class="portal-listing-head"><div class="portal-listing-title">Báo giá</div><div class="portal-listing-count">'+QT.length+' báo giá</div></div>';
-QT.forEach(function(q,i){h+='<div class="portal-row" data-q="'+i+'"><div class="portal-row-title">'+esc(q.quote_no||q.id)+'</div><div class="portal-row-meta">'+esc(q.transport_mode||'')+'<br>'+esc(q.route||'')+'<br>'+vnd(q.total_vnd)+'</div></div>'});
+QT.forEach(function(q,i){
+var st=q.status||'';var bc='b-gray',sl='Chờ xử lý';
+if(st.indexOf('chot')>=0){bc='b-green';sl='Đã chốt giá'}else if(st.indexOf('bao')>=0){bc='b-blue';sl='Đã báo giá'}
+h+='<div class="portal-row" data-q="'+i+'"><div class="portal-row-title">'+esc(q.quote_no||q.id)+'</div><span class="portal-row-badge '+bc+'">'+sl+'</span><div class="portal-row-meta">'+esc(q.transport_mode||'')+' · '+esc(q.service_level||'')+'</div><div class="portal-row-route">'+esc(q.route||'')+'</div><div class="portal-row-price">'+vnd(q.total_vnd)+'</div></div>'});
 var el=document.getElementById('quotes-listing');el.innerHTML=h;bindRows(el,'data-q',showQuote);
 }
 function showQuote(i){
@@ -460,7 +463,11 @@ document.getElementById('quotes-detail').innerHTML=h;
 }
 function renderOrderList(){
 var h='<div class="portal-listing-head"><div class="portal-listing-title">Đơn hàng</div><div class="portal-listing-count">'+SH.length+' đơn hàng</div></div>';
-SH.forEach(function(s,i){h+='<div class="portal-row" data-s="'+i+'"><div class="portal-row-title">'+esc(s.id)+'</div><div class="portal-row-meta">'+esc(s.status||'')+'<br>'+esc(s.from||'')+' → '+esc(s.to||'')+'</div></div>'});
+SH.forEach(function(s,i){
+var st=s.status||'';var bc='b-gray';
+if(st.indexOf('Đang')>=0){bc='b-blue'}else if(st.indexOf('hoàn')>=0){bc='b-green'}
+var bt=st;if(st.charCodeAt(0)>127){bt=st.replace(/^\S+\s*/,'')}
+h+='<div class="portal-row" data-s="'+i+'"><div class="portal-row-title">'+esc(s.id)+'</div><span class="portal-row-badge '+bc+'">'+esc(bt)+'</span><div class="portal-row-route">'+esc(s.from||'')+' → '+esc(s.to||'')+'</div><div class="portal-row-meta">'+esc(s.commodity||'')+'</div></div>'});
 var el=document.getElementById('orders-listing');el.innerHTML=h;bindRows(el,'data-s',showOrder);
 }
 function showOrder(i){
@@ -481,7 +488,9 @@ document.getElementById('orders-detail').innerHTML=h;
 function renderDocList(){
 var h='<div class="portal-listing-head"><div class="portal-listing-title">Hoá đơn chứng từ</div><div class="portal-listing-count">'+SH.length+' đơn hàng</div></div>';
 SH.forEach(function(s,i){var docs=s.documents||[];var dd=0;docs.forEach(function(x){if(x.done)dd++});
-h+='<div class="portal-row" data-d="'+i+'"><div class="portal-row-title">'+esc(s.id)+'</div><div class="portal-row-meta">'+esc(s.status||'')+'<br>'+dd+'/'+docs.length+' chứng từ đã có</div></div>'});
+var cats={};docs.forEach(function(x){var c=x.category||'Khác';if(!cats[c])cats[c]={t:0,d:0};cats[c].t++;if(x.done)cats[c].d++});
+var tags='';Object.keys(cats).forEach(function(c){var cc=cats[c];var col=cc.d>=cc.t?'#16a34a':'#ca8a04';tags+='<span class="portal-row-tag" style="color:'+col+'">'+c+' '+cc.d+'/'+cc.t+'</span>'});
+h+='<div class="portal-row" data-d="'+i+'"><div class="portal-row-title">'+esc(s.id)+'</div><div class="portal-row-tags">'+tags+'</div><div class="portal-row-meta">'+dd+'/'+docs.length+' chứng từ đã có</div></div>'});
 var el=document.getElementById('docs-listing');el.innerHTML=h;bindRows(el,'data-d',showDocs);
 }
 function showDocs(i){
