@@ -1,0 +1,9 @@
+name = "whiteglove-cold-email"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+NOTION_PROSPECTS_DB_ID = "d9c2076b-37fd-418c-814d-964f1c3c191d"
+NOTION_TEMPLATES_DB_ID = "3f1a51eb-621d-4f1c-9f1a-ac35704d98cc"
+NOTION_CAMPAIGNS_DB_ID = "34f6de17-7101-4840-9d27-76276d18c7fb"
+SENDER_EMAIL = "White Glove Logistic <sales@mail.whiteglove.vn>"
