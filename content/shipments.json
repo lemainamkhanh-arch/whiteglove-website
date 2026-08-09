@@ -119,6 +119,30 @@
           "reference": "—",
           "date": "—"
         }
+      ],
+      "cargo_lines": [
+        {
+          "description": "Perfume (DG)",
+          "qty": 200,
+          "unit": "pcs",
+          "dimensions": "15x8x5 cm",
+          "weight": 100.0,
+          "volume": 0.8,
+          "unit_price": 15.0,
+          "currency": "USD",
+          "amount": 3000
+        },
+        {
+          "description": "Body Spray (DG)",
+          "qty": 224,
+          "unit": "pcs",
+          "dimensions": "12x5x4 cm",
+          "weight": 67.2,
+          "volume": 0.6,
+          "unit_price": 8.0,
+          "currency": "USD",
+          "amount": 1792
+        }
       ]
     },
     {
@@ -239,6 +263,41 @@
           "done": false,
           "reference": "—",
           "date": "—"
+        }
+      ],
+      "cargo_lines": [
+        {
+          "description": "Base Frame",
+          "qty": 60,
+          "unit": "pcs",
+          "dimensions": "200x150x10 cm",
+          "weight": 720.0,
+          "volume": 1.8,
+          "unit_price": 45.0,
+          "currency": "USD",
+          "amount": 2700
+        },
+        {
+          "description": "Head Frame",
+          "qty": 60,
+          "unit": "pcs",
+          "dimensions": "120x80x8 cm",
+          "weight": 480.0,
+          "volume": 1.2,
+          "unit_price": 35.0,
+          "currency": "USD",
+          "amount": 2100
+        },
+        {
+          "description": "Mattress Bottom",
+          "qty": 60,
+          "unit": "pcs",
+          "dimensions": "200x150x15 cm",
+          "weight": 360.0,
+          "volume": 1.8,
+          "unit_price": 28.0,
+          "currency": "USD",
+          "amount": 1680
         }
       ]
     }

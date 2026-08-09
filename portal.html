@@ -471,16 +471,23 @@ var el=document.getElementById('orders-listing');el.innerHTML=h;bindRows(el,'dat
 function showOrder(i){
 var s=SH[i];if(!s)return;
 var ms=s.milestones||[];var done=0;ms.forEach(function(x){if(x.done)done++});
-var docs=s.documents||[];var dd=0;docs.forEach(function(x){if(x.done)dd++});
 var h='<h2>'+esc(s.id)+' — '+esc(s.title||'')+'</h2>';
 h+='<div class="portal-detail-sub">'+esc(s.status||'')+' · '+esc(s.transport_mode||'')+' · '+done+'/'+ms.length+' mốc hoàn thành</div>';
 h+='<div class="portal-meta-grid">'+meta('Cảng đi',s.from)+meta('Cảng đến',s.to)+meta('Incoterm',s.incoterm)+meta('Phương thức',s.transport_mode)+meta('Hàng hoá',s.commodity)+meta('Trạng thái',s.status)+'</div>';
-h+='<div class="portal-block-title">Lợ trình đơn hàng</div>';
-if(!ms.length){h+='<div class="doc-row-meta">Chưa có mốc lợ trình</div>'}
+h+='<div class="portal-block-title">Lộ trình đơn hàng</div>';
+if(!ms.length){h+='<div class="doc-row-meta">Chưa có mốc lộ trình</div>'}
 ms.forEach(function(m){h+='<div class="timeline-item"><div class="timeline-dot '+(m.done?'done':'pending')+'"></div><div><div class="timeline-label '+(m.done?'':'pending')+'">'+esc(m.label||'')+'</div><div class="timeline-date">'+esc(m.date?m.date:(m.done?'Đã hoàn thành':'Chưa thực hiện'))+'</div></div></div>'});
-h+='<div class="portal-block-title">Tiến độ chứng từ</div>';
-CATS.forEach(function(c){var g=docs.filter(function(x){return x.category===c.key});if(!g.length)return;var gd=0;g.forEach(function(x){if(x.done)gd++});
-h+='<div class="doc-row"><div class="doc-row-main"><div class="doc-row-name" style="color:'+c.color+'">'+esc(c.label)+'</div><div class="doc-row-meta">'+gd+'/'+g.length+' đã có</div></div><span class="portal-badge '+(gd===g.length?'done':'pending')+'">'+(gd===g.length?'Đủ':'Thiếu')+'</span></div>'});
+var cl=s.cargo_lines||[];
+h+='<div class="portal-block-title">Chi tiết hàng hoá</div>';
+if(!cl.length){h+='<div class="doc-row-meta">Chưa có chi tiết hàng hoá</div>'}
+else{
+h+='<div style="overflow-x:auto"><table class="quote-table" style="width:100%;margin-top:8px"><thead><tr><th>Mặt hàng</th><th class="num">SL</th><th>Đơn vị</th><th>Kích thước</th><th class="num">TL (kg)</th><th class="num">CBM</th><th class="num">Đơn giá</th><th class="num">Thành tiền</th></tr></thead><tbody>';
+var tw=0,tv=0,ta=0;
+cl.forEach(function(c){tw+=(c.weight||0);tv+=(c.volume||0);ta+=(c.amount||0);
+var cur=c.currency||'USD';var cs=cur==='USD'?'$':cur+' ';
+h+='<tr><td>'+esc(c.description||'')+'</td><td class="num">'+num(c.qty||0,0)+'</td><td>'+esc(c.unit||'')+'</td><td>'+esc(c.dimensions||'—')+'</td><td class="num">'+num(c.weight||0,1)+'</td><td class="num">'+num(c.volume||0,2)+'</td><td class="num">'+cs+num(c.unit_price||0,2)+'</td><td class="num">'+cs+num(c.amount||0,0)+'</td></tr>'});
+h+='<tr style="font-weight:600;border-top:2px solid var(--gold)"><td>Tổng cộng</td><td class="num">—</td><td>—</td><td>—</td><td class="num">'+num(tw,1)+'</td><td class="num">'+num(tv,2)+'</td><td>—</td><td class="num">$'+num(ta,0)+'</td></tr>';
+h+='</tbody></table></div>'}
 document.getElementById('orders-detail').innerHTML=h;
 }
 function renderDocList(){
