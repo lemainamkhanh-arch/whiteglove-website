@@ -40,6 +40,85 @@
           "done": false,
           "date": null
         }
+      ],
+      "documents": [
+        {
+          "title": "Tờ khai hải quan NK",
+          "category": "hải quan",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Chứng từ nộp thuế",
+          "category": "hải quan",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Commercial Invoice",
+          "category": "thương mại",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Packing List",
+          "category": "thương mại",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Vận đơn (B/L)",
+          "category": "thương mại",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Hợp đồng ngoại thương",
+          "category": "thương mại",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Hợp đồng ủy thác XNK",
+          "category": "ủy thác",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Biên bản thanh lý HĐ ủy thác",
+          "category": "ủy thác",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Hóa đơn GTGT phí dịch vụ",
+          "category": "ủy thác",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Chứng từ thanh toán quốc tế",
+          "category": "thanh toán",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Chứng từ thanh toán nội địa",
+          "category": "thanh toán",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        }
       ]
     },
     {
@@ -81,6 +160,85 @@
           "label": "Hàng về kho",
           "done": false,
           "date": null
+        }
+      ],
+      "documents": [
+        {
+          "title": "Tờ khai hải quan NK",
+          "category": "hải quan",
+          "done": true,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Chứng từ nộp thuế",
+          "category": "hải quan",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Commercial Invoice",
+          "category": "thương mại",
+          "done": true,
+          "reference": "IN10-PAP082025",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "Packing List",
+          "category": "thương mại",
+          "done": true,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Vận đơn (B/L)",
+          "category": "thương mại",
+          "done": true,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Hợp đồng ngoại thương",
+          "category": "thương mại",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Hợp đồng ủy thác XNK",
+          "category": "ủy thác",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Biên bản thanh lý HĐ ủy thác",
+          "category": "ủy thác",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Hóa đơn GTGT phí dịch vụ",
+          "category": "ủy thác",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Chứng từ thanh toán quốc tế",
+          "category": "thanh toán",
+          "done": false,
+          "reference": "—",
+          "date": "—"
+        },
+        {
+          "title": "Chứng từ thanh toán nội địa",
+          "category": "thanh toán",
+          "done": false,
+          "reference": "—",
+          "date": "—"
         }
       ]
     }
