@@ -386,10 +386,20 @@ const WG_LEAD_ENDPOINT='https://whiteglove-lead-intake.lemainamkhanh.workers.dev
     var pw=(document.getElementById('loginPw').value||'').trim();
     msg.classList.add('show');
     if(!id||!pw){ msg.innerHTML='Vui lòng nhập email/mã khách hàng và mật khẩu.'; return; }
-    msg.innerHTML='Client Portal đang mở dần theo từng nhóm khách hàng. Chúng tôi sẽ gửi đường dẫn truy cập tới <b>'+id.replace(/[<>]/g,'')+'</b> trong 1 ngày làm việc.';
+    msg.innerHTML='Đang xác thực...';
+    fetch('/content/customers.json').then(function(r){return r.json();}).then(function(data){
+      var c=data.customers.find(function(x){return (x.email===id||x.id===id)&&x.password===pw;});
+      if(c){
+        localStorage.setItem('wg_session',JSON.stringify({customerId:c.id,name:c.name}));
+        msg.innerHTML='Đăng nhập thành công! Đang chuyển hướng...';
+        setTimeout(function(){window.location.href='/portal.html';},800);
+      } else {
+        msg.innerHTML='Email/mã khách hàng hoặc mật khẩu không đúng. Thử lại hoặc liên hệ hotline để được hỗ trợ.';
+      }
+    }).catch(function(e){ msg.innerHTML='Không thể kết nối tới máy chủ. Vui lòng thử lại sau.'; });
   });
   var fg=document.querySelector('[data-login-forgot]');
-  if(fg) fg.addEventListener('click',function(e){ e.preventDefault(); msg.classList.add('show'); msg.innerHTML='Nhập email đã đăng ký rồi bấm <b>Vào Client Portal</b> — chúng tôi sẽ gửi liên kết đặt lại mật khẩu.'; });
+  if(fg) fg.addEventListener('click',function(e){ e.preventDefault(); msg.classList.add('show'); msg.innerHTML='Liên hệ hotline hoặc email White Glove để đặt lại mật khẩu. Demo: demo@whiteglove.vn / Demo@2026'; });
 })();
 </script>
 </body></html>

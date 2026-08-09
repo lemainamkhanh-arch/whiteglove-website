@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "id": "WG-1042",
+      "email": "demo@whiteglove.vn",
+      "password": "Demo@2026",
+      "name": "Khách Hàng Demo",
+      "phone": "0901234567",
+      "address": "Quận 1, TP.HCM",
+      "orders": [
+        {
+          "id": "WG-1042-01",
+          "title": "Vận chuyển sofa nhập khẩu Ý",
+          "status": "Đang vận chuyển",
+          "date": "2026-08-05",
+          "from": "Kho Thương Đô, Quảng Châu",
+          "to": "Quận 1, TP.HCM",
+          "milestones": [
+            {"label": "Tiếp nhận yêu cầu", "date": "05/08/2026", "done": true},
+            {"label": "Khảo sát & báo giá", "date": "06/08/2026", "done": true},
+            {"label": "Đóng gói chuyên dụng", "date": "07/08/2026", "done": true},
+            {"label": "Vận chuyển", "date": "09/08/2026", "done": true},
+            {"label": "Lắp đặt tại nhà", "date": "—", "done": false},
+            {"label": "Nghiệm thu & chứng từ", "date": "—", "done": false}
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "id": "Q-2026-001",
+          "title": "Báo giá giao hàng + lắp đặt sofa 3 chỗ",
+          "date": "01/08/2026",
+          "amount": "2.500.000đ",
+          "status": "Đã gửi"
+        }
+      ]
+    }
+  ]
+}
