@@ -222,6 +222,13 @@ html,body{max-width:100%;overflow-x:clip}
 .yt-pager button:hover:not(:disabled){border-color:var(--gold);color:var(--gold)}
 .yt-pager button[aria-current="true"]{background:var(--gold);border-color:var(--gold);color:#fff}
 .yt-pager button:disabled{opacity:.3;cursor:default}
+.yt-filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:22px}
+.yt-chip{border:1px solid #e2dac9;background:transparent;color:#5f5849;font-size:.72rem;font-weight:650;letter-spacing:.04em;padding:9px 16px;border-radius:99px;cursor:pointer;transition:.2s ease;font-family:inherit}
+.yt-chip:hover{border-color:var(--gold);color:var(--gold)}
+.yt-chip.on{background:var(--ink);border-color:var(--ink);color:#f5f1e8}
+.yt-cat{position:absolute;top:8px;left:8px;z-index:2;background:rgba(20,19,17,.72);color:#e8ddc8;font-size:.56rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 9px;border-radius:99px;pointer-events:none}
+.yt-native{width:100%;height:100%;object-fit:cover;display:block}
+@media(max-width:640px){.yt-filters{gap:6px;flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}.yt-chip{padding:8px 13px;font-size:.68rem;flex:none}}
 @media(max-width:640px){.yt-pager{gap:6px;margin-top:20px}.yt-pager button{min-width:34px;height:34px;padding:0 8px;font-size:.66rem}}
 </style>
 <style>
@@ -279,6 +286,7 @@ html,body{max-width:100%;overflow-x:clip}
 </div></div></section>
 <section class="section soft"><div class="wrap">
 <div class="section-head"><div><div class="eyebrow">Video Reels</div><h2>Khám phá nguồn hàng</h2></div><p>Xem các video reel thực tế về quá trình sourcing, kiểm tra và giao nhận hàng cao cấp.</p></div>
+<div class="yt-filters" id="yt-filters" role="group" aria-label="Lọc video theo danh mục"></div>
 <div class="yt-shorts-grid" id="yt-shorts-grid" style="margin-top:28px"></div>
 <div class="yt-pager" id="yt-pager" role="navigation" aria-label="Phan trang video"></div>
 <noscript><p style="text-align:center;padding:20px"><a href="https://www.youtube.com/@WhieGloveLogistic" target="_blank">Xem video trên YouTube →</a></p></noscript></div></section>
@@ -294,9 +302,13 @@ var pager=document.getElementById('yt-pager');
 if(!grid)return;
 var items=[];
 var page=1;
+var activeCat=null;
+var cats=[];
+var filtersEl=document.getElementById('yt-filters');
 function getPerPage(){return window.matchMedia('(max-width:640px)').matches?6:8}
 var perPage=getPerPage();
-function totalPages(){return Math.max(1,Math.ceil(items.length/perPage))}
+function filtered(){return activeCat?items.filter(function(s){return s.category===activeCat}):items}
+function totalPages(){return Math.max(1,Math.ceil(filtered().length/perPage))}
 function decode(t){return String(t||'').replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>')}
 function makeCard(s){
 var w=document.createElement('div');
@@ -304,18 +316,41 @@ w.className='yt-short-wrap';
 var td=document.createElement('div');
 td.className='yt-short-thumb';
 td.dataset.vid=s.id;
+if(s.type==='video'){
+var vid=document.createElement('video');
+vid.src=s.url;
+vid.muted=true;
+vid.playsInline=true;
+vid.setAttribute('playsinline','');
+vid.preload='metadata';
+vid.className='yt-native';
+td.appendChild(vid);
+}else{
 var img=document.createElement('img');
-img.src='https://i.ytimg.com/vi/'+s.id+'/oar2.jpg';
+img.src='https://i.ytimg.com/vi/'+s.id+'/hqdefault.jpg';
 img.alt=decode(s.title);
 img.loading='lazy';
 td.appendChild(img);
+}
 var play=document.createElement('span');
 play.className='yt-play';play.textContent='\u25B6';
 td.appendChild(play);
 var tl=document.createElement('span');
 tl.className='yt-short-title';tl.textContent=decode(s.title);
 td.appendChild(tl);
+if(s.category){
+var cb=document.createElement('span');
+cb.className='yt-cat';
+cb.textContent=s.category;
+td.appendChild(cb);
+}
 td.addEventListener('click',function(){
+if(s.type==='video'){
+var v=td.querySelector('video');
+if(v){v.muted=false;v.setAttribute('controls','');v.play()}
+play.style.display='none';
+return;
+}
 var ifr=document.createElement('iframe');
 ifr.src='https://www.youtube.com/embed/'+s.id+'?autoplay=1';
 ifr.frameBorder='0';
@@ -348,8 +383,11 @@ pager.appendChild(mkBtn('\u203A',page<tp,false,function(){go(page+1)}));
 }
 function renderPage(){
 grid.innerHTML='';
+var list=filtered();
+var tp=Math.max(1,Math.ceil(list.length/perPage));
+if(page>tp)page=tp;
 var from=(page-1)*perPage;
-items.slice(from,from+perPage).forEach(function(s){grid.appendChild(makeCard(s))});
+list.slice(from,from+perPage).forEach(function(s){grid.appendChild(makeCard(s))});
 renderPager();
 }
 function go(n){
@@ -359,6 +397,27 @@ page=n;
 renderPage();
 var head=grid.parentElement?grid.parentElement.querySelector('.section-head'):null;
 if(head&&head.scrollIntoView)head.scrollIntoView({behavior:'smooth',block:'start'});
+}
+function renderChips(){
+if(!filtersEl)return;
+filtersEl.innerHTML='';
+var counts={};
+items.forEach(function(s){if(s.category)counts[s.category]=(counts[s.category]||0)+1});
+function mk(label,cat,count){
+var b=document.createElement('button');
+b.type='button';
+b.className='yt-chip'+(activeCat===cat?' on':'');
+b.textContent=label+(count!=null?' ('+count+')':'');
+b.addEventListener('click',function(){
+activeCat=(activeCat===cat)?null:cat;
+page=1;
+renderChips();
+renderPage();
+});
+filtersEl.appendChild(b);
+}
+mk('Tất cả',null,items.length);
+cats.forEach(function(c){if(counts[c])mk(c,c,counts[c])});
 }
 var rzT;
 window.addEventListener('resize',function(){
@@ -374,8 +433,10 @@ renderPage();
 });
 fetch('content/yt-shorts.json').then(function(r){return r.json()}).then(function(data){
 items=(data&&data.shorts)?data.shorts:[];
+cats=(data&&data.categories)?data.categories:[];
 page=1;
 perPage=getPerPage();
+renderChips();
 renderPage();
 }).catch(function(err){
 console.error('Failed to load YT shorts:',err);
