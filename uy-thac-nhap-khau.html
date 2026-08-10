@@ -346,6 +346,64 @@ html,body{max-width:100%;overflow-x:clip}
 .nav-dropdown-menu a:hover{color:var(--blue)!important}
 }
 </style>
+<style>
+/* Import page — mobile compact redesign */
+@media(max-width:640px){
+/* Hero visual: shorter */
+.imp-hero-visual{width:100%;aspect-ratio:16/10;justify-self:stretch}
+/* Risk minis: tighter */
+.imp-risk-box{margin-top:-36px}
+.imp-risk-mini{padding:16px 20px}
+.imp-risk-mini h3{font-size:1rem;margin:6px 0 4px}
+.imp-risk-mini p{font-size:.8rem;line-height:1.5;margin:0}
+.imp-risk-intro{padding-top:30px;margin-bottom:24px}
+.imp-risk-intro h2{font-size:1.6rem}
+.imp-risk-intro p{font-size:.86rem}
+/* Editorial */
+.imp-editorial-in{grid-template-columns:1fr;gap:16px}
+.imp-editorial h2{font-size:clamp(1.7rem,7.2vw,2.1rem);margin:10px 0}
+.imp-editorial p{font-size:.9rem;line-height:1.6;margin-bottom:10px}
+/* Process steps with images: compact rows */
+.imp-psteps{grid-template-columns:1fr;gap:6px}
+.imp-pstep{display:grid;grid-template-columns:92px 1fr;gap:2px 14px;align-items:center;padding:11px 0;border-bottom:1px solid #e4d9c6}
+.imp-pstep:last-child{border-bottom:0}
+.imp-pstep:hover .imp-pstep-img img{transform:none}
+.imp-pstep-img{grid-row:1/4;width:92px;height:70px;aspect-ratio:auto;margin-bottom:0}
+.imp-pstep span{font-size:.58rem}
+.imp-pstep h3{font-size:.95rem;margin:2px 0 2px}
+.imp-pstep p{font-size:.76rem;line-height:1.45}
+/* Dual cards: content-defined height */
+.imp-dual{grid-template-columns:1fr}
+.imp-dual-card{min-height:0}
+.imp-dual-copy{padding:26px 22px}
+.imp-dual-copy h3{font-size:1.35rem;margin:12px 0 10px}
+.imp-dual-copy p{font-size:.84rem;line-height:1.55}
+.imp-dual-copy ul{padding-left:16px;margin:0 0 14px}
+.imp-dual-copy li{font-size:.8rem;line-height:1.5;margin-bottom:4px}
+/* Goods mosaic: 2-col compact */
+.imp-goods-head{grid-template-columns:1fr;gap:12px;margin-bottom:24px}
+.imp-goods-head h2{font-size:clamp(1.7rem,7vw,2.1rem)}
+.imp-goods-head p{font-size:.88rem;line-height:1.6}
+.imp-goods-grid{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:none;gap:10px;background:none}
+.imp-good,.imp-good.big,.imp-good.wide{grid-column:auto;grid-row:auto;height:168px;border-radius:8px}
+.imp-good-copy{left:12px;right:10px;bottom:10px}
+.imp-good-copy small{font-size:.5rem;letter-spacing:.12em}
+.imp-good-copy h3{font-size:.92rem;margin:4px 0 2px}
+.imp-good-copy p{font-size:.66rem;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* Feature band */
+.imp-feature{grid-template-columns:1fr;min-height:0}
+.imp-feature-img{height:190px}
+.imp-feature-img img{width:100%;height:100%;object-fit:cover;display:block}
+.imp-feature-copy{padding:26px 22px;max-width:none}
+.imp-feature-copy h2{font-size:clamp(1.5rem,6.4vw,1.9rem);margin:10px 0}
+.imp-feature-copy p{font-size:.86rem;line-height:1.6}
+/* Quote */
+.imp-quote{padding:46px 0}
+.imp-quote-in{gap:20px}
+.imp-quote h2{font-size:1.5rem}
+.imp-quote p{font-size:.86rem}
+}
+</style>
 </head>
 <body>
 <div class="topline">WHITE GLOVE LOGISTICS · TP.HCM · PREMIUM DELIVERY & INSTALLATION</div>

@@ -390,6 +390,49 @@ html,body{max-width:100%;overflow-x:clip}
 .nav-dropdown-menu a:hover{color:var(--blue)!important}
 }
 </style>
+<style>
+/* WGD page — mobile compact redesign */
+@media(max-width:640px){
+/* Highlights: compact horizontal rows */
+.wgd-highs{margin-top:-30px}
+.wgd-high{display:flex;align-items:center;gap:14px;padding:16px 20px;border-right:0;border-bottom:1px solid var(--line)}
+.wgd-high:last-child{border-bottom:0}
+.wgd-high .circ{width:34px;height:34px;flex:none;font-size:.85rem;margin-bottom:0}
+.wgd-high h3{font-size:.98rem;margin:0 0 2px}
+.wgd-high p{font-size:.78rem;line-height:1.5;margin:0}
+/* Overview */
+.wgd-overview{grid-template-columns:1fr;gap:22px}
+.wgd-statement{font-size:clamp(1.5rem,6.6vw,1.9rem)}
+.wgd-overview-text{font-size:.92rem;line-height:1.65}
+/* Tiers collage: images become small 2-up row, list full width */
+.wgd-collage{grid-template-columns:1fr;gap:14px}
+.wgd-collage-img{min-height:0;aspect-ratio:16/9}
+.wgd-collage-right{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.wgd-collage-right .wgd-collage-img{aspect-ratio:4/3}
+.wgd-collage-img figcaption{left:12px;bottom:10px;font-size:.56rem}
+/* Programs: tighter */
+.wgd-program{padding:26px 22px;min-height:0}
+.wgd-program h3{font-size:1.25rem;margin-bottom:10px}
+.wgd-program p{font-size:.84rem;line-height:1.55;margin-bottom:18px}
+.wgd-program-meta{font-size:.76rem;padding-top:14px}
+/* Process steps: compact rows */
+.wgd-steps2{grid-template-columns:1fr;gap:10px}
+.wgd-step2{display:flex;align-items:center;gap:14px;padding:14px 16px}
+.wgd-step2 .circ{width:36px;height:36px;flex:none;margin-bottom:0}
+.wgd-step2 .circ svg{width:18px;height:18px}
+.wgd-step2 h3{font-size:.98rem;margin:0 0 2px}
+.wgd-step2 p{font-size:.78rem;line-height:1.45;margin:0}
+/* Quote */
+.wgd-quote{padding:56px 0}
+.wgd-quote p{font-size:1.15rem}
+/* Audience cards: shorter */
+.wgd-aud{grid-template-columns:1fr}
+.wgd-aud-card{min-height:180px}
+.wgd-aud-body{padding:20px 18px}
+.wgd-aud-body h3{font-size:1.05rem}
+.wgd-aud-body p{font-size:.8rem}
+}
+</style>
 </head>
 <body>
 <div class="topline">WHITE GLOVE LOGISTICS · TP.HCM · PREMIUM DELIVERY & INSTALLATION</div>
