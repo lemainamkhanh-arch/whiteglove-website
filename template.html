@@ -252,6 +252,12 @@ html,body{max-width:100%;overflow-x:clip}
 .nav-dropdown-menu a:hover{color:var(--blue)!important}
 }
 </style>
+<style>
+/* Hero transparent render */
+.hero-visual img.hero-render{height:auto;min-height:480px;max-height:640px;object-fit:contain;border-radius:0;box-shadow:none;filter:drop-shadow(0 34px 44px rgba(29,27,24,.18))}
+@media(max-width:1000px){.hero-visual img.hero-render{min-height:0;max-height:440px}}
+@media(max-width:560px){.hero-visual img.hero-render{height:auto !important;max-height:300px;aspect-ratio:auto !important;object-fit:contain !important;border-radius:0 !important}}
+</style>
 </head>
 <body>
 <div class="topline">@@t038@@</div>
@@ -272,7 +278,7 @@ html,body{max-width:100%;overflow-x:clip}
 <section class="hero">
 <div class="wrap hero-grid">
 <div class="hero-copy reveal"><div class="eyebrow">White Glove Logistics Vietnam</div><h1>@@t149@@<br>@@t137@@</h1><p>@@t006@@</p><div class="hero-actions"><a class="btn primary" href="#quote">Yêu cầu báo giá</a><a class="btn ghost" href="#services">@@t138@@</a></div><div class="hero-note"><span>@@t122@@</span><span>@@t176@@</span><span>@@t192@@</span></div></div>
-<div class="hero-visual reveal"><img src="assets/img-01.jpg" alt="Đội White Glove đặt sofa cao cấp trong căn hộ hiện đại"><div class="floating-card"><strong>@@t078@@</strong><p>@@t033@@</p></div></div>
+<div class="hero-visual reveal"><img class="hero-render" src="assets/hero-whiteglove.webp" alt="Xe tải, máy bay và kiện hàng mang thương hiệu White Glove" fetchpriority="high"><div class="floating-card"><strong>@@t078@@</strong><p>@@t033@@</p></div></div>
 </div>
 <div class="wrap trust"><div><strong>@@t165@@</strong><span>@@t123@@</span></div><div><strong>@@t139@@</strong><span>@@t129@@</span></div><div><strong>@@t150@@</strong><span>@@t101@@</span></div><div><strong>@@t140@@</strong><span>@@t107@@</span></div></div>
 </section>
