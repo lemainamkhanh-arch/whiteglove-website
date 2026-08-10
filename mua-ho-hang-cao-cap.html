@@ -400,6 +400,83 @@ html,body{max-width:100%;overflow-x:clip}
 .nav-dropdown-menu a:hover{color:var(--blue)!important}
 }
 </style>
+<style>
+/* Buying page — mobile compact redesign */
+@media(max-width:640px){
+/* Hero: compact + robust 2-up images (no fragile absolute collage) */
+.buy-hero-in{padding:52px 0 44px;gap:26px}
+.buy-hero h1{margin:14px 0 12px}
+.buy-hero-sub{font-size:.95rem;line-height:1.6;margin-bottom:22px}
+.buy-hero-meta{gap:10px;margin-top:30px;padding-top:18px}
+.buy-collage{display:grid;grid-template-columns:1fr 1fr;gap:10px;height:auto;max-width:none}
+.buy-collage .frame-a,.buy-collage .frame-b{position:static;width:100%;height:auto;aspect-ratio:4/5;padding:0;background:none;box-shadow:none;border-radius:10px;overflow:hidden}
+.buy-collage .frame-a img,.buy-collage .frame-b img{width:100%;height:100%;object-fit:cover;display:block}
+.buy-collage:after{display:none}
+/* Minis: tighter rows */
+.buy-mini-float{padding-bottom:48px}
+.buy-minis{margin-top:-36px}
+.buy-mini{padding:16px 20px}
+.buy-mini small{font-size:.56rem}
+.buy-mini h3{font-size:1rem;margin:5px 0 4px}
+.buy-mini p{font-size:.8rem;line-height:1.5;margin:0}
+/* Service cards: horizontal compact rows */
+.buy-svc{flex-direction:row;min-height:0;align-items:stretch}
+.buy-svc-top{padding:18px 16px;flex:1;display:flex;flex-direction:column;justify-content:center}
+.buy-svc-icon{width:28px;height:28px;margin-bottom:8px}
+.buy-svc-top h3{font-size:1.05rem;margin:0 0 5px}
+.buy-svc-top p{font-size:.78rem;line-height:1.5;margin:0}
+.buy-svc-img{width:104px;height:auto;flex:none}
+/* Editorial */
+.buy-editorial-in{gap:16px}
+.buy-editorial h2{font-size:clamp(1.8rem,7.6vw,2.2rem);margin:10px 0}
+.buy-editorial p{font-size:.92rem;line-height:1.65;margin-bottom:12px}
+/* VS cards */
+.buy-vs{margin-top:26px;gap:12px}
+.buy-vs-card{padding:22px 20px}
+.buy-vs-icon{width:30px;height:30px}
+.buy-vs-tag{margin-bottom:12px;font-size:.56rem;padding:4px 10px}
+.buy-vs-card h3{font-size:1.08rem;margin:0 0 10px}
+.buy-vs-card ul{margin:0;padding-left:16px}
+.buy-vs-card li{font-size:.8rem;line-height:1.55;margin-bottom:5px}
+/* Journey: compact list instead of tall image cards */
+.buy-journey{display:flex;flex-direction:column;padding:8px 24px}
+.buy-j-card{height:auto;display:flex;flex-direction:row;align-items:center;gap:14px;padding:13px 0;background:none;border-right:0;border-bottom:1px solid var(--line);overflow:visible}
+.buy-j-card:last-child{border-bottom:0}
+.buy-j-card img{width:92px;height:70px;flex:none;border-radius:8px;object-fit:cover;filter:saturate(.85)}
+.buy-j-card:after{display:none}
+.buy-j-card:hover img{transform:none;filter:saturate(.85)}
+.buy-j-num{position:static;width:32px;height:32px;flex:none;font-size:.88rem;border-radius:6px}
+.buy-j-copy{position:static;color:var(--ink)}
+.buy-j-copy h3{color:var(--ink);font-size:1rem;margin:0 0 3px}
+.buy-j-copy p{color:var(--muted);font-size:.78rem;line-height:1.5}
+/* Quote */
+.buy-quote{padding:54px 0}
+.buy-quote p{font-size:1.12rem}
+.buy-quote cite{margin-top:18px}
+/* Goods grid: 2-col compact */
+.buy-grid-head{gap:14px;margin-bottom:24px}
+.buy-grid-head h2{font-size:clamp(1.7rem,7vw,2.1rem)}
+.buy-grid-head p{font-size:.88rem;line-height:1.6}
+.buy-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.buy-gcard{height:168px;border-radius:8px}
+.buy-gcopy{left:12px;right:10px;bottom:11px}
+.buy-gcopy small{font-size:.5rem;letter-spacing:.12em}
+.buy-gcopy h3{font-size:.92rem;margin:4px 0 2px}
+.buy-gcopy p{font-size:.66rem;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* Feature band */
+.buy-feature{margin-left:20px;margin-right:20px}
+.buy-feature-img{min-height:180px}
+.buy-feature-copy{padding:26px 22px}
+.buy-feature-copy h3{font-size:1.28rem}
+.buy-feature-copy p{font-size:.86rem}
+.buy-feature-copy ul{padding-left:16px;margin:0 0 18px}
+.buy-feature-copy li{font-size:.82rem;line-height:1.55;margin-bottom:4px}
+/* CTA */
+.buy-cta{padding:54px 0}
+.buy-cta h2{font-size:1.55rem}
+.buy-cta p{font-size:.88rem}
+}
+</style>
 </head>
 <body>
 <div class="topline">WHITE GLOVE LOGISTICS · TP.HCM · PREMIUM DELIVERY & INSTALLATION</div>
