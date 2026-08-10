@@ -258,6 +258,14 @@ html,body{max-width:100%;overflow-x:clip}
 @media(max-width:1000px){.hero-visual img.hero-render{min-height:0;max-height:440px}}
 @media(max-width:560px){.hero-visual img.hero-render{height:auto !important;max-height:300px;aspect-ratio:auto !important;object-fit:contain !important;border-radius:0 !important}}
 </style>
+<style>
+/* Hero render: bigger visual + floating card to top-right (desktop) */
+@media(min-width:901px){
+.hero-grid{grid-template-columns:.82fr 1.18fr;gap:44px}
+.hero-visual img.hero-render{min-height:560px;max-height:680px}
+.hero-visual .floating-card{left:auto;right:-26px;top:26px;bottom:auto}
+}
+</style>
 </head>
 <body>
 <div class="topline">@@t038@@</div>
