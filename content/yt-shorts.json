@@ -1,304 +1,82 @@
 {
- "categories": [
-  "Nội thất",
-  "Bếp & Thiết bị F&B",
-  "Máy kinh doanh",
-  "Thiết bị Gym",
-  "Ngoài trời & Sân vườn",
-  "Decor & Cảm hứng",
-  "Đóng gói & Logistics"
- ],
- "shorts": [
-  {
-   "id": "DNFIBuNU96A",
-   "type": "youtube",
-   "title": "Ghế dài 1m5 inox 304 — bền bỉ ngoài trời, xứng tầm biệt thự | White Glove",
-   "category": "Ngoài trời & Sân vườn",
-   "published": "2026-08-10T03:56:46+00:00"
-  },
-  {
-   "id": "8EEQybdFJX8",
-   "type": "youtube",
-   "title": "Smith machine cao cấp — phòng gym chuẩn biệt thự ngay tại nhà | White Glove",
-   "category": "Thiết bị Gym",
-   "published": "2026-08-10T03:56:45+00:00"
-  },
-  {
-   "id": "JZO5k18Ll4k",
-   "type": "youtube",
-   "title": "Hộp hoa thành phẩm — thay đổi không gian sống chỉ trong 5 phút | White Glove",
-   "category": "Ngoài trời & Sân vườn",
-   "published": "2026-08-10T03:56:42+00:00"
-  },
-  {
-   "id": "7l0K38Lx_T4",
-   "type": "youtube",
-   "title": "Máy in 3D công nghiệp tháo rời — vận chuyển dễ dàng mọi nơi | White Glove",
-   "category": "Máy kinh doanh",
-   "published": "2026-08-10T03:56:39+00:00"
-  },
-  {
-   "id": "TsWK4ep8qo4",
-   "type": "youtube",
-   "title": "Tủ tập gym tại nhà — gọn gàng như một món nội thất | White Glove",
-   "category": "Thiết bị Gym",
-   "published": "2026-08-10T03:56:39+00:00"
-  },
-  {
-   "id": "n6kIBxFb6Mk",
-   "type": "youtube",
-   "title": "Sofa modular — thay đổi layout phòng khách trong tích tắc | White Glove",
-   "category": "Nội thất",
-   "published": "2026-08-10T03:56:25+00:00"
-  },
-  {
-   "id": "e8ItUUFuFeU",
-   "type": "youtube",
-   "title": "Quầy lễ tân cao cấp — điểm chạm đầu tiên của đẳng cấp | White Glove",
-   "category": null,
-   "published": "2026-08-10T03:56:20+00:00"
-  },
-  {
-   "id": "pSN06wzwiIc",
-   "type": "youtube",
-   "title": "Sofa mô-đun cao cấp — chi tiết thực tế từng module | White Glove",
-   "category": "Nội thất",
-   "published": "2026-08-10T00:56:05+00:00"
-  },
-  {
-   "id": "G-BKUoSvsqw",
-   "type": "youtube",
-   "title": "Giường FENDI sang trọng — đẳng cấp phòng ngủ biệt thự | White Glove",
-   "category": "Nội thất",
-   "published": "2026-08-10T00:54:16+00:00"
-  },
-  {
-   "id": "OwbFCTf5Hkk",
-   "type": "youtube",
-   "title": "Smith machine phiên bản biệt thự — chi tiết từng chuyển động | White Glove",
-   "category": "Thiết bị Gym",
-   "published": "2026-08-10T00:53:57+00:00"
-  },
-  {
-   "id": "n3PuEPYKgA4",
-   "type": "youtube",
-   "title": "Máy in 3D công nghiệp — tháo lắp nhanh, vận chuyển an toàn | White Glove",
-   "category": "Máy kinh doanh",
-   "published": "2026-08-10T00:53:43+00:00"
-  },
-  {
-   "id": "9oWigX-WqDU",
-   "type": "youtube",
-   "title": "Tủ tập thể thao đa năng — gym gọn gàng trong căn hộ | White Glove",
-   "category": "Thiết bị Gym",
-   "published": "2026-08-10T00:53:42+00:00"
-  },
-  {
-   "id": "PrWIt1nfXbI",
-   "type": "youtube",
-   "title": "White Glove Logistic — giao tận phòng, lắp đặt tỉ mỉ, chuẩn cao cấp",
-   "category": null,
-   "published": "2026-08-10T00:53:36+00:00"
-  },
-  {
-   "id": "GzWKzJfeCE4",
-   "type": "youtube",
-   "title": "Hộp hoa trang trí — chi tiết thực tế khi bày trong nhà | White Glove",
-   "category": "Ngoài trời & Sân vườn",
-   "published": "2026-08-10T00:53:31+00:00"
-  },
-  {
-   "id": "lODYnhOWT00",
-   "type": "youtube",
-   "title": "Quầy lễ tân đá cao cấp — nâng tầm không gian tiếp khách | White Glove",
-   "category": null,
-   "published": "2026-08-10T00:53:30+00:00"
-  },
-  {
-   "id": "yRdZK-RiLug",
-   "type": "youtube",
-   "title": "Lò sưởi đá travertine nguyên khối",
-   "category": "Nội thất"
-  },
-  {
-   "id": "flStYuDJXBA",
-   "type": "youtube",
-   "title": "Lò sưởi travertine tối giản",
-   "category": "Nội thất"
-  },
-  {
-   "id": "bIchg6pED7s",
-   "type": "youtube",
-   "title": "Máy chụp ảnh sticker tự động",
-   "category": "Máy kinh doanh"
-  },
-  {
-   "id": "0JjQKUHikKw",
-   "type": "youtube",
-   "title": "Decor vintage hoài cổ Nam Dương",
-   "category": "Decor & Cảm hứng"
-  },
-  {
-   "id": "h_tmeQG93Ng",
-   "type": "youtube",
-   "title": "Sofa module Horizon linh hoạt",
-   "category": "Nội thất"
-  },
-  {
-   "id": "jXFD_totJbk",
-   "type": "youtube",
-   "title": "Decor tự nhiên thư thái",
-   "category": "Decor & Cảm hứng"
-  },
-  {
-   "id": "uycbTAr9NEs",
-   "type": "youtube",
-   "title": "Ghế ăn 451 — thiết kế mới",
-   "category": "Nội thất"
-  },
-  {
-   "id": "tDDG3rK6BGw",
-   "type": "youtube",
-   "title": "Không gian nghệ thuật tối giản",
-   "category": "Decor & Cảm hứng"
-  },
-  {
-   "id": "4ifH2lDufpc",
-   "type": "youtube",
-   "title": "Tủ lạnh Gaggenau dung tích lớn",
-   "category": "Bếp & Thiết bị F&B"
-  },
-  {
-   "id": "jR_7a70-HhU",
-   "type": "youtube",
-   "title": "Hệ kệ lưu trữ module 606",
-   "category": "Nội thất"
-  },
-  {
-   "id": "7-fWXRvwI8A",
-   "type": "youtube",
-   "title": "Photo booth tương tác",
-   "category": "Máy kinh doanh"
-  },
-  {
-   "id": "cEtX4yodtiM",
-   "type": "youtube",
-   "title": "Tủ rượu hải sâm 1.78m",
-   "category": "Nội thất"
-  },
-  {
-   "id": "1QchDoT5xgQ",
-   "type": "youtube",
-   "title": "Bàn ăn đá Carrara trắng",
-   "category": "Nội thất"
-  },
-  {
-   "id": "jX9o0p_RIxY",
-   "type": "youtube",
-   "title": "Thiết bị gym Salusia J01",
-   "category": "Thiết bị Gym"
-  },
-  {
-   "id": "OacIP7Ojq7U",
-   "type": "youtube",
-   "title": "Bàn làm việc cong nhỏ gọn",
-   "category": "Nội thất"
-  },
-  {
-   "id": "2SkK0Va6BKM",
-   "type": "youtube",
-   "title": "Bếp biệt thự: bếp ga + hút mùi lực mạnh",
-   "category": "Bếp & Thiết bị F&B"
-  },
-  {
-   "id": "nOKg-jVmp3o",
-   "type": "youtube",
-   "title": "Photo booth tự vận hành",
-   "category": "Máy kinh doanh"
-  },
-  {
-   "id": "GhN62HVhFz8",
-   "type": "youtube",
-   "title": "Bàn tròn gấp Bauhaus 1970",
-   "category": "Nội thất"
-  },
-  {
-   "id": "b5cvSb2cvFo",
-   "type": "youtube",
-   "title": "Bàn làm việc chất liệu ngọc trong",
-   "category": "Nội thất"
-  },
-  {
-   "id": "EPoVZ6pX6sI",
-   "type": "youtube",
-   "title": "Bếp BBQ ngoài trời inox",
-   "category": "Bếp & Thiết bị F&B"
-  },
-  {
-   "id": "XbNJHRlibcI",
-   "type": "youtube",
-   "title": "Xe bán hàng lưu động F&B",
-   "category": "Bếp & Thiết bị F&B"
-  },
-  {
-   "id": "jppY8qVHNwg",
-   "type": "youtube",
-   "title": "Lụa tơ tằm cao cấp",
-   "category": "Decor & Cảm hứng"
-  },
-  {
-   "id": "YBTRnvWdXiU",
-   "type": "youtube",
-   "title": "Ghế đọc sách gỗ nguyên khối",
-   "category": "Nội thất"
-  },
-  {
-   "url": "https://files.catbox.moe/uztr9c.mp4",
-   "type": "video",
-   "title": "Không gian bếp Ý hiện đại",
-   "category": "Bếp & Thiết bị F&B"
-  },
-  {
-   "url": "https://files.catbox.moe/busawj.mp4",
-   "type": "video",
-   "title": "Máy in nhãn công nghiệp",
-   "category": "Máy kinh doanh"
-  },
-  {
-   "url": "https://files.catbox.moe/3xj77l.mp4",
-   "type": "video",
-   "title": "Quầy bar một hàng cho cà phê & bar",
-   "category": "Nội thất"
-  },
-  {
-   "url": "https://files.catbox.moe/5xpuig.mp4",
-   "type": "video",
-   "title": "Bếp ga 48 inch kèm lò nướng",
-   "category": "Bếp & Thiết bị F&B"
-  },
-  {
-   "url": "https://files.catbox.moe/xekx0q.mp4",
-   "type": "video",
-   "title": "Bàn làm việc Adrien",
-   "category": "Nội thất"
-  },
-  {
-   "url": "https://files.catbox.moe/s93717.mp4",
-   "type": "video",
-   "title": "Cảm hứng Tuscan thư thái",
-   "category": "Decor & Cảm hứng"
-  },
-  {
-   "url": "https://files.catbox.moe/nhpwp7.mp4",
-   "type": "video",
-   "title": "Ô dù Milan ngoài trời",
-   "category": "Ngoài trời & Sân vườn"
-  },
-  {
-   "url": "https://files.catbox.moe/dnymcw.mp4",
-   "type": "video",
-   "title": "Photo booth — mô hình kinh doanh nhỏ",
-   "category": "Máy kinh doanh"
-  }
- ]
+  "channel": "UCGfUe5ljqW9n2ZsSLXgcbPA",
+  "updated": "2026-08-10T13:20:27.042Z",
+  "count": 15,
+  "shorts": [
+    {
+      "id": "DNFIBuNU96A",
+      "title": "Ghế dài 1m5 inox 304 — bền bỉ ngoài trời, xứng tầm biệt thự | White Glove",
+      "published": "2026-08-10T03:56:46+00:00"
+    },
+    {
+      "id": "8EEQybdFJX8",
+      "title": "Smith machine cao cấp — phòng gym chuẩn biệt thự ngay tại nhà | White Glove",
+      "published": "2026-08-10T03:56:45+00:00"
+    },
+    {
+      "id": "JZO5k18Ll4k",
+      "title": "Hộp hoa thành phẩm — thay đổi không gian sống chỉ trong 5 phút | White Glove",
+      "published": "2026-08-10T03:56:42+00:00"
+    },
+    {
+      "id": "7l0K38Lx_T4",
+      "title": "Máy in 3D công nghiệp tháo rời — vận chuyển dễ dàng mọi nơi | White Glove",
+      "published": "2026-08-10T03:56:39+00:00"
+    },
+    {
+      "id": "TsWK4ep8qo4",
+      "title": "Tủ tập gym tại nhà — gọn gàng như một món nội thất | White Glove",
+      "published": "2026-08-10T03:56:39+00:00"
+    },
+    {
+      "id": "n6kIBxFb6Mk",
+      "title": "Sofa modular — thay đổi layout phòng khách trong tích tắc | White Glove",
+      "published": "2026-08-10T03:56:25+00:00"
+    },
+    {
+      "id": "e8ItUUFuFeU",
+      "title": "Quầy lễ tân cao cấp — điểm chạm đầu tiên của đẳng cấp | White Glove",
+      "published": "2026-08-10T03:56:20+00:00"
+    },
+    {
+      "id": "pSN06wzwiIc",
+      "title": "Sofa mô-đun cao cấp — chi tiết thực tế từng module | White Glove",
+      "published": "2026-08-10T00:56:05+00:00"
+    },
+    {
+      "id": "G-BKUoSvsqw",
+      "title": "Giường FENDI sang trọng — đẳng cấp phòng ngủ biệt thự | White Glove",
+      "published": "2026-08-10T00:54:16+00:00"
+    },
+    {
+      "id": "OwbFCTf5Hkk",
+      "title": "Smith machine phiên bản biệt thự — chi tiết từng chuyển động | White Glove",
+      "published": "2026-08-10T00:53:57+00:00"
+    },
+    {
+      "id": "n3PuEPYKgA4",
+      "title": "Máy in 3D công nghiệp — tháo lắp nhanh, vận chuyển an toàn | White Glove",
+      "published": "2026-08-10T00:53:43+00:00"
+    },
+    {
+      "id": "9oWigX-WqDU",
+      "title": "Tủ tập thể thao đa năng — gym gọn gàng trong căn hộ | White Glove",
+      "published": "2026-08-10T00:53:42+00:00"
+    },
+    {
+      "id": "PrWIt1nfXbI",
+      "title": "White Glove Logistic — giao tận phòng, lắp đặt tỉ mỉ, chuẩn cao cấp",
+      "published": "2026-08-10T00:53:36+00:00"
+    },
+    {
+      "id": "GzWKzJfeCE4",
+      "title": "Hộp hoa trang trí — chi tiết thực tế khi bày trong nhà | White Glove",
+      "published": "2026-08-10T00:53:31+00:00"
+    },
+    {
+      "id": "lODYnhOWT00",
+      "title": "Quầy lễ tân đá cao cấp — nâng tầm không gian tiếp khách | White Glove",
+      "published": "2026-08-10T00:53:30+00:00"
+    }
+  ]
 }
