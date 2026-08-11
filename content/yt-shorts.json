@@ -2,80 +2,119 @@
   "channel": "UCGfUe5ljqW9n2ZsSLXgcbPA",
   "updated": "2026-08-11T13:17:32.102Z",
   "count": 15,
+  "categories": [
+    "Nội thất",
+    "Bếp & Thiết bị F&B",
+    "Máy kinh doanh",
+    "Thiết bị Gym",
+    "Ngoài trời & Sân vườn",
+    "Decor & Cảm hứng",
+    "Đóng gói & Logistics"
+  ],
   "shorts": [
     {
       "id": "wnYullTRhXc",
+      "type": "youtube",
       "title": "Mở tiệm Gelato — trọn bộ thiết bị từ sảnh đến bếp | White Glove",
+      "category": "Bếp & Thiết bị F&B",
       "published": "2026-08-11T04:37:57+00:00"
     },
     {
       "id": "RxvWkgVcl5I",
+      "type": "youtube",
       "title": "Vai cao cap moi ve | White Glove",
+      "category": "Nội thất",
       "published": "2026-08-11T04:29:44+00:00"
     },
     {
       "id": "YefP_ZpEXn8",
+      "type": "youtube",
       "title": "Tu phong tam Shangri-La | White Glove",
+      "category": "Nội thất",
       "published": "2026-08-11T04:29:18+00:00"
     },
     {
       "id": "fDSoF_wifzs",
+      "type": "youtube",
       "title": "Bàn ăn Morigaya — kích thước khổng lồ dài hơn 3 mét | White Glove Logistic",
+      "category": "Nội thất",
       "published": "2026-08-11T04:13:30+00:00"
     },
     {
       "id": "w8CHinNryHY",
+      "type": "youtube",
       "title": "Ban an Morigaya — kich thuoc khong lo dai hon 3 met | White Glove Logistic",
+      "category": "Nội thất",
       "published": "2026-08-11T03:56:19+00:00"
     },
     {
       "id": "DNFIBuNU96A",
+      "type": "youtube",
       "title": "Ghế dài 1m5 inox 304 — bền bỉ ngoài trời, xứng tầm biệt thự | White Glove",
+      "category": "Ngoài trời & Sân vườn",
       "published": "2026-08-10T03:56:46+00:00"
     },
     {
       "id": "8EEQybdFJX8",
+      "type": "youtube",
       "title": "Smith machine cao cấp — phòng gym chuẩn biệt thự ngay tại nhà | White Glove",
+      "category": "Thiết bị Gym",
       "published": "2026-08-10T03:56:45+00:00"
     },
     {
       "id": "JZO5k18Ll4k",
+      "type": "youtube",
       "title": "Hộp hoa thành phẩm — thay đổi không gian sống chỉ trong 5 phút | White Glove",
+      "category": "Ngoài trời & Sân vườn",
       "published": "2026-08-10T03:56:42+00:00"
     },
     {
       "id": "7l0K38Lx_T4",
-      "title": "Máy in 3D công nghi���p tháo rời — vận chuyển dễ dàng mọi nơi | White Glove",
+      "type": "youtube",
+      "title": "Máy in 3D công nghiệp tháo rời — vận chuyển dễ dàng mọi nơi | White Glove",
+      "category": "Máy kinh doanh",
       "published": "2026-08-10T03:56:39+00:00"
     },
     {
       "id": "TsWK4ep8qo4",
+      "type": "youtube",
       "title": "Tủ tập gym tại nhà — gọn gàng như một món nội thất | White Glove",
+      "category": "Thiết bị Gym",
       "published": "2026-08-10T03:56:39+00:00"
     },
     {
       "id": "n6kIBxFb6Mk",
+      "type": "youtube",
       "title": "Sofa modular — thay đổi layout phòng khách trong tích tắc | White Glove",
+      "category": "Nội thất",
       "published": "2026-08-10T03:56:25+00:00"
     },
     {
       "id": "e8ItUUFuFeU",
+      "type": "youtube",
       "title": "Quầy lễ tân cao cấp — điểm chạm đầu tiên của đẳng cấp | White Glove",
+      "category": "Nội thất",
       "published": "2026-08-10T03:56:20+00:00"
     },
     {
       "id": "pSN06wzwiIc",
+      "type": "youtube",
       "title": "Sofa mô-đun cao cấp — chi tiết thực tế từng module | White Glove",
+      "category": "Nội thất",
       "published": "2026-08-10T00:56:05+00:00"
     },
     {
       "id": "G-BKUoSvsqw",
+      "type": "youtube",
       "title": "Giường FENDI sang trọng — đẳng cấp phòng ngủ biệt thự | White Glove",
+      "category": "Nội thất",
       "published": "2026-08-10T00:54:16+00:00"
     },
     {
       "id": "OwbFCTf5Hkk",
+      "type": "youtube",
       "title": "Smith machine phiên bản biệt thự — chi tiết từng chuyển động | White Glove",
+      "category": "Thiết bị Gym",
       "published": "2026-08-10T00:53:57+00:00"
     }
   ]
