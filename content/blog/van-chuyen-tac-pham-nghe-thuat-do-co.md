@@ -6,6 +6,8 @@ date: 2026-08-05
 keyword: "vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối"
 draft: false
 ---
+![Van chuyen tac pham nghe thuat do co](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-1.png)
+
 
 > Trả lời nhanh: Vận chuyển tác phẩm nghệ thuật và đồ cổ cần quy trình chuyên biệt — đóng gói trong hòm gỗ có đệm foam theo hình dạng riêng của từng món, kiểm soát nhiệt độ và độ ẩm trong suốt hành trình, có condition report chi tiết trước và sau vận chuyển, cùng đội ngũ có kinh nghiệm xử lý hiện vật giá trị cao.
 

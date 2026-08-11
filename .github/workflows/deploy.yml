@@ -32,7 +32,7 @@ jobs:
       - name: Assemble _site
         run: |
           mkdir -p _site
-          cp -r index.html white-glove-delivery.html uy-thac-nhap-khau.html mua-ho-hang-cao-cap.html sourcing.html bang-gia.html quy-trinh.html portal.html assets admin content blog terms privacy sitemap.xml robots.txt llms.txt googlef676cce070b8ebee.html tiktok0IVshlxxu3Ci4Xeqods70hzIU3E2KZmv.txt favicon.ico favicon-16x16.png favicon-32x32.png apple-touch-icon.png _site/
+          cp -r index.html white-glove-delivery.html uy-thac-nhap-khau.html mua-ho-hang-cao-cap.html sourcing.html bang-gia.html quy-trinh.html portal.html assets admin content blog terms privacy sitemap.xml robots.txt llms.txt googlef676cce070b8ebee.html tiktok0IVshlxxu3Ci4Xeqods70hzIU3E2KZmv.txt favicon.ico favicon-16x16.png favicon-32x32.png apple-touch-icon.png android-chrome-192x192.png android-chrome-512x512.png site.webmanifest _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
