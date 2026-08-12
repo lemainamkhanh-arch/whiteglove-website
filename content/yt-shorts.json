@@ -1,6 +1,6 @@
 {
   "channel": "UCGfUe5ljqW9n2ZsSLXgcbPA",
-  "updated": "2026-08-11T19:09:18.623Z",
+  "updated": "2026-08-12T02:23:33.126Z",
   "count": 15,
   "categories": [
     "Nội thất",
@@ -12,6 +12,13 @@
     "Đóng gói & Logistics"
   ],
   "shorts": [
+    {
+      "id": "3E9UUIW0K70",
+      "type": "youtube",
+      "title": "Màn hình poster quảng cáo dạng đứng — nâng tầm cửa hàng | White Glove",
+      "category": null,
+      "published": "2026-08-11T20:33:28+00:00"
+    },
     {
       "id": "wnYullTRhXc",
       "type": "youtube",
@@ -71,7 +78,7 @@
     {
       "id": "7l0K38Lx_T4",
       "type": "youtube",
-      "title": "Máy in 3D công nghi���p tháo rời — vận chuyển dễ dàng mọi nơi | White Glove",
+      "title": "Máy in 3D công nghiệp tháo rời — vận chuyển dễ dàng mọi nơi | White Glove",
       "category": "Máy kinh doanh",
       "published": "2026-08-10T03:56:39+00:00"
     },
@@ -109,13 +116,6 @@
       "title": "Giường FENDI sang trọng — đẳng cấp phòng ngủ biệt thự | White Glove",
       "category": "Nội thất",
       "published": "2026-08-10T00:54:16+00:00"
-    },
-    {
-      "id": "OwbFCTf5Hkk",
-      "type": "youtube",
-      "title": "Smith machine phiên bản biệt thự — chi tiết từng chuyển động | White Glove",
-      "category": "Thiết bị Gym",
-      "published": "2026-08-10T00:53:57+00:00"
     }
   ]
 }
