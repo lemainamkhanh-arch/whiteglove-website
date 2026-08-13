@@ -1,6 +1,6 @@
 {
   "channel": "UCGfUe5ljqW9n2ZsSLXgcbPA",
-  "updated": "2026-08-13T13:23:37.049Z",
+  "updated": "2026-08-13T19:09:00.550Z",
   "count": 15,
   "categories": [
     "Nội thất",
@@ -12,6 +12,13 @@
     "Đóng gói & Logistics"
   ],
   "shorts": [
+    {
+      "id": "vSfWcfQb0Mo",
+      "type": "youtube",
+      "title": "Gym thông minh tại nhà: tập đủ không cần ra ngoài | White Glove",
+      "category": "Thiết bị Gym",
+      "published": "2026-08-13T17:04:09+00:00"
+    },
     {
       "id": "0HjIj1E7JPo",
       "type": "youtube",
@@ -109,13 +116,6 @@
       "title": "Vai cao cap moi ve | White Glove",
       "category": "Nội thất",
       "published": "2026-08-11T04:29:44+00:00"
-    },
-    {
-      "id": "YefP_ZpEXn8",
-      "type": "youtube",
-      "title": "Tu phong tam Shangri-La | White Glove",
-      "category": "Nội thất",
-      "published": "2026-08-11T04:29:18+00:00"
     }
   ]
 }
