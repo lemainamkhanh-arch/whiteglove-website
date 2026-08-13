@@ -1,6 +1,6 @@
 {
   "channel": "UCGfUe5ljqW9n2ZsSLXgcbPA",
-  "updated": "2026-08-12T19:08:27.993Z",
+  "updated": "2026-08-13T02:24:57.518Z",
   "count": 15,
   "categories": [
     "Nội thất",
@@ -12,6 +12,27 @@
     "Đóng gói & Logistics"
   ],
   "shorts": [
+    {
+      "id": "0HjIj1E7JPo",
+      "type": "youtube",
+      "title": "Hạt pixel: vì sao đang gây sốt? | White Glove",
+      "category": null,
+      "published": "2026-08-12T22:43:27+00:00"
+    },
+    {
+      "id": "AGLdglQ2Zh0",
+      "type": "youtube",
+      "title": "Đừng chọn ghế ăn chỉ vì đẹp! | White Glove",
+      "category": "Nội thất",
+      "published": "2026-08-12T22:23:41+00:00"
+    },
+    {
+      "id": "lcf5B9H018w",
+      "type": "youtube",
+      "title": "Sofa cho thú cưng: chọn sao cho bền và dễ chăm? | White Glove",
+      "category": "Nội thất",
+      "published": "2026-08-12T22:23:10+00:00"
+    },
     {
       "id": "ceyHaiN9Vis",
       "type": "youtube",
@@ -95,27 +116,6 @@
       "title": "Tu phong tam Shangri-La | White Glove",
       "category": "Nội thất",
       "published": "2026-08-11T04:29:18+00:00"
-    },
-    {
-      "id": "fDSoF_wifzs",
-      "type": "youtube",
-      "title": "Bàn ăn Morigaya — kích thước khổng lồ dài hơn 3 mét | White Glove Logistic",
-      "category": "Nội thất",
-      "published": "2026-08-11T04:13:30+00:00"
-    },
-    {
-      "id": "DNFIBuNU96A",
-      "type": "youtube",
-      "title": "Ghế dài 1m5 inox 304 — bền bỉ ngoài trời, xứng tầm biệt thự | White Glove",
-      "category": "Ngoài trời & Sân vườn",
-      "published": "2026-08-10T03:56:46+00:00"
-    },
-    {
-      "id": "8EEQybdFJX8",
-      "type": "youtube",
-      "title": "Smith machine cao cấp — phòng gym chuẩn biệt thự ngay tại nhà | White Glove",
-      "category": "Thiết bị Gym",
-      "published": "2026-08-10T03:56:45+00:00"
     }
   ]
 }
