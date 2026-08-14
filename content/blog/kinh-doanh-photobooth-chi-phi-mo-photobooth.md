@@ -17,8 +17,6 @@ Một số hình ảnh minh họa cho các hướng triển khai photobooth: boo
 
 ![Phụ kiện và setup photobooth cho sự kiện](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-2.jpg)
 
-**Nguồn hình ảnh:** [Pexels — Photobooth](https://www.pexels.com/search/photobooth/) · [Unsplash — Photo Booth](https://unsplash.com/s/photos/photo-booth)
-
 ## Kinh doanh photobooth là gì?
 
 Kinh doanh photobooth là việc đầu tư một hệ thống chụp ảnh tự động hoặc bán tự động để tạo doanh thu từ mỗi lượt chụp, gói dịch vụ sự kiện hoặc hợp tác đặt máy tại các địa điểm có lưu lượng khách phù hợp.
