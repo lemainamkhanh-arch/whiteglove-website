@@ -7,7 +7,7 @@ keyword: "nhập khẩu kinh doanh tại việt nam: lưu ý pháp lý mới nh�
 draft: false
 ---
 
-> **WHITE GLOVE — NHẬP KHẨU CHÍNH NGẠCH**
+> Nhập hàng về bán không chỉ là tìm được giá tốt rồi chờ hàng về. Từ lúc chọn sản phẩm, kiểm tra giấy tờ, tính thuế cho đến khi hàng được giao đúng nơi, mỗi bước đều cần làm rõ ngay từ đầu.
 
 ## Vì sao nhập khẩu kinh doanh cần quản lý hồ sơ chặt hơn?
 
