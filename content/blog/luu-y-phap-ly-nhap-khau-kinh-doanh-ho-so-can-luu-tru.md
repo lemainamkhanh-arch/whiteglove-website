@@ -32,6 +32,8 @@ Không nên chỉ dựa vào tên supplier đặt cho sản phẩm. Hai sản ph
 
 Đối với hàng mới, nên lưu catalogue, datasheet, ảnh thực tế, video vận hành và bản mô tả công dụng. Đối với hàng đã qua sử dụng, cần kiểm tra riêng điều kiện nhập khẩu, tuổi thiết bị, tiêu chuẩn kỹ thuật và hồ sơ chất lượng trước khi ký hợp đồng.
 
+Ví dụ, với các thiết bị kinh doanh như photobooth, doanh nghiệp cần tính cả cấu hình máy, phần mềm, máy in, linh kiện, nhãn hàng hóa, bảo hành và phương án lắp đặt. Xem thêm bài [Kinh doanh photobooth: chi phí đầu tư, mô hình vận hành và cách nhập thiết bị](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/) để tham khảo một trường hợp cụ thể.
+
 ## 2. Mã HS và trị giá hải quan phải có căn cứ
 
 ![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-2.png)

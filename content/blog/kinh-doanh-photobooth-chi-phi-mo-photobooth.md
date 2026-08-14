@@ -152,6 +152,8 @@ Nhập khẩu có thể phù hợp khi cần:
 - Tùy chỉnh phần mềm, frame và quy trình gửi ảnh.
 - Tìm mức giá tốt hơn khi đặt số lượng hoặc triển khai dự án.
 
+Nếu đây là lần đầu doanh nghiệp nhập thiết bị về kinh doanh, anh/chị có thể xem thêm bài [lưu ý pháp lý và hồ sơ cần lưu khi nhập khẩu kinh doanh](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/) để chuẩn bị mã HS, chứng từ, nhãn hàng hóa và các yêu cầu liên quan.
+
 Đổi lại, người mua phải tính thêm thời gian sản xuất, kiểm tra supplier, kiểm tra chất lượng trước khi giao, vận chuyển, thông quan, phụ tùng và bảo hành từ xa.
 
 Với dự án nhập khẩu, nên yêu cầu supplier cung cấp:
