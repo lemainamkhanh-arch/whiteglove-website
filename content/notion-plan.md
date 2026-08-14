@@ -1,19 +1,53 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-06T15:14:00.201Z"
+updated: "2026-08-14T09:10:11.980Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
 
-## Ý tưởng (7)
+## Ý tưởng (26)
 
+- Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
+- Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
+- Cách kiểm tra supplier Trung Quốc có đáng tin không (5 bước kiểm chứng)
+- Case study: Nhập + giao lắp trọn gói bộ nội thất Ý cho biệt thự tại TP.HCM
+- Bảo hiểm hàng hóa giá trị cao khi vận chuyển quốc tế — có đáng không?
+- Quy trình giao & lắp đặt nội thất cho dự án khách sạn/resort
+- Nhập nội thất khách sạn từ Trung Quốc: chi phí, thủ tục, checklist
+- Kinh nghiệm mua hàng trên 1688/Taobao không bị lừa (dành cho nội thất)
+- Rủi ro pháp lý khi nhập hàng không chính ngạch — case study thực tế
+- Cách đọc báo giá & hợp đồng với supplier Trung Quốc — tránh phí ẩn
+- Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp?
+- So sánh: Tự nhập vs thuê forwarder vs ủy thác nhập khẩu — bảng chi phí thực tế
+- Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước
+- CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu?
+- 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
+- Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh
+- Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu
+- Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn
+- Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch
+- Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026)
 - White glove delivery khác gì giao hàng thường? So sánh chi tiết
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
 - Dịch vụ ủy thác xuất nhập khẩu hàng high-end: khi nào doanh nghiệp cần?
 - Bảng giá dịch vụ white glove delivery tại TP.HCM (tham khảo)
 - Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa
-- Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
+
+## Đã chốt keyword (4)
+
+- White Glove Delivery: giao & lắp đặt cao cấp khác gì vận chuyển thường?
+- Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn
+- Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí
+- Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026)
+
+## Chờ duyệt (1)
+
+- Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
+
+## Đã duyệt (1)
+
+- Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị
 
 ## Đã publish (14)
 
