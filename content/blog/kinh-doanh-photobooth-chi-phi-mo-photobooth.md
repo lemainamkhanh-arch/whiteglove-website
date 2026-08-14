@@ -195,7 +195,3 @@ Với những người muốn triển khai photobooth tại Việt Nam nhưng ch
 - Giao hàng, lắp đặt và phối hợp chạy thử tại Việt Nam.
 
 > Bạn đang muốn mở một điểm photobooth, đặt booth tại café/khách sạn hay cung cấp photobooth cho sự kiện? Hãy gửi cho White Glove diện tích dự kiến, số lượng booth, mô hình hoạt động và ngân sách. Chúng tôi sẽ giúp bạn xây dựng cấu hình và phương án nhập khẩu phù hợp hơn thay vì chỉ chọn theo giá niêm yết.
-
-**Từ khóa chính:** kinh doanh photobooth
-
-**Từ khóa phụ:** chi phí mở photobooth · máy photobooth nhập khẩu · mô hình photobooth sự kiện · thuê photobooth · setup photobooth tại Việt Nam
