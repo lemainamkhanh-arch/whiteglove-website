@@ -140,6 +140,8 @@ Các chỉ số nên đo trong giai đoạn thử nghiệm gồm:
 
 ## Nên mua photobooth trong nước hay nhập khẩu?
 
+[[YOUTUBE:https://www.youtube.com/watch?v=T5rpu0iXF6M|Video YouTube]]
+
 Mua trong nước có ưu điểm là dễ giao tiếp, thời gian xử lý nhanh và thuận tiện khi cần hỗ trợ. Tuy nhiên, khả năng tùy chỉnh, lựa chọn linh kiện và thiết kế theo thương hiệu có thể bị giới hạn tùy nhà cung cấp.
 
 Nhập khẩu có thể phù hợp khi cần:

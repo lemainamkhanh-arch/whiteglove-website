@@ -71,7 +71,17 @@ function mdToHtml(md) {
   const closeList = () => { if (inList) { out.push('</ul>'); inList = false; } };
   for (const raw of md.split('\n')) {
     const line = raw.trimEnd();
-    if (/^###\s/.test(line)) { flush(); closeList(); out.push('<h3>' + inline(line.slice(4)) + '</h3>'); }
+    if (/^\[\[YOUTUBE:(.+)\|(.*)\]\]$/.test(line)) {
+      flush(); closeList();
+      const ym = line.match(/^\[\[YOUTUBE:(.+)\|(.*)\]\]$/);
+      const url = ym[1].trim();
+      const idm = url.match(/[?&]v=([^&]+)/) || url.match(/youtu\.be\/([^?&]+)/) || url.match(/youtube\.com\/embed\/([^?&]+)/);
+      if (idm) {
+        const id = idm[1];
+        out.push('<div class=\"video-embed\" style=\"position:relative;width:100%;padding-bottom:56.25%;height:0;margin:24px 0;overflow:hidden;border-radius:12px;background:#111\"><iframe src=\"https://www.youtube.com/embed/' + id + '\" title=\"' + esc(ym[2]) + '\" loading=\"lazy\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div>');
+      }
+    }
+    else if (/^###\s/.test(line)) { flush(); closeList(); out.push('<h3>' + inline(line.slice(4)) + '</h3>'); }
     else if (/^##\s/.test(line)) { flush(); closeList(); out.push('<h2>' + inline(line.slice(3)) + '</h2>'); }
     else if (/^-\s/.test(line)) { flush(); if (!inList) { out.push('<ul>'); inList = true; } out.push('<li>' + inline(line.slice(2)) + '</li>'); }
     else if (/^>\s?/.test(line)) { flush(); closeList(); out.push('<blockquote>' + inline(line.replace(/^>\s?/, '')) + '</blockquote>'); }

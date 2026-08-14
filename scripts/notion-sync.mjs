@@ -71,6 +71,7 @@ async function blocksToMarkdown(blockId, slug) {
       else if (isList) { lines.push('- ' + rt(v.rich_text)); }
       else if (t === 'quote' || t === 'callout') { lines.push('> ' + rt(v.rich_text)); lines.push(''); }
       else if (t === 'image') { const u = v.type === 'external' ? v.external.url : (v.file || {}).url; if (u) { imgIdx++; const local = slug ? await downloadImage(u, slug, imgIdx) : null; lines.push('![' + plain(v.caption) + '](' + (local || u) + ')'); lines.push(''); } }
+      else if (t === 'embed') { const u = v.url || ''; if (/youtube\.com|youtu\.be/i.test(u)) { lines.push('[[YOUTUBE:' + u + '|Video YouTube]]'); lines.push(''); } }
       prevList = isList;
     }
     cursor = data.has_more ? data.next_cursor : null;
