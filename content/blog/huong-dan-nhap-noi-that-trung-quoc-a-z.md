@@ -13,7 +13,7 @@ Trung Quốc hiện là nguồn cung nội thất lớn nhất thị trường V
 
 Nhưng nhập nội thất Trung Quốc không đơn giản như nghe: chọn nhầm nguồn, đặt hàng không kiểm tra chất lượng, khai sai mã HS, tính sai thuế hoặc để hàng về hư hỏng không ai chịu trách nhiệm đều có thể khiến tổng chi phí cao hơn cả mua tại chỗ. Bài viết này tổng hợp toàn bộ quy trình dành cho người lần đầu nhập hàng, từ chọn nguồn, kiểm tra chất lượng đến thông quan và giao lắp tại Việt Nam.
 
-![Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam](https://images.pexels.com/photos/15016517/pexels-photo-15016517.jpeg)
+![Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-01.webp)
 
 *Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam — từ chọn nguồn, kiểm tra chất lượng đến giao lắp hoàn thiện.*
 
@@ -54,7 +54,7 @@ Quảng Châu phù hợp với người muốn **đi tìm nguồn trong một ch
 
 ### Phật Sơn — trái tim sản xuất nội thất
 
-![Xưởng sản xuất nội thất tại Phật Sơn](https://images.pexels.com/photos/15016530/pexels-photo-15016530.jpeg)
+![Xưởng sản xuất nội thất tại Phật Sơn](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-02.webp)
 
 *Xưởng sản xuất nội thất tại Phật Sơn — nơi nhiều nhà máy nhận sản xuất theo mẫu, vật liệu và cấu hình riêng.*
 
@@ -68,7 +68,7 @@ Nhược điểm: ít khu “đi chợ” như Quảng Châu — muốn xem hàn
 
 ### 1688, Taobao — kênh online
 
-![Tìm kiếm nguồn hàng nội thất trên 1688 và Taobao](https://images.pexels.com/photos/5708232/pexels-photo-5708232.jpeg)
+![Tìm kiếm nguồn hàng nội thất trên 1688 và Taobao](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-03.webp)
 
 *Tìm kiếm và so sánh nguồn hàng nội thất trên các nền tảng thương mại điện tử Trung Quốc như 1688 và Taobao.*
 
@@ -78,7 +78,7 @@ Rủi ro: ảnh quảng cáo có thể khác xa hàng thật, review có thể �
 
 ## Giai đoạn 2: Kiểm chứng nhà cung cấp và đặt hàng
 
-![Kiểm tra mẫu mã, chất liệu và tình trạng sản phẩm](https://images.pexels.com/photos/35383622/pexels-photo-35383622.jpeg)
+![Kiểm tra mẫu mã, chất liệu và tình trạng sản phẩm](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-04.webp)
 
 *Kiểm tra mẫu mã, chất liệu và tình trạng sản phẩm trước khi đặt cọc cho đơn hàng nội thất.*
 
@@ -140,7 +140,7 @@ Với lô hàng trị giá vài trăm triệu đến vài tỷ đồng, **bảo 
 
 Hàng về đến cảng Việt Nam, giai đoạn **thông quan** bắt đầu — bước dễ khiến người mới bối rối nhất.
 
-![Hồ sơ và chứng từ thương mại cho lô hàng nhập khẩu](https://images.pexels.com/photos/955389/pexels-photo-955389.jpeg)
+![Hồ sơ và chứng từ thương mại cho lô hàng nhập khẩu](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-05.webp)
 
 *Chuẩn bị hồ sơ và chứng từ cần thiết cho thủ tục thông quan lô hàng nội thất nhập khẩu.*
 
@@ -166,7 +166,7 @@ Mã HS nên được xác định dựa trên công dụng, chất liệu, cấu
 
 ## Giai đoạn 6: Thuế nhập khẩu nội thất từ Trung Quốc 2026
 
-![Ước tính thuế và chi phí nhập khẩu nội thất](https://images.pexels.com/photos/265024/pexels-photo-265024.jpeg)
+![Ước tính thuế và chi phí nhập khẩu nội thất](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-06.webp)
 
 *Ước tính thuế nhập khẩu và các chi phí liên quan trước khi đưa nội thất về Việt Nam.*
 
