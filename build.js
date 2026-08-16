@@ -145,6 +145,9 @@ function extractHowTo(body, name) {
 function jsonLd(obj) {
   return JSON.stringify(obj).replace(/</g, '<');
 }
+function stripMd(s) {
+  return s.replace(/\*\*/g, '').replace(/\*/g, '').replace(/`/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+}
 function styleFaqSection(html) {
   const heading = '<h2>Câu hỏi thưỗng gặp</h2>' + String.fromCharCode(10);
   const idx = html.indexOf(heading);
@@ -160,7 +163,7 @@ function styleFaqSection(html) {
     pos += m[0].length;
   }
   if (!items.length) return html;
-  const wrapped = '<div class="faq-list">\n' + items.map((it, i) => '<details class="faq-item"' + (i === 0 ? ' open' : '') + '>\n<summary><span class="faq-q">' + it.q + '</span><span class="faq-icon" aria-hidden="true"></span></summary>\n<div class="faq-a"><p>' + it.a + '</p></div>\n</details>').join('\n') + '\n</div>\n';
+  const wrapped = '<div class="faq-list">\n' + items.map((it, i) => '<details class="faq-item" open>\n<summary><span class="faq-q">' + it.q + '</span><span class="faq-icon" aria-hidden="true"></span></summary>\n<div class="faq-a"><p>' + it.a + '</p></div>\n</details>').join('\n') + '\n</div>\n';
   return html.slice(0, idx + heading.length) + wrapped + html.slice(pos);
 }
 function fill(tpl, vars) {
@@ -193,7 +196,7 @@ for (const p of posts) {
     extraSchema += '<script type="application/ld+json">' + jsonLd({
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
-      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: stripMd(f.q), acceptedAnswer: { '@type': 'Answer', text: stripMd(f.a) } })),
     }) + '</script>\n';
   }
   const howto = extractHowTo(p.rawBody || '', p.title || '');
