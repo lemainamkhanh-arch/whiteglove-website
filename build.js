@@ -17,12 +17,12 @@ if (fs.existsSync('content/settings.json')) {
   try {
     const settings = JSON.parse(fs.readFileSync('content/settings.json', 'utf8'));
     const parts = [];
-    if (settings.hotline) parts.push('<a href="tel:' + settings.hotline.replace(/[^0-9+]/g, '') + '">' + settings.hotline + '</a>');
-    if (settings.email) parts.push('<a href="mailto:' + settings.email + '">' + settings.email + '</a>');
+    if (settings.hotline) parts.push('<a href="tel:' + settings.hotline.replace(/[^0-9+]/g, '') + '" onclick="gtag(\'event\',\'phone_click\',{event_category:\'engagement\',event_label:\'footer_hotline\'})">' + settings.hotline + '</a>');
+    if (settings.email) parts.push('<a href="mailto:' + settings.email + '" onclick="gtag(\'event\',\'email_click\',{event_category:\'engagement\',event_label:\'footer_email\'})">' + settings.email + '</a>');
     if (settings.address) parts.push('<span style="display:block;color:rgba(255,255,255,.58);font-size:.86rem;margin:9px 0">' + settings.address + '</span>');
     if (settings.workingHours) parts.push('<span style="display:block;color:rgba(255,255,255,.58);font-size:.86rem;margin:9px 0">' + settings.workingHours + '</span>');
     if (settings.facebook) parts.push('<a href="' + settings.facebook + '" target="_blank" rel="noopener">Facebook</a>');
-    if (settings.zalo) parts.push('<a href="' + settings.zalo + '" target="_blank" rel="noopener">Zalo</a>');
+    if (settings.zalo) parts.push('<a href="' + settings.zalo + '" target="_blank" rel="noopener" onclick="gtag(\'event\',\'whatsapp_click\',{event_category:\'engagement\',event_label:\'footer_zalo\'})">Zalo</a>');
     settingsContactHtml = parts.join('');
   } catch (e) { settingsContactHtml = ''; }
 }
@@ -185,6 +185,31 @@ if (fs.existsSync(blogSrc)) {
 }
 posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
+function relatedPostsHtml(currentPost, allPosts) {
+  const others = allPosts.filter(p => p.slug !== currentPost.slug);
+  const words = (currentPost.title || '').toLowerCase().split(/\s+/).filter(w => w.length > 3);
+  const scored = others.map(p => {
+    const t = (p.title || '').toLowerCase();
+    let score = 0;
+    for (const w of words) if (t.includes(w)) score++;
+    return { p, score };
+  }).sort((a, b) => b.score - a.score || (b.p.date || '').localeCompare(a.p.date || ''));
+  const related = scored.filter(s => s.score > 0).slice(0, 3);
+  if (related.length < 3) {
+    const used = new Set(related.map(s => s.p.slug));
+    for (const s of scored) {
+      if (related.length >= 3) break;
+      if (!used.has(s.p.slug)) { related.push(s); used.add(s.p.slug); }
+    }
+  }
+  if (!related.length) return '';
+  const items = related.map(s => {
+    const p = s.p;
+    return '<li><a href="/blog/' + p.slug + '/" style="color:var(--gold)">→ ' + esc(p.title || '') + '</a></li>';
+  }).join('\n');
+  return '<div class="related-links" style="margin-top:28px;padding-top:24px;border-top:1px solid var(--line)"><h3 style="font-family:Montserrat,sans-serif;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 12px">Bài viết liên quan</h3><ul style="list-style:none;padding:0;margin:0;display:grid;gap:8px;font-size:.86rem">' + items + '</ul></div>';
+}
+
 fs.rmSync('blog', { recursive: true, force: true });
 fs.mkdirSync('blog', { recursive: true });
 for (const p of posts) {
@@ -218,6 +243,7 @@ for (const p of posts) {
     OG_IMAGE: (() => { const t = thumbOf(p); return t.startsWith('http') ? t : (t ? SITE + t : SITE + '/assets/img-01.jpg'); })(),
     BODY: p.bodyHtml,
     EXTRA_SCHEMA: extraSchema,
+    RELATED: relatedPostsHtml(p, posts),
   }));
 }
 
