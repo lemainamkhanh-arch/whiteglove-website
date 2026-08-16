@@ -149,7 +149,7 @@ function stripMd(s) {
   return s.replace(/\*\*/g, '').replace(/\*/g, '').replace(/`/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
 }
 function styleFaqSection(html) {
-  const heading = '<h2>Câu hỏi thưỗng gặp</h2>' + String.fromCharCode(10);
+  const heading = '<h2>Câu hỏi thường gặp</h2>' + String.fromCharCode(10);
   const idx = html.indexOf(heading);
   if (idx === -1) return html;
   let pos = idx + heading.length;
