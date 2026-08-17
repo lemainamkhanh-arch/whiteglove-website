@@ -281,7 +281,6 @@ const urls = [
   { loc: SITE + '/white-glove-delivery.html', lastmod: today, priority: '0.8' },
   { loc: SITE + '/uy-thac-nhap-khau.html', lastmod: today, priority: '0.8' },
   { loc: SITE + '/mua-ho-hang-cao-cap.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/portal.html', lastmod: today, priority: '0.5' },
   { loc: SITE + '/blog/', lastmod: today, priority: '0.6' },
   ...posts.map((p) => ({ loc: SITE + '/blog/' + p.slug + '/', lastmod: p.date || today, priority: '0.7' })),
 ];
