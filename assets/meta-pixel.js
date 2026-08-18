@@ -36,8 +36,8 @@ fbq('track', 'PageView');
       zalo.target = '_blank';
       zalo.rel = 'noopener noreferrer';
       zalo.setAttribute('aria-label', 'Nhắn tin với White Glove qua Zalo');
-      zalo.textContent = '💬 Zalo';
-      zalo.style.cssText = 'position:fixed;right:20px;bottom:20px;z-index:9999;display:flex;align-items:center;gap:8px;background:#0068ff;color:#fff;padding:12px 16px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.2);font:600 14px/1.1 Arial,sans-serif;text-decoration:none;';
+      zalo.innerHTML = '<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icon_of_Zalo.svg" alt="" width="36" height="36" style="display:block;width:36px;height:36px;border-radius:10px;background:#fff;padding:2px;"><span>Nhắn Zalo</span>';
+      zalo.style.cssText = 'position:fixed;right:20px;bottom:20px;z-index:9999;display:flex;align-items:center;gap:10px;background:#b18a52;color:#fff;padding:14px 22px;border:1px solid rgba(255,255,255,.55);border-radius:999px;box-shadow:0 12px 30px rgba(35,28,19,.24);font:700 16px/1.1 Arial,sans-serif;text-decoration:none;min-height:64px;';
       zalo.addEventListener('click', function () {
         fbq('track', 'Contact', { content_name: 'zalo_button' });
         if (typeof gtag === 'function') gtag('event', 'whatsapp_click', { event_category: 'contact', event_label: 'floating_zalo_button' });
