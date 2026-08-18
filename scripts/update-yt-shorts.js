@@ -35,9 +35,13 @@ function guessCategory(title) {
 
 // Load existing JSON to preserve category assignments for known videos
 let existingMap = {};
+let existingItems = [];
 try {
   const old = JSON.parse(fs.readFileSync('content/yt-shorts.json', 'utf8'));
-  if (old.shorts) old.shorts.forEach(s => { existingMap[s.id] = s; });
+  if (old.shorts) {
+    existingItems = old.shorts;
+    old.shorts.forEach(s => { if (s.id) existingMap[s.id] = s; });
+  }
 } catch (e) { /* file may not exist yet */ }
 
 https.get(url, res => {
@@ -60,6 +64,19 @@ https.get(url, res => {
         entries.push({ id, type: 'youtube', title: title[1], category, published: pub ? pub[1] : '' });
       }
     }
+    if (!entries.length) {
+      console.warn('RSS returned no entries; keeping the existing video catalog.');
+      return;
+    }
+
+    // Keep curated videos that are no longer present in the RSS window.
+    // This prevents a temporary/limited RSS response from blanking the page.
+    const freshIds = new Set(entries.map(s => s.id).filter(Boolean));
+    for (const existing of existingItems) {
+      if (!existing) continue;
+      if (existing.url || (existing.id && !freshIds.has(existing.id))) entries.push(existing);
+    }
+
     const json = JSON.stringify({ channel: channelId, updated: new Date().toISOString(), count: entries.length, categories, shorts: entries }, null, 2);
     fs.writeFileSync('content/yt-shorts.json', json);
     console.log('Updated ' + entries.length + ' shorts with ' + categories.length + ' categories');
