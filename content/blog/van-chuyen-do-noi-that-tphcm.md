@@ -3,6 +3,7 @@ title: "Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình 
 description: "Vận chuyển đồ nội thất tại TP.HCM cần lưu ý gì về giá, quy trình và cách chọn đơn vị uy tín? Hướng dẫn chi tiết từ White Glove Logistics Vietnam."
 slug: van-chuyen-do-noi-that-tphcm
 category: "Chi phí & báo giá"
+created: "2026-08-05T16:25:03Z"
 date: 2026-08-05
 keyword: "vận chuyển đồ nội thất tại tp.hcm: bảng giá, quy trình và lưu ý 2026"
 draft: false

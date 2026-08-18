@@ -3,6 +3,7 @@ title: "Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cầ
 description: "Ủy thác nhập khẩu là gì, khi nào nên dùng dịch vụ này, quy trình và chi phí ra sao? Giải thích chi tiết dành cho người mua hàng high-end lần đầu."
 slug: uy-thac-nhap-khau-la-gi
 category: "Nhập khẩu & hải quan"
+created: "2026-07-31T09:54:33Z"
 date: 2026-07-31
 keyword: "ủy thác nhập khẩu là gì? quy trình, chi phí và rủi ro cần biết"
 draft: false

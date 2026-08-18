@@ -186,7 +186,7 @@ if (fs.existsSync(blogSrc)) {
     posts.push({ ...meta, bodyHtml: styleFaqSection(mdToHtml(body)), rawBody: body });
   }
 }
-posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+posts.sort((a, b) => (b.created || b.date || '').localeCompare(a.created || a.date || ''));
 
 function relatedPostsHtml(currentPost, allPosts) {
   const others = allPosts.filter(p => p.slug !== currentPost.slug);
@@ -196,7 +196,7 @@ function relatedPostsHtml(currentPost, allPosts) {
     let score = 0;
     for (const w of words) if (t.includes(w)) score++;
     return { p, score };
-  }).sort((a, b) => b.score - a.score || (b.p.date || '').localeCompare(a.p.date || ''));
+  }).sort((a, b) => b.score - a.score || (b.p.created || b.p.date || '').localeCompare(a.p.created || a.p.date || ''));
   const related = scored.filter(s => s.score > 0).slice(0, 3);
   if (related.length < 3) {
     const used = new Set(related.map(s => s.p.slug));

@@ -3,6 +3,7 @@ title: "Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an to�
 description: "Vận chuyển tác phẩm nghệ thuật, đồ cổ đòi hỏi quy trình an toàn tuyệt đối. Tìm hiểu cách đóng gói, vận chuyển và bảo hiểm cho các món đồ giá trị đặc biệt."
 slug: van-chuyen-tac-pham-nghe-thuat-do-co
 category: "White Glove Delivery"
+created: "2026-07-31T09:54:33Z"
 date: 2026-08-05
 keyword: "vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối"
 draft: false

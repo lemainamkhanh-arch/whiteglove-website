@@ -3,6 +3,7 @@ title: "Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từ
 description: "Hướng dẫn từng bước điền tờ khai hải quan cho mặt hàng nội thất: mã HS, trị giá, thuế suất, các trường bắt buộc. Có ảnh minh họa."
 slug: to-khai-hai-quan-noi-that-huong-dan-tung-buoc
 category: "Nhập khẩu & hải quan"
+created: "2026-08-11T04:30:00Z"
 date: 2026-08-18
 keyword: "tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước"
 draft: false

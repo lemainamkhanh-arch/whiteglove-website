@@ -3,6 +3,7 @@ title: "Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh n
 description: "Giải thích vai trò của hóa đơn VAT trong nhập khẩu chính ngạch: khấu trừ thuế, hạch toán kế toán, minh bạch chi phí cho doanh nghiệp."
 slug: hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong
 category: "Nhập khẩu & hải quan"
+created: "2026-08-11T04:30:17Z"
 date: 2026-08-18
 keyword: "hóa đơn vat trong nhập khẩu: tại sao quan trọng với doanh nghiệp?"
 draft: false

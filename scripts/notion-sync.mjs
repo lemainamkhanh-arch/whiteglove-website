@@ -112,7 +112,7 @@ async function main() {
     const desc = textOf(page, P_DESC).trim() || body.replace(/[#>*`!\[\]()-]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 155);
     const category = selectOf(page, P_CATEGORY).trim();
     const q = s => '"' + s.replace(/"/g, "'") + '"';
-    const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'category: ' + q(category), 'date: ' + today, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
+    const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'category: ' + q(category), 'created: ' + q(page.created_time || ''), 'date: ' + today, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
     fs.mkdirSync('content/blog', { recursive: true });
     fs.writeFileSync('content/blog/' + slug + '.md', md);
     const link = SITE + '/blog/' + slug + '/';

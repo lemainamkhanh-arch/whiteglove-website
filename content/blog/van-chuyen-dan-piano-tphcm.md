@@ -3,6 +3,7 @@ title: "Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng
 description: "Vận chuyển đàn piano tại TP.HCM cần lưu ý gì để tránh hư hỏng? Hướng dẫn quy trình đóng gói, vận chuyển an toàn cho đàn piano cơ và piano điện."
 slug: van-chuyen-dan-piano-tphcm
 category: "Vận chuyển nội thất"
+created: "2026-07-31T09:54:36Z"
 date: 2026-08-05
 keyword: "vận chuyển đàn piano tại tp.hcm: lưu ý để tránh hư hỏng"
 draft: false

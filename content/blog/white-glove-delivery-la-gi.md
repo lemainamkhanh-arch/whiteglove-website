@@ -3,6 +3,7 @@ title: "White Glove Delivery là gì? Khi nào bạn thật sự cần dịch v�
 description: "White glove delivery là dịch vụ giao hàng cao cấp kèm lắp đặt, kiểm tra và bảo vệ hiện trường. Tìm hiểu khi nào nên dùng và cách chọn đơn vị uy tín tại TP.HCM."
 slug: white-glove-delivery-la-gi
 category: "White Glove Delivery"
+created: "2026-07-31T09:46:25Z"
 date: 2026-07-31
 keyword: "white glove delivery là gì? khi nào bạn thật sự cần dịch vụ này"
 draft: false
