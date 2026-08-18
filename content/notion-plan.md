@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-17T07:42:34.760Z"
+updated: "2026-08-18T05:34:28.803Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
 
-## Ý tưởng (25)
+## Ý tưởng (24)
 
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
@@ -18,7 +18,6 @@ updated: "2026-08-17T07:42:34.760Z"
 - Rủi ro pháp lý khi nhập hàng không chính ngạch — case study thực tế
 - Cách đọc báo giá & hợp đồng với supplier Trung Quốc — tránh phí ẩn
 - So sánh: Tự nhập vs thuê forwarder vs ủy thác nhập khẩu — bảng chi phí thực tế
-- Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước
 - CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu?
 - 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
 - Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh
@@ -42,6 +41,10 @@ updated: "2026-08-17T07:42:34.760Z"
 ## Chờ duyệt (1)
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
+
+## Đã duyệt (1)
+
+- Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước
 
 ## Đã publish (18)
 
