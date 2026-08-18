@@ -2,10 +2,12 @@
 title: "Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp?"
 description: "Giải thích vai trò của hóa đơn VAT trong nhập khẩu chính ngạch: khấu trừ thuế, hạch toán kế toán, minh bạch chi phí cho doanh nghiệp."
 slug: hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong
-date: 2026-08-17
+date: 2026-08-18
 keyword: "hóa đơn vat trong nhập khẩu: tại sao quan trọng với doanh nghiệp?"
 draft: false
 ---
+
+![Cover: Hóa đơn VAT trong nhập khẩu — tại sao quan trọng với doanh nghiệp?](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-1.jpg)
 
 > Hàng nhập khẩu không đi kèm “hóa đơn VAT Việt Nam” do nhà cung cấp nước ngoài phát hành. Để hạch toán và khấu trừ VAT đầu vào, doanh nghiệp cần phân biệt rõ commercial invoice của nhà cung cấp, tờ khai hải quan, chứng từ nộp thuế GTGT ở khâu nhập khẩu và hóa đơn dịch vụ trong nước. Bộ hồ sơ phải khớp về tên hàng, trị giá, mã HS, người nhập khẩu và dòng tiền.
 
@@ -27,7 +29,7 @@ Khi hàng về Việt Nam, VAT phát sinh ở khâu nhập khẩu được cơ q
 - Chứng từ thanh toán phù hợp với giá trị giao dịch;
 - Hóa đơn GTGT của các dịch vụ phát sinh tại Việt Nam như vận chuyển nội địa, lưu kho, khai thuê hải quan, đóng gói hoặc lắp đặt, nếu nhà cung cấp dịch vụ thuộc diện xuất hóa đơn.
 
-![Infographic: Bộ chứng từ VAT nhập khẩu — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-1.png)
+![Infographic: Bộ chứng từ VAT nhập khẩu — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-2.png)
 
 Điểm cốt lõi là không dùng commercial invoice của nhà cung cấp Trung Quốc hoặc châu Âu để thay thế chứng từ nộp VAT tại Việt Nam. Invoice nước ngoài chứng minh giá trị hàng hóa và giao dịch mua bán; chứng từ nộp thuế ở khâu nhập khẩu chứng minh doanh nghiệp đã thực hiện nghĩa vụ VAT với ngân sách Việt Nam.
 
@@ -68,7 +70,7 @@ Một cách mô phỏng dễ hiểu:
 - Giá tính VAT giả định: 240.000.000 đồng;
 - Nếu thuế suất VAT áp dụng là 10%, VAT nhập khẩu là 24.000.000 đồng.
 
-![Infographic: Cách tính VAT nhập khẩu — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-2.png)
+![Infographic: Cách tính VAT nhập khẩu — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-3.png)
 
 Con số trên chỉ là ví dụ minh họa, không phải báo giá hoặc kết luận cho mọi mặt hàng. Thuế suất có thể phụ thuộc vào nhóm sản phẩm, mã HS, chính sách tại thời điểm nhập khẩu và chương trình giảm thuế đang có hiệu lực. Không nên mặc định mọi hàng nội thất đều chịu cùng một mức VAT hoặc mọi hàng từ Trung Quốc đều được hưởng cùng một mức thuế nhập khẩu.
 
@@ -92,13 +94,13 @@ Chứng từ xuất xứ như Form E hoặc chứng từ theo hiệp định th�
 
 Vì vậy, khi lập dự toán, nên tách ít nhất bốn dòng: trị giá hàng, logistics và phụ phí, thuế nhập khẩu, VAT nhập khẩu. Cách tách này giúp doanh nghiệp nhìn đúng giá vốn và không nhầm “thuế nhập khẩu thấp” với “tổng nghĩa vụ thuế thấp”. Nếu cần bảng tham chiếu riêng cho nhóm nội thất từ Trung Quốc, hãy đối chiếu với [Hướng dẫn nhập nội thất Trung Quốc từ A→Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) và kiểm tra lại theo mã HS thực tế.
 
-![Infographic: Invoice Trung Quốc và VAT Việt Nam — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-3.png)
+![Infographic: Invoice Trung Quốc và VAT Việt Nam — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-4.png)
 
 ## Điều kiện khấu trừ VAT nhập khẩu
 
 Doanh nghiệp nộp thuế theo phương pháp khấu trừ chỉ nên kê khai VAT nhập khẩu đầu vào khi bộ hồ sơ đáp ứng các điều kiện liên quan. Có thể kiểm tra theo bốn nhóm sau.
 
-![Infographic: Checklist khấu trừ VAT nhập khẩu — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-4.png)
+![Infographic: Checklist khấu trừ VAT nhập khẩu — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-5.png)
 
 ### Hàng hóa phục vụ hoạt động chịu VAT
 
@@ -154,7 +156,7 @@ Một bộ hồ sơ ủy thác thường cần tách thành ba lớp:
 
 **Lớp 3 — Quan hệ giữa bên ủy thác và bên nhận ủy thác:** hợp đồng ủy thác, bảng quyết toán, hóa đơn GTGT cho phần hàng hóa hoặc dịch vụ theo cách xử lý được thống nhất, chứng từ chi hộ và biên bản bàn giao.
 
-![Infographic: Ủy thác nhập khẩu — 3 lớp hồ sơ — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-5.png)
+![Infographic: Ủy thác nhập khẩu — 3 lớp hồ sơ — WhiteGlove.vn](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-6.png)
 
 Cách lập hóa đơn và ghi nhận VAT trong từng mô hình ủy thác cần được kế toán hoặc chuyên gia thuế đối chiếu với hợp đồng cụ thể. Không nên sao chép một mẫu xử lý từ lô hàng khác khi người đứng tên nhập khẩu, người nộp thuế hoặc mục đích sử dụng không giống nhau.
 
