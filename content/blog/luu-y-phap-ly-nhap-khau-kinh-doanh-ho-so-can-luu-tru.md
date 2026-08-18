@@ -2,6 +2,7 @@
 title: "Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ"
 description: "Nhập khẩu kinh doanh cần lưu ý gì trong năm 2026? Checklist về mã HS, thuế, giấy phép, nhãn hàng hóa, kiểm tra chất lượng và hồ sơ doanh nghiệp cần lưu trữ đúng quy định."
 slug: luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru
+category: "Nhập khẩu & hải quan"
 date: 2026-08-14
 keyword: "nhập khẩu kinh doanh tại việt nam: lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ"
 draft: false

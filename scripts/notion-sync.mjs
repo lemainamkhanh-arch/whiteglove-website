@@ -14,6 +14,7 @@ const P_SLUG = 'Slug (/blog/...)';
 const P_DESC = 'Meta description';
 const P_LINK = 'Link bài trên site';
 const P_DATE = 'Ngày đăng';
+const P_CATEGORY = 'Phân loại';
 const ST_APPROVED = 'Đã duyệt';
 const ST_PUBLISHED = 'Đã publish';
 
@@ -95,6 +96,7 @@ async function main() {
   const titleOf = p => plain(((p.properties[P_TITLE] || {}).title));
   const statusOf = p => (((p.properties[P_STATUS] || {}).status) || {}).name || '';
   const textOf = (p, n) => plain(((p.properties[n] || {}).rich_text));
+  const selectOf = (p, n) => (((p.properties[n] || {}).select) || {}).name || '';
   const urlOf = p => (p.properties[P_LINK] || {}).url || '';
 
   const today = new Date().toISOString().slice(0, 10);
@@ -108,8 +110,9 @@ async function main() {
     catch (e) { console.log('SKIP "' + title + '": cannot read page body — ' + e.message); continue; }
     if (body.trim().length < 200) { console.log('SKIP "' + title + '": page body qua ngan — hay viet noi dung day du trong Notion truoc.'); continue; }
     const desc = textOf(page, P_DESC).trim() || body.replace(/[#>*`!\[\]()-]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 155);
+    const category = selectOf(page, P_CATEGORY).trim();
     const q = s => '"' + s.replace(/"/g, "'") + '"';
-    const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'date: ' + today, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
+    const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'category: ' + q(category), 'date: ' + today, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
     fs.mkdirSync('content/blog', { recursive: true });
     fs.writeFileSync('content/blog/' + slug + '.md', md);
     const link = SITE + '/blog/' + slug + '/';

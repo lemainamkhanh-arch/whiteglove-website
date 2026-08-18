@@ -2,6 +2,7 @@
 title: "Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn"
 description: "Tiêu chí chọn công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: kinh nghiệm, quy trình, bảo hiểm và cam kết trách nhiệm rõ ràng."
 slug: cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm
+category: "Vận chuyển nội thất"
 date: 2026-08-18
 keyword: "công ty vận chuyển nội thất cao cấp uy tín tại tp.hcm: tiêu chí chọn"
 draft: false

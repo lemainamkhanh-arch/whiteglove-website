@@ -2,6 +2,7 @@
 title: "Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì?"
 description: "Chi phí vận chuyển đồ nội thất tính dựa trên yếu tố nào? Phân tích các thành phần chi phí và cách tránh phát sinh ngoài dự kiến từ White Glove Logistics Vietnam."
 slug: chi-phi-van-chuyen-do-noi-that
+category: "Chi phí & báo giá"
 date: 2026-08-05
 keyword: "chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì?"
 draft: false

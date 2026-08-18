@@ -57,6 +57,9 @@ function parseFrontMatter(src) {
   return { meta, body };
 }
 function esc(s) { return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+function categoryKey(s) { return (s || 'uncategorized').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); }
+function categoryName(p) { return ((p && p.category) || 'Chưa phân loại').trim() || 'Chưa phân loại'; }
+function categoryChip(p) { return '<span class="category-chip">' + esc(categoryName(p)) + '</span>'; }
 function inline(s) {
   return s
     .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" loading="lazy">')
@@ -239,6 +242,7 @@ for (const p of posts) {
     DESCRIPTION: esc(p.description || ''),
     DATE: p.date || '',
     DATE_HUMAN: (p.date || '').split('-').reverse().join('/'),
+    CATEGORY: categoryChip(p),
     URL: SITE + '/blog/' + p.slug + '/',
     OG_IMAGE: (() => { const t = thumbOf(p); return t.startsWith('http') ? t : (t ? SITE + t : SITE + '/assets/img-01.jpg'); })(),
     BODY: p.bodyHtml,
@@ -257,19 +261,25 @@ let featuredHtml = '';
 if (featuredPost) {
   const thumbUrl = thumbOf(featuredPost);
   const thumb = thumbUrl ? '<span class="fth"><img src="' + thumbUrl + '" alt="" loading="lazy"></span>' : '';
-  featuredHtml = '<a class="featured" href="/blog/' + featuredPost.slug + '/">' + thumb +
-    '<span class="fd">' + (featuredPost.date || '').split('-').reverse().join('/') + '</span>' +
+  featuredHtml = '<a class="featured" data-blog-card data-category="' + categoryKey(categoryName(featuredPost)) + '" href="/blog/' + featuredPost.slug + '/">' + thumb +
+    '<span class="fd">' + (featuredPost.date || '').split('-').reverse().join('/') + '</span>' + categoryChip(featuredPost) +
     '<span class="ft">' + esc(featuredPost.title || '') + '</span>' +
     '<span class="fs">' + esc(featuredPost.description || '') + '</span></a>';
 }
 
+const categoryOrder = ['Nhập khẩu & hải quan','Vận chuyển nội thất','White Glove Delivery','Đóng gói & bảo hiểm','Chi phí & báo giá','Hướng dẫn & checklist','Chưa phân loại'];
+const categories = categoryOrder.filter(c => posts.some(p => categoryName(p) === c));
+const categoryButtons = ['<button class="category-filter-btn is-active" type="button" data-category="all" aria-pressed="true">Tất cả</button>']
+  .concat(categories.map(c => '<button class="category-filter-btn" type="button" data-category="' + categoryKey(c) + '" aria-pressed="false">' + esc(c) + '</button>')).join('');
+const categoryFilters = '<div class="category-filter" role="region" aria-label="Chuyên mục Blog"><span class="category-filter-label">Chuyên mục Blog</span><div class="category-filter-buttons">' + categoryButtons + '</div></div><script>(function(){var b=[].slice.call(document.querySelectorAll(".category-filter-btn")),c=[].slice.call(document.querySelectorAll("[data-blog-card]"));function f(k){b.forEach(function(x){var a=x.dataset.category===k;x.classList.toggle("is-active",a);x.setAttribute("aria-pressed",a?"true":"false")});c.forEach(function(x){x.classList.toggle("post-hidden",k!=="all"&&x.dataset.category!==k)})}b.forEach(function(x){x.addEventListener("click",function(){f(x.dataset.category)})})})();</script>';
+
 const items = restPosts.map((p) => {
   const thumbUrl = thumbOf(p);
   const thumb = thumbUrl ? '<span class="th"><img src="' + thumbUrl + '" alt="" loading="lazy"></span>' : '';
-  return '<li><a href="/blog/' + p.slug + '/">' + thumb + '<span class="tx"><span class="d">' + (p.date || '').split('-').reverse().join('/') +
-  '</span><span class="t">' + esc(p.title || '') + '</span><span class="s">' + esc(p.description || '') + '</span></span></a></li>';
+  return '<li data-blog-card data-category="' + categoryKey(categoryName(p)) + '"><a href="/blog/' + p.slug + '/">' + thumb + '<span class="tx"><span class="d">' + (p.date || '').split('-').reverse().join('/') +
+  '</span>' + categoryChip(p) + '<span class="t">' + esc(p.title || '') + '</span><span class="s">' + esc(p.description || '') + '</span></span></a></li>';
 }).join('\n');
-fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, FEATURED: featuredHtml, ITEMS: items || (featuredPost ? '' : '<li>Bài viết đang được cập nhật…</li>') }));
+fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, CATEGORY_FILTERS: categoryFilters, FEATURED: featuredHtml, ITEMS: items || (featuredPost ? '' : '<li>Bài viết đang được cập nhật…</li>') }));
 
 // 3) sitemap.xml
 const today = new Date().toISOString().slice(0, 10);

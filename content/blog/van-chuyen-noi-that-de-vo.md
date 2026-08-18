@@ -2,6 +2,7 @@
 title: "Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?"
 description: "Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần lưu ý gì để tránh nứt vỡ, trầy xước? Hướng dẫn từ White Glove Logistics Vietnam."
 slug: van-chuyen-noi-that-de-vo
+category: "Đóng gói & bảo hiểm"
 date: 2026-08-05
 keyword: "vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?"
 draft: false

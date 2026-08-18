@@ -2,6 +2,7 @@
 title: "Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026)"
 description: "Tất tần tật về nhập nội thất Trung Quốc: chọn nguồn, thủ tục hải quan, thuế, vận chuyển và final mile. Dành cho người lần đầu nhập hàng."
 slug: huong-dan-nhap-noi-that-trung-quoc-a-z
+category: "Nhập khẩu & hải quan"
 date: 2026-08-16
 keyword: "hướng dẫn nhập nội thất trung quốc từ a→z cho người mới bắt đầu (2026)"
 draft: false

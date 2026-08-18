@@ -2,6 +2,7 @@
 title: "Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao"
 description: "Condition report ghi lại tình trạng hàng hóa trước và sau vận chuyển bằng ảnh và số serial — hồ sơ bắt buộc khi giao nhận hàng cao cấp."
 slug: condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao
+category: "Hướng dẫn & checklist"
 date: 2026-07-31
 keyword: "condition report là gì? vì sao quan trọng khi nhận hàng giá trị cao"
 draft: false

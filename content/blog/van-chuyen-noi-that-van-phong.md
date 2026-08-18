@@ -2,6 +2,7 @@
 title: "Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì?"
 description: "Vận chuyển nội thất văn phòng khi chuyển địa điểm cần lưu ý gì để không gián đoạn công việc? Hướng dẫn quy trình từ White Glove Logistics Vietnam."
 slug: van-chuyen-noi-that-van-phong
+category: "Vận chuyển nội thất"
 date: 2026-08-05
 keyword: "vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì?"
 draft: false

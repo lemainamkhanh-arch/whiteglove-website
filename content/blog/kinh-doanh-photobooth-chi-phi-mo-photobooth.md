@@ -2,6 +2,7 @@
 title: "Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị"
 description: "Kinh doanh photobooth cần bao nhiêu vốn? Tìm hiểu chi phí thiết bị, mô hình doanh thu, cách chọn mặt bằng và nhập khẩu hệ thống photobooth phù hợp tại Việt Nam."
 slug: kinh-doanh-photobooth-chi-phi-mo-photobooth
+category: "Nhập khẩu & hải quan"
 date: 2026-08-14
 keyword: "kinh doanh photobooth: chi phí đầu tư, mô hình vận hành và cách nhập thiết bị"
 draft: false
