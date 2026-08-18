@@ -51,10 +51,20 @@ gtag('config', 'G-6KDCH13ZXK');
 <style>
 :root{--ink:#1d1b18;--muted:#716d65;--line:#ded9cf;--paper:#fcfbf8;--gold:#b18a52;--blue:#8b6a3d;--blue-soft:#f2eadc;--deep:#161513}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;line-height:1.75}
-main{max-width:720px;margin:0 auto;padding:48px 24px 80px}
+main{max-width:1160px;margin:0 auto;padding:48px 24px 80px}
 h1{font-family:'Montserrat','Be Vietnam Pro',ui-sans-serif,sans-serif;font-weight:300;letter-spacing:.005em;font-size:clamp(1.9rem,3.4vw,2.6rem);line-height:1.2;margin:0 0 8px}
 .meta{color:var(--muted);font-size:14px;margin-bottom:32px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.category-chip{display:inline-flex;align-items:center;width:max-content;border-radius:999px;background:var(--blue-soft);color:var(--blue);padding:4px 9px;font-size:10px;font-weight:700;letter-spacing:.05em;line-height:1.2}
+.category-chip{display:inline-flex;align-items:center;width:max-content;border-radius:0;background:var(--blue-soft);color:var(--blue);padding:4px 9px;font-size:10px;font-weight:700;letter-spacing:.05em;line-height:1.2}
+.post-layout{display:grid;grid-template-columns:minmax(0,720px) minmax(220px,280px);gap:64px;align-items:start}
+.post-main{min-width:0}
+.post-sidebar{position:sticky;top:112px;align-self:start;min-width:0}
+.related-links{margin-top:52px;border-left:1px solid var(--line);padding-left:24px}
+.related-links h3{font-family:Montserrat,sans-serif;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 16px}
+.related-links ul{list-style:none;padding:0;margin:0;display:grid;gap:14px;font-size:.86rem}
+.related-links li{line-height:1.5}
+.related-links a{color:var(--gold);text-decoration:none}
+.related-links a:hover{color:var(--ink)}
+@media(max-width:900px){.post-layout{grid-template-columns:1fr;gap:0}.post-sidebar{position:static}.related-links{margin-top:48px;border-left:0;border-top:1px solid var(--line);padding:24px 0 0}}
 article h2{font-family:Montserrat,sans-serif;font-size:22px;margin-top:36px}
 article h3{font-family:Montserrat,sans-serif;font-size:17px;margin-top:28px}
 article img{max-width:100%;border-radius:8px}
@@ -113,6 +123,8 @@ html,body{max-width:100%;overflow-x:clip}
 </nav><script>(function(){var m=document.querySelector(".menu"),l=document.querySelector(".navlinks");if(!m||!l)return;m.addEventListener("click",function(){var o=l.classList.toggle("open");m.setAttribute("aria-expanded",o)});l.querySelectorAll("a").forEach(function(a){a.addEventListener("click",function(){l.classList.remove("open")})})})();</script>
 <nav class="breadcrumbs" aria-label="Breadcrumb" style="max-width:720px;margin:0 auto;padding:14px 24px 0;font-size:.8rem;color:var(--muted)"><a href="/" style="color:var(--muted)">Trang chủ</a> <span aria-hidden="true">›</span> <a href="/blog/" style="color:var(--muted)">Blog</a> <span aria-hidden="true">›</span> <span style="color:var(--ink)">Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn</span></nav>
 <main>
+<div class="post-layout">
+<div class="post-main">
 <p class="meta"><span>05/08/2026</span><span class="category-chip">Đóng gói &amp; bảo hiểm</span></p>
 <h1>Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn</h1>
 <article>
@@ -161,9 +173,11 @@ html,body{max-width:100%;overflow-x:clip}
 <p>White Glove Logistics Vietnam có quy trình đóng gói chuyên dụng theo từng chất liệu, kèm condition report khi bàn giao — liên hệ để được khảo sát và báo giá.</p>
 </article>
 <div class="cta" data-nosnippet><strong>Cần giao hàng white glove tại TP.HCM?</strong><br>White Glove Logistics Vietnam — giao hàng, lắp đặt và ủy thac XNK hàng high-end.<br><a href="/" onclick="gtag('event','quote_request',{event_category:'engagement',event_label:'blog_cta'})">Yêu cầu báo giá</a></div>
-<div class="related-links" style="margin-top:28px;padding-top:24px;border-top:1px solid var(--line)"><h3 style="font-family:Montserrat,sans-serif;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 12px">Bài viết liên quan</h3><ul style="list-style:none;padding:0;margin:0;display:grid;gap:8px;font-size:.86rem"><li><a href="/blog/bao-gia-van-chuyen-noi-that-nhap-khau/" style="color:var(--gold)">→ Báo giá vận chuyển nội thất nhập khẩu T8/2026: cần chuẩn bị thông tin gì?</a></li>
+</div>
+<aside class="post-sidebar" aria-label="Bài viết liên quan"><div class="related-links"><h3>Bài viết liên quan</h3><ul><li><a href="/blog/bao-gia-van-chuyen-noi-that-nhap-khau/" style="color:var(--gold)">→ Báo giá vận chuyển nội thất nhập khẩu T8/2026: cần chuẩn bị thông tin gì?</a></li>
 <li><a href="/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/" style="color:var(--gold)">→ Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước</a></li>
-<li><a href="/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/" style="color:var(--gold)">→ Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026)</a></li></ul></div>
+<li><a href="/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/" style="color:var(--gold)">→ Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026)</a></li></ul></div></aside>
+</div>
 </main>
 <footer>© White Glove Logistics Vietnam · <a href="/" style="color:inherit">whiteglove.vn</a></footer>
 </body>

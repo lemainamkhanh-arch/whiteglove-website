@@ -210,7 +210,7 @@ function relatedPostsHtml(currentPost, allPosts) {
     const p = s.p;
     return '<li><a href="/blog/' + p.slug + '/" style="color:var(--gold)">→ ' + esc(p.title || '') + '</a></li>';
   }).join('\n');
-  return '<div class="related-links" style="margin-top:28px;padding-top:24px;border-top:1px solid var(--line)"><h3 style="font-family:Montserrat,sans-serif;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 12px">Bài viết liên quan</h3><ul style="list-style:none;padding:0;margin:0;display:grid;gap:8px;font-size:.86rem">' + items + '</ul></div>';
+  return '<div class="related-links"><h3>Bài viết liên quan</h3><ul>' + items + '</ul></div>';
 }
 
 fs.rmSync('blog', { recursive: true, force: true });
