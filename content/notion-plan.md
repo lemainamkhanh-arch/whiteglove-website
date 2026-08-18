@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-18T05:42:21.082Z"
+updated: "2026-08-18T06:06:26.168Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
@@ -44,12 +44,13 @@ updated: "2026-08-18T05:42:21.082Z"
 
 ## Đã duyệt (1)
 
-- Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp?
+- Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết?
 
 ## Đã publish (18)
 
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
+- Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
 - Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026) — [https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/)
 - Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — [https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/](https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/)
@@ -60,7 +61,6 @@ updated: "2026-08-18T05:42:21.082Z"
 - Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — [https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/)
 - Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn — [https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/](https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/)
 - Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — [https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/](https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/)
-- Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết? — [https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/](https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/)
 - Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM — [https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/](https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/)
 - Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng — [https://whiteglove.vn/blog/van-chuyen-dan-piano-tphcm/](https://whiteglove.vn/blog/van-chuyen-dan-piano-tphcm/)
 - Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — [https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/)
