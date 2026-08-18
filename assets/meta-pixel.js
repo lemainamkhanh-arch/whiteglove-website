@@ -29,6 +29,21 @@ fbq('track', 'PageView');
     fbq('track', 'Lead', { content_name: 'quote_request' });
   }
   function init() {
+    if (!document.getElementById('wg-zalo-button')) {
+      var zalo = document.createElement('a');
+      zalo.id = 'wg-zalo-button';
+      zalo.href = 'https://zalo.me/0339952005';
+      zalo.target = '_blank';
+      zalo.rel = 'noopener noreferrer';
+      zalo.setAttribute('aria-label', 'Nhắn tin với White Glove qua Zalo');
+      zalo.textContent = '💬 Zalo';
+      zalo.style.cssText = 'position:fixed;right:20px;bottom:20px;z-index:9999;display:flex;align-items:center;gap:8px;background:#0068ff;color:#fff;padding:12px 16px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.2);font:600 14px/1.1 Arial,sans-serif;text-decoration:none;';
+      zalo.addEventListener('click', function () {
+        fbq('track', 'Contact', { content_name: 'zalo_button' });
+        if (typeof gtag === 'function') gtag('event', 'whatsapp_click', { event_category: 'contact', event_label: 'floating_zalo_button' });
+      });
+      document.body.appendChild(zalo);
+    }
     document.querySelectorAll('a[href^="tel:"], a[href^="mailto:"], a[href*="zalo.me"]').forEach(function (el) {
       el.addEventListener('click', trackContact);
     });
