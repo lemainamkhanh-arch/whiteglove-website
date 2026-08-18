@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-18T06:06:26.168Z"
+updated: "2026-08-18T06:12:32.072Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
@@ -44,7 +44,7 @@ updated: "2026-08-18T06:06:26.168Z"
 
 ## Đã duyệt (1)
 
-- Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết?
+- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn
 
 ## Đã publish (18)
 
@@ -59,8 +59,8 @@ updated: "2026-08-18T06:06:26.168Z"
 - Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — [https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/](https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/)
 - Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — [https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/](https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/)
 - Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — [https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/)
-- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn — [https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/](https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/)
 - Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — [https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/](https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/)
+- Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết? — [https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/](https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/)
 - Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM — [https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/](https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/)
 - Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng — [https://whiteglove.vn/blog/van-chuyen-dan-piano-tphcm/](https://whiteglove.vn/blog/van-chuyen-dan-piano-tphcm/)
 - Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — [https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/)
