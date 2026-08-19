@@ -1,4 +1,4 @@
-(function (w, d, s, u, id) {
+(function (w, d, s, u) {
   if (w.fbq) return;
   var n = w.fbq = function () {
     n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
@@ -13,20 +13,29 @@
   t.src = u;
   var x = d.getElementsByTagName(s)[0];
   x.parentNode.insertBefore(t, x);
-})(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js', '1421154963204117');
+})(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
 
 fbq('init', '1421154963204117');
 fbq('track', 'PageView');
 
+window.wgTrackContact = function () {
+  if (typeof fbq === 'function') fbq('track', 'Contact');
+  if (typeof gtag === 'function') gtag('event', 'contact_click', { event_category: 'engagement', event_label: 'zalo' });
+};
+window.wgTrackLead = function () {
+  var success = document.getElementById('success');
+  if (success && success.dataset.metaLeadTracked === '1') return;
+  if (success) success.dataset.metaLeadTracked = '1';
+  if (typeof fbq === 'function') fbq('track', 'Lead');
+  if (typeof gtag === 'function') gtag('event', 'generate_lead', { event_category: 'conversion', event_label: 'import_landing_form' });
+};
+
 (function () {
   function trackContact() {
-    fbq('track', 'Contact', { content_name: 'website_contact_click' });
+    window.wgTrackContact();
   }
   function trackLead() {
-    var success = document.getElementById('success');
-    if (!success || success.dataset.metaLeadTracked === '1') return;
-    success.dataset.metaLeadTracked = '1';
-    fbq('track', 'Lead', { content_name: 'quote_request' });
+    window.wgTrackLead();
   }
   function init() {
     if (!document.getElementById('wg-zalo-button')) {
@@ -38,13 +47,10 @@ fbq('track', 'PageView');
       zalo.setAttribute('aria-label', 'Nhắn tin với White Glove qua Zalo');
       zalo.innerHTML = '<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icon_of_Zalo.svg" alt="" width="36" height="36" style="display:block;width:36px;height:36px;border-radius:10px;background:#fff;padding:2px;"><span>Nhắn Zalo</span>';
       zalo.style.cssText = 'position:fixed;right:20px;bottom:20px;z-index:9999;display:flex;align-items:center;gap:10px;background:#b18a52;color:#fff;padding:14px 22px;border:1px solid rgba(255,255,255,.55);border-radius:999px;box-shadow:0 12px 30px rgba(35,28,19,.24);font:700 16px/1.1 Arial,sans-serif;text-decoration:none;min-height:64px;';
-      zalo.addEventListener('click', function () {
-        fbq('track', 'Contact', { content_name: 'zalo_button' });
-        if (typeof gtag === 'function') gtag('event', 'whatsapp_click', { event_category: 'contact', event_label: 'floating_zalo_button' });
-      });
+      zalo.addEventListener('click', trackContact);
       document.body.appendChild(zalo);
     }
-    document.querySelectorAll('a[href^="tel:"], a[href^="mailto:"], a[href*="zalo.me"]').forEach(function (el) {
+    document.querySelectorAll('a[href^="tel:"], a[href^="mailto:"], a[href*="zalo.me"]:not(#wg-zalo-button)').forEach(function (el) {
       el.addEventListener('click', trackContact);
     });
     var success = document.getElementById('success');
