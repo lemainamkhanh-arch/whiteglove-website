@@ -360,12 +360,22 @@ html,body{max-width:100%;overflow-x:clip}
 .imp-hero-meta{gap:36px;margin-top:38px;padding-top:22px}
 .imp-hero-meta b{font-size:1.5rem}
 .imp-hero-meta span{font-size:.6rem;letter-spacing:.12em}
-/* Risk section - polish */
+/* Risk section - accordion style */
 .imp-risk-float{background:linear-gradient(#181614 0,#181614 50px,#fcfbf8 50px)}
-.imp-risk-box{margin-top:-50px;border-radius:6px}
-.imp-risk-mini{transition:background .25s ease,transform .25s ease;padding:28px 26px}
-.imp-risk-mini:hover{background:#faf6ef;transform:translateY(-2px)}
+.imp-risk-box{margin-top:-50px;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:#fff;box-shadow:0 18px 48px rgba(35,28,19,.08)}
 .imp-risk-intro h2{color:#f0e8dc}
+details.imp-risk-item{background:#fff;border-bottom:1px solid #ece4d3;transition:background .2s ease}
+details.imp-risk-item:last-child{border-bottom:0}
+details.imp-risk-item[open]{background:#faf7f1}
+details.imp-risk-item summary{display:flex;align-items:center;gap:14px;padding:20px 24px;cursor:pointer;list-style:none;-webkit-user-select:none;user-select:none}
+details.imp-risk-item summary::-webkit-details-marker{display:none}
+details.imp-risk-item summary:hover{background:#f8f4ec}
+.imp-risk-num{font:400 .88rem Georgia,serif;color:var(--gold);min-width:26px}
+.imp-risk-title{flex:1;font-size:1.02rem;font-weight:600;letter-spacing:.01em;color:var(--ink)}
+.imp-risk-chevron{color:#b8a98d;font-size:.7rem;transition:transform .28s ease}
+details.imp-risk-item[open] .imp-risk-chevron{transform:rotate(180deg)}
+.imp-risk-body{padding:0 24px 18px 64px}
+.imp-risk-body p{font-size:.86rem;line-height:1.65;color:var(--muted);margin:0}
 .imp-risk-photo{height:300px}
 /* Editorial */
 .imp-editorial-in{gap:56px;align-items:center}
@@ -451,17 +461,18 @@ html,body{max-width:100%;overflow-x:clip}
 .hero-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .hero-actions .btn{padding:0 12px;justify-content:center;text-align:center;font-size:.7rem;min-height:42px}
 
-/* Risk section */
+/* Risk section - mobile accordion */
 .imp-risk-float{background:linear-gradient(#181614 0,#181614 36px,#fcfbf8 36px)!important}
 .imp-risk-box{margin-top:-36px!important}
 .imp-risk-intro{padding-top:24px;margin-bottom:18px}
 .imp-risk-intro h2{font-size:1.45rem}
 .imp-risk-intro p{font-size:.82rem}
-.imp-risk-mini{padding:18px 20px!important;border-right:0!important;border-bottom:1px solid var(--line)!important}
-.imp-risk-mini:last-child{border-bottom:0!important}
-.imp-risk-mini span{font-size:.82rem}
-.imp-risk-mini h3{font-size:.95rem;margin:5px 0 4px}
-.imp-risk-mini p{font-size:.78rem;line-height:1.5}
+details.imp-risk-item summary{padding:14px 18px;gap:10px}
+.imp-risk-num{font-size:.78rem;min-width:22px}
+.imp-risk-title{font-size:.9rem}
+.imp-risk-chevron{font-size:.65rem}
+.imp-risk-body{padding:0 18px 14px 50px}
+.imp-risk-body p{font-size:.8rem;line-height:1.55}
 .imp-risk-photos{grid-template-columns:1fr!important}
 .imp-risk-photo{height:240px;border-right:0;border-bottom:1px solid rgba(255,255,255,.2)}
 
@@ -560,10 +571,11 @@ html,body{max-width:100%;overflow-x:clip}
 <div class="imp-hero-meta"><div><b>5 bước</b><span>Quy trình trọn gói</span></div><div><b>Chính ngạch</b><span>Chứng từ minh bạch</span></div><div><b>White Glove</b><span>Giao nhận tận nơi</span></div></div></div>
 <figure class="imp-hero-visual"><img fetchpriority="high" src="assets/services/import/customs-doc.webp" alt="Kiểm tra chứng từ và hàng hóa nhập khẩu cao cấp"></figure>
 </div></section>
-<section class="imp-risk-float"><div class="wrap"><div class="imp-risk-intro reveal"><div class="eyebrow">Rủi ro khi tự nhập khẩu</div><h2>Ba rủi ro phổ biến nhất</h2><p>Nhận diện đúng rủi ro là bước đầu tiên để tránh phát sinh chi phí và chậm trễ.</p></div><div class="imp-risk-box">
-<div class="imp-risk-mini reveal"><span>01</span><h3>Chi phí cao &amp; ẩn</h3><p>Cước vận chuyển, lưu kho, thuế và phụ phí dễ phát sinh nếu thiếu kế hoạch tổng chi phí.</p></div>
-<div class="imp-risk-mini reveal"><span>02</span><h3>Thủ tục phức tạp</h3><p>Mã HS, kiểm định và hồ sơ sai lệch có thể khiến lô hàng bị giữ.</p></div>
-<div class="imp-risk-mini reveal"><span>03</span><h3>Giao hàng trễ</h3><p>Nhiều bên trung gian, thiếu đầu mối kiểm soát dễ làm chậm tiến độ dự án.</p></div>
+<section class="imp-risk-float"><div class="wrap"><div class="imp-risk-intro reveal"><div class="eyebrow">Rủi ro khi tự nhập khẩu</div><h2>Ba rủi ro phổ biến nhất</h2><p>Nhận diện đúng rủi ro là bước đầu tiên để tránh phát sinh chi phí và chậm trễ.</p></div>
+<div class="imp-risk-box">
+<details class="imp-risk-item reveal" open><summary><span class="imp-risk-num">01</span><span class="imp-risk-title">Chi phí cao &amp; ẩn</span><span class="imp-risk-chevron">↓</span></summary><div class="imp-risk-body"><p>Cước vận chuyển, lưu kho, thuế và phụ phí dễ phát sinh nếu thiếu kế hoạch tổng chi phí. Mỗi khoản nhỏ tưởng chừng không đáng kể nhưng khi tổng hợp lại có thể khiến tổng chi phí nhập khẩu vượt 20–30% so với dự toán ban đầu.</p></div></details>
+<details class="imp-risk-item reveal"><summary><span class="imp-risk-num">02</span><span class="imp-risk-title">Thủ tục phức tạp</span><span class="imp-risk-chevron">↓</span></summary><div class="imp-risk-body"><p>Mã HS, kiểm định và hồ sơ sai lệch có thể khiến lô hàng bị giữ. Sai một mã HS có thể dẫn đến chênh lệch thuế suất từ 0% lên 30%, hoặc tệ hơn — hàng bị phạt, tịch thu do khai sai chủng loại. Bộ hồ sơ thiếu giấy tờ kiểm định chuyên ngành cũng là nguyên nhân phổ biến khiến hàng nằm kho chờ bổ sung.</p></div></details>
+<details class="imp-risk-item reveal"><summary><span class="imp-risk-num">03</span><span class="imp-risk-title">Giao hàng trễ</span><span class="imp-risk-chevron">↓</span></summary><div class="imp-risk-body"><p>Nhiều bên trung gian, thiếu đầu mối kiểm soát dễ làm chậm tiến độ dự án. Mỗi lần bàn giao giữa các bên (forwarder, hải quan, kho, vận tải nội địa) là một cơ hội để sai sót và chậm trễ xảy ra. Khi không có ai chịu trách nhiệm tổng thể, một khâu chậm có thể kéo lùi toàn bộ tiến độ dự án 2–4 tuần.</p></div></details>
 </div></div></section>
 
 <section class="section imp-editorial"><div class="wrap imp-editorial-in"><div class="reveal"><div class="eyebrow">Nhập khẩu chính ngạch</div><h2>Nhập khẩu đúng luật,<br>an tâm dài lâu</h2></div><div class="reveal"><p>Dịch vụ ủy thác nhập khẩu cao cấp thay khách hàng xử lý toàn bộ chuỗi thủ tục quốc tế — kiểm tra điều kiện nhập khẩu, chứng từ, hải quan, thuế và vận tải quốc tế.</p><p>Một đầu mối chịu trách nhiệm từ lúc lập kế hoạch đến lúc hàng được lắp đặt, nghiệm thu tại Việt Nam.</p></div></div></section>
