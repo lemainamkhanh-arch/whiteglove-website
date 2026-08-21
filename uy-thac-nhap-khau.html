@@ -361,9 +361,12 @@ html,body{max-width:100%;overflow-x:clip}
 .imp-hero-meta b{font-size:1.5rem}
 .imp-hero-meta span{font-size:.6rem;letter-spacing:.12em}
 /* Risk section - accordion style */
-.imp-risk-float{background:linear-gradient(#181614 0,#181614 50px,#fcfbf8 50px)}
-.imp-risk-box{margin-top:-50px;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:#fff;box-shadow:0 18px 48px rgba(35,28,19,.08)}
-.imp-risk-intro h2{color:#f0e8dc}
+.imp-risk-float{background:#181614;padding-bottom:0}
+.imp-risk-intro{text-align:center;padding:48px 0 20px}
+.imp-risk-intro .eyebrow{color:#c8a56c}
+.imp-risk-intro h2{color:#f0e8dc;font-size:clamp(1.7rem,3vw,2.3rem);margin:10px 0 10px}
+.imp-risk-intro p{color:rgba(255,255,255,.6);font-size:.92rem;max-width:500px;margin:0 auto}
+.imp-risk-box{margin-top:0;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:#fff;box-shadow:0 18px 48px rgba(35,28,19,.08);transform:translateY(36px)}
 details.imp-risk-item{background:#fff;border-bottom:1px solid #ece4d3;transition:background .2s ease}
 details.imp-risk-item:last-child{border-bottom:0}
 details.imp-risk-item[open]{background:#faf7f1}
@@ -462,11 +465,10 @@ details.imp-risk-item[open] .imp-risk-chevron{transform:rotate(180deg)}
 .hero-actions .btn{padding:0 12px;justify-content:center;text-align:center;font-size:.7rem;min-height:42px}
 
 /* Risk section - mobile accordion */
-.imp-risk-float{background:linear-gradient(#181614 0,#181614 36px,#fcfbf8 36px)!important}
-.imp-risk-box{margin-top:-36px!important}
-.imp-risk-intro{padding-top:24px;margin-bottom:18px}
-.imp-risk-intro h2{font-size:1.45rem}
+.imp-risk-intro{padding:32px 0 14px}
+.imp-risk-intro h2{font-size:1.4rem}
 .imp-risk-intro p{font-size:.82rem}
+.imp-risk-box{transform:translateY(24px);margin:0 0 24px}
 details.imp-risk-item summary{padding:14px 18px;gap:10px}
 .imp-risk-num{font-size:.78rem;min-width:22px}
 .imp-risk-title{font-size:.9rem}
