@@ -9,7 +9,7 @@ keyword: "báo giá vận chuyển nội thất nhập khẩu: cần chuẩn b�
 draft: false
 ---
 
-![Minh hoạ vận chuyển và báo giá nội thất nhập khẩu cao cấp](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau/bao-gia-van-chuyen-noi-that-nhap-khau-1.png)
+![Minh hoạ vận chuyển và báo giá nội thất nhập khẩu cao cấp](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau/bao-gia-van-chuyen-noi-that-nhap-khau-1.jpg)
 
 > **Trả lời nhanh:** Để nhận báo giá vận chuyển nội thất nhập khẩu chính xác ngay lần đầu liên hệ, hãy chuẩn bị: loại hàng/chất liệu, kích thước & trọng lượng, số lượng, điểm lấy hàng, điểm giao kèm điều kiện tiếp cận (tầng, thang máy, lối vào) và thời gian mong muốn. Càng đầy đủ thông tin, báo giá càng sát chi phí thực tế.
 

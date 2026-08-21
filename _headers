@@ -1,0 +1,53 @@
+# Cache-Control headers for whiteglove.vn
+# GitHub Pages reads _headers file for custom headers
+
+# Blog images - cache for 1 week since they change rarely
+/assets/blog/*
+  Cache-Control: public, max-age=604800, immutable
+
+# Main site images - cache for 1 week
+/assets/img-*
+  Cache-Control: public, max-age=604800, immutable
+/assets/hero-*
+  Cache-Control: public, max-age=604800, immutable
+/assets/WHITE_GLOVE.svg
+  Cache-Control: public, max-age=604800, immutable
+
+# Service page images
+/assets/services/*
+  Cache-Control: public, max-age=604800, immutable
+
+# Favicon
+/favicon.*
+  Cache-Control: public, max-age=604800, immutable
+/apple-touch-icon*
+  Cache-Control: public, max-age=604800, immutable
+/android-chrome-*
+  Cache-Control: public, max-age=604800, immutable
+/site.webmanifest
+  Cache-Control: public, max-age=604800, immutable
+
+# Fonts (preconnect)
+# Note: fonts.googleapis.com & fonts.gstatic.com have their own caching
+
+# Static pages - cache for 1 hour (content may update)
+/*.html
+  Cache-Control: public, max-age=3600
+
+# Blog pages - cache for 1 hour
+/blog/*
+  Cache-Control: public, max-age=3600
+
+# SEO files
+/sitemap.xml
+  Cache-Control: public, max-age=86400
+/robots.txt
+  Cache-Control: public, max-age=86400
+/llms.txt
+  Cache-Control: public, max-age=86400
+
+# Verification files
+/google*.html
+  Cache-Control: no-cache
+/tiktok*.txt
+  Cache-Control: no-cache

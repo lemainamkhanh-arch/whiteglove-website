@@ -15,7 +15,7 @@ draft: false
 
 Một số hình ảnh minh họa cho các hướng triển khai photobooth: booth cố định, trải nghiệm khách hàng và setup phụ kiện cho sự kiện.
 
-![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-1.png)
+![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-1.jpg)
 
 ![Phụ kiện và setup photobooth cho sự kiện](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-2.jpg)
 
@@ -31,7 +31,7 @@ Một hệ thống photobooth hoàn chỉnh thường gồm cabin hoặc khu v�
 
 ### 1. Đặt booth cố định tại café, bar hoặc khách sạn
 
-![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-3.png)
+![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-3.jpg)
 
 Booth được đặt tại một venue có sẵn lưu lượng khách. Doanh thu có thể tính theo mô hình chia sẻ doanh thu, thuê vị trí cố định hoặc kết hợp phí tối thiểu với revenue share.
 
@@ -41,7 +41,7 @@ Hãy ưu tiên khảo sát các địa điểm mà khách Việt thường dành
 
 ### 2. Mở studio hoặc flagship photobooth
 
-![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-4.png)
+![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-4.jpg)
 
 Nhà đầu tư sở hữu không gian riêng với nhiều concept chụp, nhiều background và các gói trải nghiệm khác nhau. Mô hình này giúp kiểm soát thương hiệu tốt hơn nhưng cần vốn lớn hơn cho mặt bằng, thiết kế, nhân sự và marketing.
 
@@ -49,7 +49,7 @@ Flagship phù hợp khi đã có dữ liệu về giá bán, số lượt chụp
 
 ### 3. Cho thuê photobooth cho sự kiện
 
-![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-5.png)
+![](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-5.jpg)
 
 Thiết bị được vận chuyển tới đám cưới, lễ khai trương, hội nghị, activation thương hiệu hoặc tiệc doanh nghiệp. Doanh thu tính theo thời lượng, số giờ phục vụ, nhân sự vận hành và mức độ tùy chỉnh.
 

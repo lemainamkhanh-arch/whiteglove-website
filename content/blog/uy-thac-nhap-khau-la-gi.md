@@ -9,7 +9,7 @@ keyword: "ủy thác nhập khẩu là gì? quy trình, chi phí và rủi ro c�
 draft: false
 ---
 
-![Minh hoạ dịch vụ ủy thác nhập khẩu hàng cao cấp qua cảng](/assets/blog/uy-thac-nhap-khau-la-gi/uy-thac-nhap-khau-la-gi-1.png)
+![Minh hoạ dịch vụ ủy thác nhập khẩu hàng cao cấp qua cảng](/assets/blog/uy-thac-nhap-khau-la-gi/uy-thac-nhap-khau-la-gi-1.jpg)
 
 > **Trả lời nhanh:** Ủy thác nhập khẩu là hình thức bạn thuê một đơn vị có chức năng xuất nhập khẩu đứng tên thay bạn để thực hiện toàn bộ thủ tục đưa hàng từ nước ngoài về — từ ký hợp đồng ngoại thương, khai báo hải quan, nộp thuế đến nhận hàng. Bạn không cần có giấy phép xuất nhập khẩu riêng vẫn nhập được hàng hợp pháp.
 

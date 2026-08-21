@@ -15,7 +15,7 @@ Trung Quốc hiện là nguồn cung nội thất lớn nhất thị trường V
 
 Nhưng "nhập nội thất Trung Quốc" không đơn giản như nghe — chọn nhầm nguồn, đặt hàng không kiểm tra chất lượng, khai sai mã HS, tính sai thuế, hàng về hư hỏng không ai chịu trách nhiệm đều có thể khiến tổng chi phí cao hơn cả mua tại chỗ. Bài viết này tổng hợp toàn bộ quy trình nhập nội thất Trung Quốc từ A→Z dành cho người lần đầu nhập hàng, từ chọn nguồn, kiểm tra chất lượng đến thông quan và giao lắp tại Việt Nam.
 
-![Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam — từ chọn nguồn, kiểm tra chất lượng đến giao lắp hoàn thiện.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-1.png)
+![Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam — từ chọn nguồn, kiểm tra chất lượng đến giao lắp hoàn thiện.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-1.jpg)
 
 ## 7 giai đoạn của quy trình nhập nội thất Trung Quốc
 
@@ -54,7 +54,7 @@ Quảng Châu phù hợp với người muốn **đi tìm nguồn trong một ch
 
 ### Phật Sơn — trái tim sản xuất nội thất
 
-![Xưởng sản xuất nội thất tại Phật Sơn — nơi nhiều nhà máy nhận sản xuất theo mẫu, vật liệu và cấu hình riêng.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-2.png)
+![Xưởng sản xuất nội thất tại Phật Sơn — nơi nhiều nhà máy nhận sản xuất theo mẫu, vật liệu và cấu hình riêng.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-2.jpg)
 
 Nếu Quảng Châu là "cửa hàng" thì Phật Sơn là "nhà máy". Đây là một trong những trung tâm sản xuất nội thất lớn nhất Trung Quốc, tập trung hàng nghìn xưởng: gỗ tự nhiên cao cấp, gỗ công nghiệp, sofa, nội thất văn phòng, có năng lực OEM/ODM cho nhiều thương hiệu lớn.
 
@@ -66,7 +66,7 @@ Nhược điểm: ít khu "đi chợ" như Quảng Châu — muốn xem hàng đ
 
 ### 1688, Taobao — kênh online
 
-![Tìm kiếm và so sánh nguồn hàng nội thất trên các nền tảng thương mại điện tử Trung Quốc như 1688 và Taobao.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-3.png)
+![Tìm kiếm và so sánh nguồn hàng nội thất trên các nền tảng thương mại điện tử Trung Quốc như 1688 và Taobao.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-3.jpg)
 
 Với người không sang được Trung Quốc, **1688** (B2B, mua sỉ) và **Taobao/Tmall** (bán lẻ) là kênh phổ biến nhất: xem được hàng nghìn supplier, so giá trực tiếp. Kênh này hợp mua mẫu thử, mua số lượng nhỏ, hoặc tìm supplier quen rồi đặt hàng lặp lại.
 
@@ -74,7 +74,7 @@ Rủi ro: ảnh "làm đẹp" có thể khác xa hàng thật, review có thể 
 
 ## Giai đoạn 2: Kiểm chứng supplier và đặt hàng
 
-![Kiểm tra mẫu mã, chất liệu và tình trạng sản phẩm trước khi đặt cọc cho đơn hàng nội thất.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-4.png)
+![Kiểm tra mẫu mã, chất liệu và tình trạng sản phẩm trước khi đặt cọc cho đơn hàng nội thất.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-4.jpg)
 
 Giai đoạn này quyết định đến **80% chất lượng** của cả dự án.
 
@@ -130,7 +130,7 @@ Với lô hàng trị giá vài trăm triệu đến vài tỷ đồng, **bảo 
 
 Hàng về đến cảng Việt Nam, giai đoạn **thông quan** bắt đầu — bước dễ khiến người mới bối rối nhất.
 
-![Chuẩn bị hồ sơ và chứng từ cần thiết cho thủ tục thông quan lô hàng nội thất nhập khẩu.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-5.png)
+![Chuẩn bị hồ sơ và chứng từ cần thiết cho thủ tục thông quan lô hàng nội thất nhập khẩu.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-5.jpg)
 
 ### Chính ngạch — con đường duy nhất để đi "dài lâu"
 
@@ -148,7 +148,7 @@ Mã HS nên được xác định dựa trên công dụng, chất liệu, cấu
 
 ## Giai đoạn 6: Thuế nhập khẩu nội thất từ Trung Quốc 2026
 
-![Ước tính thuế nhập khẩu và các chi phí liên quan trước khi đưa nội thất về Việt Nam.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-6.png)
+![Ước tính thuế nhập khẩu và các chi phí liên quan trước khi đưa nội thất về Việt Nam.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-6.jpg)
 
 ### Hai loại thuế bạn phải nộp
 

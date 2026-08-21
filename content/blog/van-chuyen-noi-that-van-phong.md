@@ -9,7 +9,7 @@ keyword: "vận chuyển nội thất văn phòng khi chuyển địa điểm: c
 draft: false
 ---
 
-![Vận chuyển nội thất văn phòng](/assets/blog/van-chuyen-noi-that-van-phong-1.png)
+![Vận chuyển nội thất văn phòng](/assets/blog/van-chuyen-noi-that-van-phong-1.jpg)
 
 > Trả lời nhanh: Vận chuyển nội thất văn phòng khi chuyển địa điểm cần lên kế hoạch theo từng khu vực (phòng họp, bàn làm việc, server/IT), sắp xếp ngoài giờ làm để không gián đoạn công việc, và đánh số/ghi chú vị trí lắp lại tại văn phòng mới để rút ngắn thời gian setup.
 
