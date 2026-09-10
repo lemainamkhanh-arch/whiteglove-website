@@ -69,10 +69,24 @@ Ngoài ra, nếu bạn chưa rõ về ủy thác nhập khẩu, bài viết về
 
 Để nhận báo giá chính xác và nhanh chóng cho dịch vụ white glove delivery tại TP.HCM, quý khách vui lòng truy cập https://whiteglove.vn/bang-gia.html và điền thông tin yêu cầu. Đội ngũ White Glove Logistics Vietnam sẽ phản hồi trong vòng 24 giờ với bảng giá chi tiết, bao gồm phí vận chuyển, lắp đặt, bảo hiểm và condition report.
 
-## Câu hỏi thường gặp (FAQ)
+## Câu hỏi thường gặp
 
-- Hỏi: Dịch vụ white glove delivery có áp dụng cho hàng hóa dưới 10 triệu đồng không? Đáp: Có, nhưng chi phí có thể không tối ưu do mức phí tối thiểu. Chúng tôi khuyến nghị cho hàng hóa có giá trị từ 20 triệu đồng trở lên.
-- Hỏi: Tôi có thể tự lắp đặt để giảm chi phí không? Đáp: Được, nhưng khi đó dịch vụ sẽ không bao gồm bảo hiểm lắp đặt và condition report sau lắp đặt. Vui lòng thông báo trước để điều chỉnh báo giá.
-- Hỏi: Thời gian giao hàng white glove delivery tại TP.HCM là bao lâu? Đáp: Thông thường từ 1 đến 3 ngày làm việc sau khi xác nhận đơn hàng, tùy vào lịch trình và khoảng cách.
-- Hỏi: Có phát sinh phí nếu lắp đặt ở tầng cao không có thang máy? Đáp: Có, phí vận chuyển theo cầu thang bộ sẽ được tính thêm dựa trên số tầng và trọng lượng hàng.
-- Hỏi: Làm sao để kiểm tra condition report? Đáp: Nhân viên sẽ lập biên bản chi tiết bằng văn bản hoặc hình ảnh, và gửi cho bạn qua email hoặc giấy tờ khi bàn giao.
+### Dịch vụ white glove delivery có áp dụng cho hàng hóa dưới 10 triệu đồng không?
+
+Có, nhưng chi phí có thể không tối ưu do mức phí tối thiểu. Chúng tôi khuyến nghị cho hàng hóa có giá trị từ 20 triệu đồng trở lên.
+
+### Tôi có thể tự lắp đặt để giảm chi phí không?
+
+Được, nhưng khi đó dịch vụ sẽ không bao gồm bảo hiểm lắp đặt và condition report sau lắp đặt. Vui lòng thông báo trước để điều chỉnh báo giá.
+
+### Thời gian giao hàng white glove delivery tại TP.HCM là bao lâu?
+
+Thông thường từ 1 đến 3 ngày làm việc sau khi xác nhận đơn hàng, tùy vào lịch trình và khoảng cách.
+
+### Có phát sinh phí nếu lắp đặt ở tầng cao không có thang máy?
+
+Có, phí vận chuyển theo cầu thang bộ sẽ được tính thêm dựa trên số tầng và trọng lượng hàng.
+
+### Làm sao để kiểm tra condition report?
+
+Nhân viên sẽ lập biên bản chi tiết bằng văn bản hoặc hình ảnh, và gửi cho bạn qua email hoặc giấy tờ khi bàn giao.
