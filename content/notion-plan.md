@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-08-18T06:12:32.072Z"
+updated: "2026-09-10T08:44:22.662Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.
@@ -42,11 +42,7 @@ updated: "2026-08-18T06:12:32.072Z"
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 
-## Đã duyệt (1)
-
-- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn
-
-## Đã publish (18)
+## Đã publish (19)
 
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
@@ -59,6 +55,7 @@ updated: "2026-08-18T06:12:32.072Z"
 - Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — [https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/](https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/)
 - Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — [https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/](https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/)
 - Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — [https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/)
+- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn — [https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/](https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/)
 - Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — [https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/](https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/)
 - Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết? — [https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/](https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/)
 - Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM — [https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/](https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/)
