@@ -244,16 +244,6 @@ html,body{max-width:100%;overflow-x:clip}
 .wgd-hero-meta,.imp-hero-meta,.buy-hero-meta{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:12px!important}
 .imp-sparkle,.buy-sparkle{right:8px!important;width:76px!important;height:76px!important;opacity:.32!important}
 }
-
-
-/* Mobile: form 2-column grid */
-@media(max-width:640px){
-.form-grid{display:grid!important;grid-template-columns:1fr 1fr!important;gap:8px!important}
-.field.full{grid-column:1/3!important}
-.field label{font-size:.58rem!important;margin-bottom:4px}
-.field input,.field textarea,.field select{padding:9px 10px!important;font-size:.82rem!important}
-.form .btn{margin-top:6px;padding:0 14px!important;min-height:40px!important;font-size:.72rem!important}
-}
 </style>
 <style>
 /* Nav consistency final — unify menu across all pages */
@@ -298,7 +288,7 @@ html,body{max-width:100%;overflow-x:clip}
 <main id="top">
 <section class="hero">
 <div class="wrap hero-grid">
-<div class="hero-copy reveal"><div class="eyebrow">White Glove Logistics Vietnam</div><h1>Giao chuẩn xác.<br>Đặt đúng vị trí.</h1><p>Vận chuyển và lắp đặt nội thất, thiết bị giá trị cao theo chuẩn white glove — từ điều phối, đóng gói chuyên dụng, giao nhận đến nghiệm thu và chứng từ bàn giao cuối cùng.</p><div class="hero-actions"><a class="btn primary" href="#quote">Yêu cầu báo giá</a><a class="btn ghost" href="#services">Khám phá dịch vụ</a></div><div class="hero-note"><span>Scheduled delivery</span><span>Trained crew</span><span>Photo POD</span></div></div>
+<div class="hero-copy reveal"><div class="eyebrow">White Glove Logistics Vietnam</div><h1>Giao chuẩn xác.<br>Đặt đúng vị trí.</h1><p>Vận chuyển và lắp đặt nội thất, thiết bị giá trị cao theo chuẩn white glove — từ điều phối, đóng gói chuyên dụng, giao nhận đến nghiệm thu và chứng từ bàn giao cuối cùng.</p><div class="hero-actions"><a class="btn primary" href="/bang-gia.html" onclick="gtag('event','quote_request',{event_category:'engagement',event_label:'homepage_cta'})">Xem báo giá →</a><a class="btn ghost" href="#quote">Yêu cầu báo giá</a><a class="btn ghost" href="#services">Khám phá dịch vụ</a></div><div class="hero-note"><span>Scheduled delivery</span><span>Trained crew</span><span>Photo POD</span></div></div>
 <div class="hero-visual reveal"><img class="hero-render" src="assets/hero-whiteglove.webp" alt="Xe tải, máy bay và kiện hàng mang thương hiệu White Glove" fetchpriority="high"><div class="floating-card"><strong>Final mile, fully considered.</strong><p>Condition report · Site protection · Assembly · Placement · Cleanup</p></div></div>
 </div>
 <div class="wrap trust"><div><strong>Room of Choice</strong><span>Đến đúng căn phòng</span></div><div><strong>Full White Glove</strong><span>Mở kiện & lắp đặt</span></div><div><strong>Project Control</strong><span>Nhiều site & milestone</span></div><div><strong>Chain of Custody</strong><span>Handoff có bằng chứng</span></div></div>
@@ -428,4 +418,6 @@ const WG_LEAD_ENDPOINT='https://whiteglove-lead-intake.lemainamkhanh.workers.dev
   if(fg) fg.addEventListener('click',function(e){ e.preventDefault(); msg.classList.add('show'); msg.innerHTML='Liên hệ hotline hoặc email White Glove để đặt lại mật khẩu. Demo: demo@whiteglove.vn / Demo@2026'; });
 })();
 </script>
+<style>.floating-cta{position:fixed;bottom:18px;right:18px;z-index:200;background:var(--gold);color:#fff;padding:14px 22px;border-radius:999px;font-weight:700;font-size:.85rem;box-shadow:0 8px 24px rgba(0,0,0,.25);display:none}@media(max-width:900px){.floating-cta{display:block}}</style>
+<a href="/bang-gia.html" class="floating-cta" onclick="gtag('event','quote_request',{event_category:'engagement',event_label:'floating_mobile'})">💰 Báo giá</a>
 </body></html>

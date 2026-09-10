@@ -288,7 +288,7 @@ html,body{max-width:100%;overflow-x:clip}
 <main id="top">
 <section class="hero">
 <div class="wrap hero-grid">
-<div class="hero-copy reveal"><div class="eyebrow">White Glove Logistics Vietnam</div><h1>@@t149@@<br>@@t137@@</h1><p>@@t006@@</p><div class="hero-actions"><a class="btn primary" href="#quote">Yêu cầu báo giá</a><a class="btn ghost" href="#services">@@t138@@</a></div><div class="hero-note"><span>@@t122@@</span><span>@@t176@@</span><span>@@t192@@</span></div></div>
+<div class="hero-copy reveal"><div class="eyebrow">White Glove Logistics Vietnam</div><h1>@@t149@@<br>@@t137@@</h1><p>@@t006@@</p><div class="hero-actions"><a class="btn primary" href="/bang-gia.html" onclick="gtag('event','quote_request',{event_category:'engagement',event_label:'homepage_cta'})">Xem báo giá →</a><a class="btn ghost" href="#quote">Yêu cầu báo giá</a><a class="btn ghost" href="#services">@@t138@@</a></div><div class="hero-note"><span>@@t122@@</span><span>@@t176@@</span><span>@@t192@@</span></div></div>
 <div class="hero-visual reveal"><img class="hero-render" src="assets/hero-whiteglove.webp" alt="Xe tải, máy bay và kiện hàng mang thương hiệu White Glove" fetchpriority="high"><div class="floating-card"><strong>@@t078@@</strong><p>@@t033@@</p></div></div>
 </div>
 <div class="wrap trust"><div><strong>@@t165@@</strong><span>@@t123@@</span></div><div><strong>@@t139@@</strong><span>@@t129@@</span></div><div><strong>@@t150@@</strong><span>@@t101@@</span></div><div><strong>@@t140@@</strong><span>@@t107@@</span></div></div>
@@ -418,4 +418,6 @@ const WG_LEAD_ENDPOINT='https://whiteglove-lead-intake.lemainamkhanh.workers.dev
   if(fg) fg.addEventListener('click',function(e){ e.preventDefault(); msg.classList.add('show'); msg.innerHTML='Liên hệ hotline hoặc email White Glove để đặt lại mật khẩu. Demo: demo@whiteglove.vn / Demo@2026'; });
 })();
 </script>
+<style>.floating-cta{position:fixed;bottom:18px;right:18px;z-index:200;background:var(--gold);color:#fff;padding:14px 22px;border-radius:999px;font-weight:700;font-size:.85rem;box-shadow:0 8px 24px rgba(0,0,0,.25);display:none}@media(max-width:900px){.floating-cta{display:block}}</style>
+<a href="/bang-gia.html" class="floating-cta" onclick="gtag('event','quote_request',{event_category:'engagement',event_label:'floating_mobile'})">💰 Báo giá</a>
 </body></html>
