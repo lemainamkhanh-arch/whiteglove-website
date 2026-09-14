@@ -1,5 +1,7 @@
-// scripts/notion-sync.mjs — Notion (source of truth) -> site publisher
-// Publishes rows with status "Đã duyệt" from the SEO Content Plan DB, then marks them "Đã publish".
+// scripts/notion-sync.mjs — Notion (source of truth) <-> site publisher (2 chiều)
+// 1. Rows "Đã duyệt" -> publish lên site + set Status="Đã publish", Link, Ngày đăng.
+// 2. Rows "Đã publish" bị sửa trong Notion (last_edited_time mới hơn lần sync) -> re-sync file .md, giữ nguyên URL.
+// State: content/blog/.sync-state.json ghi slug -> last_edited_time đã sync (để phát hiện chỉnh sửa thủ công).
 import fs from 'node:fs';
 
 const KEY = process.env.NOTION_API_KEY;
@@ -17,6 +19,7 @@ const P_DATE = 'Ngày đăng';
 const P_CATEGORY = 'Phân loại';
 const ST_APPROVED = 'Đã duyệt';
 const ST_PUBLISHED = 'Đã publish';
+const SYNC_STATE = 'content/blog/.sync-state.json';
 
 async function api(path, method = 'GET', body) {
   const res = await fetch(API + path, { method, headers: HEADERS, body: body ? JSON.stringify(body) : undefined });
@@ -37,6 +40,10 @@ const rt = arr => (arr || []).map(t => {
 
 const slugify = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D')
   .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80);
+
+function loadSyncState() {
+  try { return JSON.parse(fs.readFileSync(SYNC_STATE, 'utf8')); } catch { return {}; }
+}
 
 async function downloadImage(url, slug, idx) {
   try {
@@ -71,7 +78,7 @@ async function blocksToMarkdown(blockId, slug) {
       else if (t === 'heading_3') { lines.push('### ' + plain(v.rich_text)); lines.push(''); }
       else if (isList) { lines.push('- ' + rt(v.rich_text)); }
       else if (t === 'quote' || t === 'callout') { lines.push('> ' + rt(v.rich_text)); lines.push(''); }
-      else if (t === 'image') { const u = v.type === 'external' ? v.external.url : (v.file || {}).url; if (u) { imgIdx++; const local = slug ? await downloadImage(u, slug, imgIdx) : null; lines.push('![' + plain(v.caption) + '](' + (local || u) + ')'); lines.push(''); } }
+      else if (t === 'image') { const u = v.type === 'external' ? v.external.url : (v.file || {}).url; const cap = plain(v.caption); if (u) { imgIdx++; const local = slug ? await downloadImage(u, slug, imgIdx) : null; lines.push(`![${cap || 'White Glove ' + slug}](${local || u})`); lines.push(''); } }
       else if (t === 'embed') { const u = v.url || ''; if (/youtube\.com|youtu\.be/i.test(u)) { lines.push('[[YOUTUBE:' + u + '|Video YouTube]]'); lines.push(''); } }
       prevList = isList;
     }
@@ -79,6 +86,12 @@ async function blocksToMarkdown(blockId, slug) {
   } while (cursor);
   return lines.join('\n').replace(/\n{3,}/g, '\n\n').trim() + '\n';
 }
+
+const titleOf = p => plain(((p.properties[P_TITLE] || {}).title));
+const statusOf = p => (((p.properties[P_STATUS] || {}).status) || {}).name || '';
+const textOf = (p, n) => plain(((p.properties[n] || {}).rich_text));
+const selectOf = (p, n) => (((p.properties[n] || {}).select) || {}).name || '';
+const urlOf = p => (p.properties[P_LINK] || {}).url || '';
 
 async function main() {
   const found = await api('/search', 'POST', { query: 'SEO Content Plan', filter: { value: 'database', property: 'object' } });
@@ -93,42 +106,57 @@ async function main() {
     cursor = q.has_more ? q.next_cursor : null;
   } while (cursor);
 
-  const titleOf = p => plain(((p.properties[P_TITLE] || {}).title));
-  const statusOf = p => (((p.properties[P_STATUS] || {}).status) || {}).name || '';
-  const textOf = (p, n) => plain(((p.properties[n] || {}).rich_text));
-  const selectOf = (p, n) => (((p.properties[n] || {}).select) || {}).name || '';
-  const urlOf = p => (p.properties[P_LINK] || {}).url || '';
-
+  const syncState = loadSyncState();
   const today = new Date().toISOString().slice(0, 10);
-  let published = 0;
+  let published = 0, resynced = 0, skipped = 0;
 
-  for (const page of rows.filter(p => statusOf(p) === ST_APPROVED)) {
+  const candidates = rows.filter(p => statusOf(p) === ST_APPROVED || statusOf(p) === ST_PUBLISHED);
+  const q = s => '"' + s.replace(/"/g, "'") + '"';
+
+  for (const page of candidates) {
     const title = titleOf(page);
+    const status = statusOf(page);
     const slug = (textOf(page, P_SLUG).replace(/^\/?(blog\/)?/, '').replace(/\//g, '').trim()) || slugify(title);
+    const editedAt = page.last_edited_time || '';
+
+    // Bài đã publish: chỉ re-sync khi sửa trong Notion (last_edited_time mới hơn bản đã sync)
+    if (status === ST_PUBLISHED && syncState[slug] && editedAt && editedAt <= syncState[slug]) {
+      skipped++; continue;
+    }
+
     let body;
     try { body = await blocksToMarkdown(page.id, slug); }
     catch (e) { console.log('SKIP "' + title + '": cannot read page body — ' + e.message); continue; }
     if (body.trim().length < 200) { console.log('SKIP "' + title + '": page body qua ngan — hay viet noi dung day du trong Notion truoc.'); continue; }
+
     const desc = textOf(page, P_DESC).trim() || body.replace(/[#>*`!\[\]()-]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 155);
     const category = selectOf(page, P_CATEGORY).trim();
-    const q = s => '"' + s.replace(/"/g, "'") + '"';
     const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'category: ' + q(category), 'created: ' + q(page.created_time || ''), 'date: ' + today, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
     fs.mkdirSync('content/blog', { recursive: true });
     fs.writeFileSync('content/blog/' + slug + '.md', md);
-    const link = SITE + '/blog/' + slug + '/';
-    await api('/pages/' + page.id, 'PATCH', { properties: {
-      [P_STATUS]: { status: { name: ST_PUBLISHED } },
-      [P_LINK]: { url: link },
-      [P_DATE]: { date: { start: today } },
-      [P_SLUG]: { rich_text: [{ text: { content: slug } }] },
-    }});
-    console.log('PUBLISHED: ' + slug);
-    published++;
+
+    if (status === ST_APPROVED) {
+      const link = SITE + '/blog/' + slug + '/';
+      await api('/pages/' + page.id, 'PATCH', { properties: {
+        [P_STATUS]: { status: { name: ST_PUBLISHED } },
+        [P_LINK]: { url: link },
+        [P_DATE]: { date: { start: today } },
+        [P_SLUG]: { rich_text: [{ text: { content: slug } }] },
+      }});
+      console.log('PUBLISHED: ' + slug);
+      published++;
+    } else {
+      console.log('RESYNCED (edit Notion -> site): ' + slug);
+      resynced++;
+    }
+    syncState[slug] = editedAt;
   }
+
+  fs.writeFileSync(SYNC_STATE, JSON.stringify(syncState, null, 2));
 
   // Plan overview (visible in CMS as read-only list of all titles + statuses)
   const order = ['Ý tưởng', 'Đã chốt keyword', 'Richard đang viết', 'Chờ duyệt', 'Cần sửa', 'Đã duyệt', 'Đã publish'];
-  const out = ['---', 'title: "Kế hoạch content từ Notion"', 'updated: "' + new Date().toISOString() + '"', '---', '', '> File này được tạo tự động từ database SEO Content Plan trên Notion. Muốn đổi kế hoạch hay publish bài, thao tác trong Notion: đổi Trạng thái sang **Đã duyệt** là bài tự lên site.', ''];
+  const out = ['---', 'title: "Kế hoạch content từ Notion"', 'updated: "' + new Date().toISOString() + '"', '---', '', '> File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.', ''];
   for (const st of order) {
     const group = rows.filter(r => statusOf(r) === st);
     if (!group.length) continue;
@@ -140,7 +168,7 @@ async function main() {
     out.push('');
   }
   fs.writeFileSync('content/notion-plan.md', out.join('\n'));
-  console.log('Done: ' + published + ' post(s) published, ' + rows.length + ' rows in plan overview.');
+  console.log(`Done: ${published} new publish, ${resynced} re-sync (edited in Notion), ${skipped} unchanged, ${rows.length} rows in plan.`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
