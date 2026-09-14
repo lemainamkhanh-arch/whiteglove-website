@@ -3,13 +3,13 @@ title: "Đóng gói nội thất khi vận chuyển đường dài: hướng d�
 description: "Đóng gói nội thất đúng chuẩn giúp giảm tối đa rủi ro trầy xước, nứt vỡ khi vận chuyển đường dài. Hướng dẫn vật liệu và quy trình từ White Glove Logistics Vietnam."
 slug: dong-goi-noi-that-van-chuyen-duong-dai
 category: "Đóng gói & bảo hiểm"
-created: "2026-08-05T16:25:04Z"
-date: 2026-08-05
+created: "2026-08-05T16:25:00.000Z"
+date: 2026-09-14
 keyword: "đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn"
 draft: false
 ---
 
-![Đóng gói nội thất khi vận chuyển đường dài](/assets/blog/dong-goi-noi-that-van-chuyen-duong-dai-1.jpg)
+![Đóng gói nội thất khi vận chuyển đường dài](/assets/blog/dong-goi-noi-that-van-chuyen-duong-dai-1.png)
 
 > **Trả lời nhanh:** Đóng gói nội thất đúng chuẩn cần phân loại theo chất liệu (gỗ, kính, da, đá), bọc lót kỹ các góc/cạnh dễ va đập, cố định chặt trong khoang xe để tránh xô xát khi di chuyển đường dài. Với hàng giá trị cao, nên dùng ván ép đóng khung (crating) thay vì chỉ bọc xốp/carton thông thường.
 

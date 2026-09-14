@@ -3,13 +3,13 @@ title: "Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cầ
 description: "Ủy thác nhập khẩu là gì, khi nào nên dùng dịch vụ này, quy trình và chi phí ra sao? Giải thích chi tiết dành cho người mua hàng high-end lần đầu."
 slug: uy-thac-nhap-khau-la-gi
 category: "Nhập khẩu & hải quan"
-created: "2026-07-31T09:54:33Z"
-date: 2026-07-31
+created: "2026-07-31T09:54:00.000Z"
+date: 2026-09-14
 keyword: "ủy thác nhập khẩu là gì? quy trình, chi phí và rủi ro cần biết"
 draft: false
 ---
 
-![Minh hoạ dịch vụ ủy thác nhập khẩu hàng cao cấp qua cảng](/assets/blog/uy-thac-nhap-khau-la-gi/uy-thac-nhap-khau-la-gi-1.jpg)
+![Minh hoạ dịch vụ ủy thác nhập khẩu hàng cao cấp qua cảng](/assets/blog/uy-thac-nhap-khau-la-gi-1.png)
 
 > **Trả lời nhanh:** Ủy thác nhập khẩu là hình thức bạn thuê một đơn vị có chức năng xuất nhập khẩu đứng tên thay bạn để thực hiện toàn bộ thủ tục đưa hàng từ nước ngoài về — từ ký hợp đồng ngoại thương, khai báo hải quan, nộp thuế đến nhận hàng. Bạn không cần có giấy phép xuất nhập khẩu riêng vẫn nhập được hàng hợp pháp.
 

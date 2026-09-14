@@ -1,15 +1,15 @@
 ---
-title: "Báo giá vận chuyển nội thất nhập khẩu T8/2026: cần chuẩn bị thông tin gì?"
+title: "Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì?"
 description: "Để nhận báo giá vận chuyển nội thất nhập khẩu chính xác, cần cung cấp: loại hàng, kích thước, điểm lấy/giao. Hướng dẫn và form yêu cầu nhanh."
 slug: bao-gia-van-chuyen-noi-that-nhap-khau
 category: "Chi phí & báo giá"
-created: "2026-07-31T09:54:39Z"
-date: 2026-07-31
+created: "2026-07-31T09:54:00.000Z"
+date: 2026-09-14
 keyword: "báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì?"
 draft: false
 ---
 
-![Minh hoạ vận chuyển và báo giá nội thất nhập khẩu cao cấp](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau/bao-gia-van-chuyen-noi-that-nhap-khau-1.jpg)
+![Minh hoạ vận chuyển và báo giá nội thất nhập khẩu cao cấp](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-1.png)
 
 > **Trả lời nhanh:** Để nhận báo giá vận chuyển nội thất nhập khẩu chính xác ngay lần đầu liên hệ, hãy chuẩn bị: loại hàng/chất liệu, kích thước & trọng lượng, số lượng, điểm lấy hàng, điểm giao kèm điều kiện tiếp cận (tầng, thang máy, lối vào) và thời gian mong muốn. Càng đầy đủ thông tin, báo giá càng sát chi phí thực tế.
 

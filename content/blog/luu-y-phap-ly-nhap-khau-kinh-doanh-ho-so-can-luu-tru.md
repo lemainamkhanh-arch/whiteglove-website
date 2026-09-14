@@ -3,8 +3,8 @@ title: "Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhấ
 description: "Nhập khẩu kinh doanh cần lưu ý gì trong năm 2026? Checklist về mã HS, thuế, giấy phép, nhãn hàng hóa, kiểm tra chất lượng và hồ sơ doanh nghiệp cần lưu trữ đúng quy định."
 slug: luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru
 category: "Nhập khẩu & hải quan"
-created: "2026-08-14T09:33:25Z"
-date: 2026-08-14
+created: "2026-08-14T09:33:00.000Z"
+date: 2026-09-14
 keyword: "nhập khẩu kinh doanh tại việt nam: lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ"
 draft: false
 ---
@@ -13,7 +13,7 @@ draft: false
 
 ## Vì sao nhập khẩu kinh doanh cần quản lý hồ sơ chặt hơn?
 
-![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-1.jpg)
+![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-1.png)
 
 Nhập khẩu để kinh doanh không chỉ là mua hàng, thanh toán và đưa hàng qua cửa khẩu. Doanh nghiệp phải chứng minh được hàng hóa là gì, xuất xứ từ đâu, trị giá tính thuế ra sao, thuộc chính sách quản lý nào và đã hoàn tất các nghĩa vụ liên quan.
 
@@ -38,7 +38,7 @@ Ví dụ, với các thiết bị kinh doanh như photobooth, doanh nghiệp c�
 
 ## 2. Mã HS và trị giá hải quan phải có căn cứ
 
-![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-2.jpg)
+![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-2.png)
 
 Mã HS ảnh hưởng đến thuế nhập khẩu, thuế giá trị gia tăng, chính sách mặt hàng và yêu cầu kiểm tra chuyên ngành. Doanh nghiệp nên lập một “hồ sơ phân loại” cho mỗi nhóm hàng, gồm:
 
@@ -55,7 +55,7 @@ Không nên tách nhỏ invoice, mô tả hàng hóa hoặc thanh toán chỉ đ
 
 ## 3. Thuế và dòng tiền cần được tính trước
 
-![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-3.jpg)
+![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-3.png)
 
 Một kế hoạch nhập khẩu nên tách riêng:
 
@@ -70,7 +70,7 @@ Nếu sử dụng ưu đãi thuế theo FTA, phải kiểm tra điều kiện xu
 
 ## 4. Nhãn hàng hóa và xuất xứ: kiểm tra trước khi hàng rời kho
 
-![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-4.jpg)
+![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-4.png)
 
 Hàng nhập khẩu đưa ra lưu thông tại Việt Nam cần được kiểm tra về nhãn gốc, nội dung bắt buộc và nhãn phụ tiếng Việt khi cần. Doanh nghiệp nên đối chiếu:
 
@@ -86,7 +86,7 @@ Không tự ghi “Made in Vietnam” chỉ vì hàng được đóng gói, lắ
 
 ## 5. Bộ hồ sơ hải quan cần lưu cho từng lô hàng
 
-![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-5.jpg)
+![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-5.png)
 
 Tùy loại hình và chính sách mặt hàng, doanh nghiệp nên tạo một thư mục riêng cho từng tờ khai, tối thiểu gồm:
 
@@ -113,7 +113,7 @@ Doanh nghiệp không nên hiểu rằng mọi tài liệu chỉ cần giữ đ�
 
 ## 7. Cách tổ chức kho hồ sơ điện tử
 
-![](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-6.jpg)
+![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-6.png)
 
 Một cấu trúc dễ kiểm tra có thể là:
 

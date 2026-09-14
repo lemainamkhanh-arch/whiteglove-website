@@ -3,13 +3,13 @@ title: "Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên c�
 description: "Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần lưu ý gì để tránh nứt vỡ, trầy xước? Hướng dẫn từ White Glove Logistics Vietnam."
 slug: van-chuyen-noi-that-de-vo
 category: "Đóng gói & bảo hiểm"
-created: "2026-08-05T16:29:26Z"
-date: 2026-08-05
+created: "2026-08-05T16:29:00.000Z"
+date: 2026-09-14
 keyword: "vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì?"
 draft: false
 ---
 
-![Vận chuyển nội thất dễ vỡ](/assets/blog/van-chuyen-noi-that-de-vo-1.jpg)
+![Vận chuyển nội thất dễ vỡ](/assets/blog/van-chuyen-noi-that-de-vo-1.png)
 
 > Trả lời nhanh: Vận chuyển nội thất dễ vỡ như kính, đá, gỗ tự nhiên cần đóng gói chuyên dụng riêng cho từng chất liệu, tránh để các mặt cứng tiếp xúc trực tiếp với nhau, cố định chắc chắn trong khoang xe và có người giám sát suốt quá trình bốc xếp — không giao cho đơn vị vận chuyển hàng thông thường không có kinh nghiệm xử lý hàng dễ vỡ.
 

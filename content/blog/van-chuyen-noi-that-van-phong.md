@@ -3,13 +3,13 @@ title: "Vận chuyển nội thất văn phòng khi chuyển địa điểm: c�
 description: "Vận chuyển nội thất văn phòng khi chuyển địa điểm cần lưu ý gì để không gián đoạn công việc? Hướng dẫn quy trình từ White Glove Logistics Vietnam."
 slug: van-chuyen-noi-that-van-phong
 category: "Vận chuyển nội thất"
-created: "2026-08-05T16:29:25Z"
-date: 2026-08-05
+created: "2026-08-05T16:29:00.000Z"
+date: 2026-09-14
 keyword: "vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì?"
 draft: false
 ---
 
-![Vận chuyển nội thất văn phòng](/assets/blog/van-chuyen-noi-that-van-phong-1.jpg)
+![Vận chuyển nội thất văn phòng](/assets/blog/van-chuyen-noi-that-van-phong-1.png)
 
 > Trả lời nhanh: Vận chuyển nội thất văn phòng khi chuyển địa điểm cần lên kế hoạch theo từng khu vực (phòng họp, bàn làm việc, server/IT), sắp xếp ngoài giờ làm để không gián đoạn công việc, và đánh số/ghi chú vị trí lắp lại tại văn phòng mới để rút ngắn thời gian setup.
 
