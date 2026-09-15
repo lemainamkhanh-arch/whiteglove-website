@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-14T05:10:53.814Z"
+updated: "2026-09-15T01:01:36.218Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (22)
+## Ý tưởng (21)
 
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
@@ -27,7 +27,6 @@ updated: "2026-09-14T05:10:53.814Z"
 - Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026)
 - White glove delivery khác gì giao hàng thường? So sánh chi tiết
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
-- Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
 ## Đã chốt keyword (3)
@@ -39,6 +38,10 @@ updated: "2026-09-14T05:10:53.814Z"
 ## Chờ duyệt (1)
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
+
+## Đã duyệt (1)
+
+- Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa
 
 ## Đã publish (21)
 
