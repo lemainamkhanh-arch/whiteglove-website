@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-15T03:34:39.572Z"
+updated: "2026-09-16T01:02:03.638Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
@@ -29,10 +29,9 @@ updated: "2026-09-15T03:34:39.572Z"
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
-## Đã chốt keyword (2)
+## Đã chốt keyword (1)
 
 - White Glove Delivery: giao & lắp đặt cao cấp khác gì vận chuyển thường?
-- Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí
 
 ## Chờ duyệt (1)
 
@@ -40,14 +39,15 @@ updated: "2026-09-15T03:34:39.572Z"
 
 ## Đã duyệt (1)
 
-- Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn
+- Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí
 
-## Đã publish (22)
+## Đã publish (23)
 
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
 - Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
+- Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — [https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/](https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/)
 - Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026) — [https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/)
 - Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — [https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/](https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/)
 - Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-de-vo/](https://whiteglove.vn/blog/van-chuyen-noi-that-de-vo/)
