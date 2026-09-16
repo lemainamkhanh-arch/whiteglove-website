@@ -11,8 +11,6 @@ draft: false
 
 ![Blog hero: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — White Glove Logistics](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-1.jpg)
 
-![Minh hoạ: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — White Glove Logistics](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-2.jpg)
-
 > Trả lời nhanh:
 
 - Thủ tục hải quan nhập khẩu hàng cao cấp yêu cầu bộ chứng từ gồm: hợp đồng thương mại, hóa đơn thương mại, phiếu đóng gói, vận đơn, giấy chứng nhận xuất xứ (C/O) và các giấy phép liên quan (nếu có).
@@ -69,6 +67,8 @@ Với hàng cao cấp, hải quan thường yêu cầu kiểm tra thực tế đ
 ### Bước 5: Thông quan và nhận hàng
 
 Khi hoàn tất các bước trên, hàng hóa được thông quan. Bạn có thể nhận hàng tại cảng hoặc sân bay, sau đó vận chuyển về kho hoặc địa điểm giao nhận.
+
+![Minh hoạ: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — White Glove Logistics](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-2.jpg)
 
 ## Chi phí thủ tục hải quan nhập khẩu hàng cao cấp: minh bạch từng khoản
 

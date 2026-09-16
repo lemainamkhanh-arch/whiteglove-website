@@ -4,14 +4,12 @@ description: "Guide toàn diện về kiểm định chất lượng nội thấ
 slug: kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan
 category: "Hướng dẫn & checklist"
 created: "2026-08-11T04:29:00.000Z"
-date: 2026-09-15
+date: 2026-09-16
 keyword: "cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn"
 draft: false
 ---
 
 ![Blog hero: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-1.jpg)
-
-![Minh hoạ: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-2.jpg)
 
 ## Trả lời nhanh
 
@@ -80,6 +78,8 @@ Sofa là một trong những món nội thất dễ gặp rủi ro nhất khi mu
 
 - Đường may: Phải đều, thẳng, không có chỉ thừa. Các mép vải được gấp và may kỹ.
 - Chân sofa: Kiểm tra chất liệu chân (gỗ, kim loại), độ chắc chắn và có đệm chống trầy sàn không.
+
+![Minh hoạ: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-2.jpg)
 
 ## Chi phí liên quan đến kiểm định và nhập khẩu nội thất
 
