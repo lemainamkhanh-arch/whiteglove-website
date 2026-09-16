@@ -4,7 +4,7 @@ description: "Kinh doanh photobooth cần bao nhiêu vốn? Tìm hiểu chi phí
 slug: kinh-doanh-photobooth-chi-phi-mo-photobooth
 category: "Nhập khẩu & hải quan"
 created: "2026-08-14T08:36:00.000Z"
-date: 2026-09-14
+date: 2026-08-14
 keyword: "kinh doanh photobooth: chi phí đầu tư, mô hình vận hành và cách nhập thiết bị"
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Condition report ghi lại tình trạng hàng hóa trước và s
 slug: condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao
 category: "Hướng dẫn & checklist"
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-07-31
 keyword: "condition report là gì? vì sao quan trọng khi nhận hàng giá trị cao"
 draft: false
 ---

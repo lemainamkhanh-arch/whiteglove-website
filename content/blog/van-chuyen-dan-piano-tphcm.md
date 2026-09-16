@@ -4,7 +4,7 @@ description: "Vận chuyển đàn piano tại TP.HCM cần lưu ý gì để tr
 slug: van-chuyen-dan-piano-tphcm
 category: "Vận chuyển nội thất"
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-08-05
 keyword: "vận chuyển đàn piano tại tp.hcm: lưu ý để tránh hư hỏng"
 draft: false
 ---

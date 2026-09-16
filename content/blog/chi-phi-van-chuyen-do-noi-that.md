@@ -4,7 +4,7 @@ description: "Chi phí vận chuyển đồ nội thất tính dựa trên yếu
 slug: chi-phi-van-chuyen-do-noi-that
 category: "Chi phí & báo giá"
 created: "2026-08-05T16:29:00.000Z"
-date: 2026-09-14
+date: 2026-08-05
 keyword: "chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì?"
 draft: false
 ---

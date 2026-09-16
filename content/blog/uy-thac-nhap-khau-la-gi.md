@@ -4,7 +4,7 @@ description: "Ủy thác nhập khẩu là gì, khi nào nên dùng dịch vụ 
 slug: uy-thac-nhap-khau-la-gi
 category: "Nhập khẩu & hải quan"
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-07-31
 keyword: "ủy thác nhập khẩu là gì? quy trình, chi phí và rủi ro cần biết"
 draft: false
 ---

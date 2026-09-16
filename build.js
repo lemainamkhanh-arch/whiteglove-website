@@ -186,7 +186,7 @@ if (fs.existsSync(blogSrc)) {
     posts.push({ ...meta, bodyHtml: styleFaqSection(mdToHtml(body)), rawBody: body });
   }
 }
-posts.sort((a, b) => (b.created || b.date || '').localeCompare(a.created || a.date || ''));
+posts.sort((a, b) => (b.date || b.created || '').localeCompare(a.date || a.created || ''));
 
 function relatedPostsHtml(currentPost, allPosts) {
   const others = allPosts.filter(p => p.slug !== currentPost.slug);

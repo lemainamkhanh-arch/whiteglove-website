@@ -4,7 +4,7 @@ description: "Bảo hiểm hàng hóa khi vận chuyển nội thất có thực
 slug: bao-hiem-hang-hoa-khi-van-chuyen-noi-that
 category: "Đóng gói & bảo hiểm"
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-08-18
 keyword: "bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết?"
 draft: false
 ---

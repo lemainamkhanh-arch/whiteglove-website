@@ -4,7 +4,7 @@ description: "Vận chuyển nội thất văn phòng khi chuyển địa điể
 slug: van-chuyen-noi-that-van-phong
 category: "Vận chuyển nội thất"
 created: "2026-08-05T16:29:00.000Z"
-date: 2026-09-14
+date: 2026-08-05
 keyword: "vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì?"
 draft: false
 ---

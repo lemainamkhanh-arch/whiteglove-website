@@ -4,7 +4,7 @@ description: "Tất tần tật về nhập nội thất Trung Quốc: chọn ng
 slug: huong-dan-nhap-noi-that-trung-quoc-a-z
 category: "Nhập khẩu & hải quan"
 created: "2026-08-11T04:29:00.000Z"
-date: 2026-09-14
+date: 2026-08-16
 keyword: "hướng dẫn nhập nội thất trung quốc từ a→z cho người mới bắt đầu (2026)"
 draft: false
 ---

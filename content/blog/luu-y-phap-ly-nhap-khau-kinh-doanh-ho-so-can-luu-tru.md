@@ -4,7 +4,7 @@ description: "Nhập khẩu kinh doanh cần lưu ý gì trong năm 2026? Checkl
 slug: luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru
 category: "Nhập khẩu & hải quan"
 created: "2026-08-14T09:33:00.000Z"
-date: 2026-09-14
+date: 2026-08-14
 keyword: "nhập khẩu kinh doanh tại việt nam: lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ"
 draft: false
 ---

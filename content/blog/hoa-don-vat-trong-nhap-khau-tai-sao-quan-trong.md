@@ -4,7 +4,7 @@ description: "Giải thích vai trò của hóa đơn VAT trong nhập khẩu ch
 slug: hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong
 category: "Nhập khẩu & hải quan"
 created: "2026-08-11T04:30:00.000Z"
-date: 2026-09-14
+date: 2026-08-18
 keyword: "hóa đơn vat trong nhập khẩu: tại sao quan trọng với doanh nghiệp?"
 draft: false
 ---

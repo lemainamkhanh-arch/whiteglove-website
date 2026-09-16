@@ -4,7 +4,7 @@ description: "White glove delivery là dịch vụ giao hàng cao cấp kèm l�
 slug: white-glove-delivery-la-gi
 category: "White Glove Delivery"
 created: "2026-07-31T09:46:00.000Z"
-date: 2026-09-14
+date: 2026-07-31
 keyword: "white glove delivery là gì? khi nào bạn thật sự cần dịch vụ này"
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Ủy thác xuất nhập khẩu hàng high-end giúp doanh nghiệ
 slug: dich-vu-uy-thac-xuat-nhap-khau-hang-high-end-khi-nao-doanh-nghiep-can
 category: ""
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-09-10
 keyword: "dịch vụ ủy thác xuất nhập khẩu hàng high-end: khi nào doanh nghiệp cần?"
 draft: false
 ---

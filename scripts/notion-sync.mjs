@@ -92,6 +92,7 @@ const statusOf = p => (((p.properties[P_STATUS] || {}).status) || {}).name || ''
 const textOf = (p, n) => plain(((p.properties[n] || {}).rich_text));
 const selectOf = (p, n) => (((p.properties[n] || {}).select) || {}).name || '';
 const urlOf = p => (p.properties[P_LINK] || {}).url || '';
+const dateOf = p => (((p.properties[P_DATE] || {}).date) || {}).start || '';
 
 async function main() {
   const found = await api('/search', 'POST', { query: 'SEO Content Plan', filter: { value: 'database', property: 'object' } });
@@ -131,7 +132,8 @@ async function main() {
 
     const desc = textOf(page, P_DESC).trim() || body.replace(/[#>*`!\[\]()-]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 155);
     const category = selectOf(page, P_CATEGORY).trim();
-    const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'category: ' + q(category), 'created: ' + q(page.created_time || ''), 'date: ' + today, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
+    const publishDate = dateOf(page) || today;
+    const md = ['---', 'title: ' + q(title), 'description: ' + q(desc), 'slug: ' + slug, 'category: ' + q(category), 'created: ' + q(page.created_time || ''), 'date: ' + publishDate, 'keyword: ' + q(title.toLowerCase()), 'draft: false', '---', '', body].join('\n');
     fs.mkdirSync('content/blog', { recursive: true });
     fs.writeFileSync('content/blog/' + slug + '.md', md);
 

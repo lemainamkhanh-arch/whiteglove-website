@@ -4,7 +4,7 @@ description: "Để nhận báo giá vận chuyển nội thất nhập khẩu c
 slug: bao-gia-van-chuyen-noi-that-nhap-khau
 category: "Chi phí & báo giá"
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-07-31
 keyword: "báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì?"
 draft: false
 ---

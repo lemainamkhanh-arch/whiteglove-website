@@ -4,7 +4,7 @@ description: "Chi phí white glove delivery phụ thuộc loại hàng, khoảng
 slug: bang-gia-dich-vu-white-glove-delivery-tai-tp-hcm-tham-khao
 category: "Chi phí & báo giá"
 created: "2026-07-31T09:54:00.000Z"
-date: 2026-09-14
+date: 2026-09-10
 keyword: "bảng giá dịch vụ white glove delivery tại tp.hcm (tham khảo)"
 draft: false
 ---
