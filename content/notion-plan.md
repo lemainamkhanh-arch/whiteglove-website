@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-16T09:23:59.025Z"
+updated: "2026-09-17T01:02:58.960Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
@@ -29,10 +29,9 @@ updated: "2026-09-16T09:23:59.025Z"
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
 
-## Đã chốt keyword (3)
+## Đã chốt keyword (2)
 
 - White Glove Delivery: giao & lắp đặt cao cấp khác gì vận chuyển thường?
-- Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn
 - Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí
 
 ## Chờ duyệt (1)
@@ -41,9 +40,9 @@ updated: "2026-09-16T09:23:59.025Z"
 
 ## Đã duyệt (1)
 
-- Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa
+- Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn
 
-## Đã publish (21)
+## Đã publish (18)
 
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
@@ -55,14 +54,11 @@ updated: "2026-09-16T09:23:59.025Z"
 - Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/](https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/)
 - Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — [https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/](https://whiteglove.vn/blog/dong-goi-noi-that-van-chuyen-duong-dai/)
 - Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — [https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/](https://whiteglove.vn/blog/van-chuyen-do-noi-that-tphcm/)
-- Dịch vụ ủy thác xuất nhập khẩu hàng high-end: khi nào doanh nghiệp cần? — [https://whiteglove.vn/blog/dich-vu-uy-thac-xuat-nhap-khau-hang-high-end-khi-nao-doanh-nghiep-can/](https://whiteglove.vn/blog/dich-vu-uy-thac-xuat-nhap-khau-hang-high-end-khi-nao-doanh-nghiep-can/)
 - Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — [https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/)
-- Công ty vận chuyển nội thất cao cấp uy tín tại TP.HCM: tiêu chí chọn — [https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/](https://whiteglove.vn/blog/cong-ty-van-chuyen-noi-that-cao-cap-uy-tin-tphcm/)
-- Bảng giá dịch vụ white glove delivery tại TP.HCM (tham khảo) — [https://whiteglove.vn/blog/bang-gia-dich-vu-white-glove-delivery-tai-tp-hcm-tham-khao/](https://whiteglove.vn/blog/bang-gia-dich-vu-white-glove-delivery-tai-tp-hcm-tham-khao/)
 - Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — [https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/](https://whiteglove.vn/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao/)
-- Bảo hiểm hàng hóa khi vận chuyển nội thất: có thực sự cần thiết? — [https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/](https://whiteglove.vn/blog/bao-hiem-hang-hoa-khi-van-chuyen-noi-that/)
 - Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM — [https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/](https://whiteglove.vn/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm/)
 - Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng — [https://whiteglove.vn/blog/van-chuyen-dan-piano-tphcm/](https://whiteglove.vn/blog/van-chuyen-dan-piano-tphcm/)
 - Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — [https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/)
+- Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — [https://whiteglove.vn/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua/](https://whiteglove.vn/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua/)
 - Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — [https://whiteglove.vn/blog/van-chuyen-tac-pham-nghe-thuat-do-co/](https://whiteglove.vn/blog/van-chuyen-tac-pham-nghe-thuat-do-co/)
 - White Glove Delivery là gì? Khi nào bạn thật sự cần dịch vụ này — [https://whiteglove.vn/blog/white-glove-delivery-la-gi/](https://whiteglove.vn/blog/white-glove-delivery-la-gi/)
