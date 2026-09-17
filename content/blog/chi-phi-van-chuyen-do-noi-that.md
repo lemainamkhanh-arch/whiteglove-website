@@ -9,7 +9,7 @@ keyword: "chi phí vận chuyển đồ nội thất phụ thuộc vào yếu t�
 draft: false
 ---
 
-![Chi phí vận chuyển đồ nội thất](/assets/blog/chi-phi-van-chuyen-do-noi-that-1.png)
+![Chi phí vận chuyển đồ nội thất](/assets/blog/chi-phi-van-chuyen-do-noi-that-1.jpg)
 
 > Trả lời nhanh: Chi phí vận chuyển đồ nội thất phụ thuộc vào loại/chất liệu hàng, kích thước và trọng lượng, khoảng cách, độ phức tạp lắp đặt và điều kiện tiếp cận tại điểm giao. Không có một bảng giá cố định áp dụng cho mọi lô hàng — báo giá chính xác cần dựa trên thông tin cụ thể.
 

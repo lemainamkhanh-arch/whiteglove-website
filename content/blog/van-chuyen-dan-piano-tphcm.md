@@ -9,7 +9,7 @@ keyword: "vận chuyển đàn piano tại tp.hcm: lưu ý để tránh hư hỏ
 draft: false
 ---
 
-![Vận chuyển đàn piano tại TP.HCM](/assets/blog/van-chuyen-dan-piano-tphcm-1.png)
+![Vận chuyển đàn piano tại TP.HCM](/assets/blog/van-chuyen-dan-piano-tphcm-1.jpg)
 
 > Trả lời nhanh: Vận chuyển đàn piano tại TP.HCM cần đội ngũ có kinh nghiệm chuyên biệt — bọc lót toàn bộ thân đàn, cố định chắc chắn bằng đai chuyên dụng, di chuyển bằng xe nâng hoặc dốc trượt đúng kỹ thuật, tuyệt đối tránh nghiêng đàn quá góc cho phép để không ảnh hưởng đến dây đàn và bộ máy bên trong.
 

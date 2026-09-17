@@ -15,7 +15,7 @@ Trung Quốc hiện là nguồn cung nội thất lớn nhất thị trường V
 
 Nhưng "nhập nội thất Trung Quốc" không đơn giản như nghe — chọn nhầm nguồn, đặt hàng không kiểm tra chất lượng, khai sai mã HS, tính sai thuế, hàng về hư hỏng không ai chịu trách nhiệm đều có thể khiến tổng chi phí cao hơn cả mua tại chỗ. Bài viết này tổng hợp toàn bộ quy trình nhập nội thất Trung Quốc từ A→Z dành cho người lần đầu nhập hàng, từ chọn nguồn, kiểm tra chất lượng đến thông quan và giao lắp tại Việt Nam.
 
-![Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam — từ chọn nguồn, kiểm tra chất lượng đến giao lắp hoàn thiện.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-1.png)
+![Toàn cảnh quy trình nhập nội thất từ Trung Quốc về Việt Nam — từ chọn nguồn, kiểm tra chất lượng đến giao lắp hoàn thiện.](/assets/blog/huong-dan-nhap-noi-that-trung-quoc-a-z-1.jpg)
 
 ## 7 giai đoạn của quy trình nhập nội thất Trung Quốc
 

@@ -9,7 +9,7 @@ keyword: "đóng gói nội thất khi vận chuyển đường dài: hướng d
 draft: false
 ---
 
-![Đóng gói nội thất khi vận chuyển đường dài](/assets/blog/dong-goi-noi-that-van-chuyen-duong-dai-1.png)
+![Đóng gói nội thất khi vận chuyển đường dài](/assets/blog/dong-goi-noi-that-van-chuyen-duong-dai-1.jpg)
 
 > **Trả lời nhanh:** Đóng gói nội thất đúng chuẩn cần phân loại theo chất liệu (gỗ, kính, da, đá), bọc lót kỹ các góc/cạnh dễ va đập, cố định chặt trong khoang xe để tránh xô xát khi di chuyển đường dài. Với hàng giá trị cao, nên dùng ván ép đóng khung (crating) thay vì chỉ bọc xốp/carton thông thường.
 

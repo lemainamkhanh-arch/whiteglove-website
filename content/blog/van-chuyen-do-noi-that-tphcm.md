@@ -9,7 +9,7 @@ keyword: "vận chuyển đồ nội thất tại tp.hcm: bảng giá, quy trìn
 draft: false
 ---
 
-![Vận chuyển đồ nội thất tại TP.HCM](/assets/blog/van-chuyen-do-noi-that-tphcm-1.png)
+![Vận chuyển đồ nội thất tại TP.HCM](/assets/blog/van-chuyen-do-noi-that-tphcm-1.jpg)
 
 > **Trả lời nhanh:** Vận chuyển đồ nội thất tại TP.HCM thường tính theo khối lượng/kích thước, khoảng cách và độ phức tạp lắp đặt (tầng, thang máy, lối vào). Với nội thất cao cấp hoặc cồng kềnh, nên chọn đơn vị có khảo sát trước, đóng gói chuyên dụng và hồ sơ bàn giao (condition report) để tránh phát sinh và rủi ro hư hỏng.
 

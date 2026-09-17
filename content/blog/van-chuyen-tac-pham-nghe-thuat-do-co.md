@@ -9,8 +9,6 @@ keyword: "vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an t
 draft: false
 ---
 
-> Trả lời nhanh: Vận chuyển tác phẩm nghệ thuật và đồ cổ cần quy trình chuyên biệt — đóng gói trong hòm gỗ có đệm foam theo hình dạng riêng của từng món, kiểm soát nhiệt độ và độ ẩm trong suốt hành trình, có condition report chi tiết trước và sau vận chuyển, cùng đội ngũ có kinh nghiệm xử lý hiện vật giá trị cao.
-
 Tác phẩm nghệ thuật, đồ cổ không chỉ có giá trị vật chất mà còn mang giá trị tinh thần, lịch sử không thể thay thế. Một vết nứt nhỏ trên tranh sơn dầu hay một góc sứt trên bình gốm cổ có thể làm giảm giá trị đáng kể, thậm chí không thể phục hồi. Vì vậy, vận chuyển loại hàng hóa này đòi hỏi tiêu chuẩn cao hơn hẳn so với nội thất thông thường.
 
 ## Những yếu tố rủi ro cần kiểm soát
@@ -45,3 +43,7 @@ An toàn nếu được đóng gói đúng chuẩn — mỗi món cần lớp đ
 ### Có cần giấy tờ chứng minh nguồn gốc khi vận chuyển đồ cổ không?
 
 Với một số loại đồ cổ, đặc biệt khi vận chuyển liên tỉnh hoặc quốc tế, nên chuẩn bị giấy tờ chứng minh nguồn gốc và giá trị để thuận tiện cho việc mua bảo hiểm và làm thủ tục nếu cần.
+
+![Ảnh bìa: van-chuyen-tac-pham-nghe-thuat-do-co](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-1.jpg)
+
+> Trả lời nhanh: Vận chuyển tác phẩm nghệ thuật và đồ cổ cần quy trình chuyên biệt — đóng gói trong hòm gỗ có đệm foam theo hình dạng riêng của từng món, kiểm soát nhiệt độ và độ ẩm trong suốt hành trình, có condition report chi tiết trước và sau vận chuyển, cùng đội ngũ có kinh nghiệm xử lý hiện vật giá trị cao.
