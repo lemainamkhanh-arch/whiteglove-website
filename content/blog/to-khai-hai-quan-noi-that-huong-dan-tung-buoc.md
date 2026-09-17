@@ -9,7 +9,7 @@ keyword: "tờ khai hải quan cho hàng nội thất: hướng dẫn điền t�
 draft: false
 ---
 
-![Cover: Tờ khai hải quan cho hàng nội thất — hướng dẫn điền từng bước](/assets/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc-1.jpg)
+![Ảnh bìa: Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — White Glove Logistics](/assets/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc-1.jpg)
 
 > **Trả lời nhanh:** Tờ khai hải quan là bộ dữ liệu điện tử mà người nhập khẩu hoặc đại lý hải quan truyền cho cơ quan hải quan để khai báo về người mua, người bán, hàng hóa, mã HS, trị giá, xuất xứ, thuế và chứng từ liên quan. Với hàng nội thất, không nên điền tờ khai chỉ dựa trên tên thương mại hoặc một dòng invoice. Cần đối chiếu catalogue, vật liệu, kích thước, công năng, số lượng, điều kiện giao hàng và hồ sơ xuất xứ trước khi truyền tờ khai.
 

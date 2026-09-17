@@ -15,7 +15,7 @@ draft: false
 
 Một số hình ảnh minh họa cho các hướng triển khai photobooth: booth cố định, trải nghiệm khách hàng và setup phụ kiện cho sự kiện.
 
-![White Glove kinh-doanh-photobooth-chi-phi-mo-photobooth](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-1.jpg)
+![Ảnh bìa: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — White Glove Logistics](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-1.jpg)
 
 ![Phụ kiện và setup photobooth cho sự kiện](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-2.jpg)
 

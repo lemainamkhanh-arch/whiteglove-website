@@ -13,7 +13,7 @@ draft: false
 
 ## Vì sao nhập khẩu kinh doanh cần quản lý hồ sơ chặt hơn?
 
-![White Glove luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-1.jpg)
+![Ảnh bìa: Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — White Glove Logistics](/assets/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru-1.jpg)
 
 Nhập khẩu để kinh doanh không chỉ là mua hàng, thanh toán và đưa hàng qua cửa khẩu. Doanh nghiệp phải chứng minh được hàng hóa là gì, xuất xứ từ đâu, trị giá tính thuế ra sao, thuộc chính sách quản lý nào và đã hoàn tất các nghĩa vụ liên quan.
 

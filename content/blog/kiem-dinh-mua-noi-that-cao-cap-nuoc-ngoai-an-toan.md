@@ -9,7 +9,7 @@ keyword: "cách kiểm định & mua nội thất/thiết bị cao cấp từ n�
 draft: false
 ---
 
-![Blog hero: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-1.jpg)
+![Ảnh bìa: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-1.jpg)
 
 ## Trả lời nhanh
 

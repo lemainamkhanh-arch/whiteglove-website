@@ -44,6 +44,6 @@ An toàn nếu được đóng gói đúng chuẩn — mỗi món cần lớp đ
 
 Với một số loại đồ cổ, đặc biệt khi vận chuyển liên tỉnh hoặc quốc tế, nên chuẩn bị giấy tờ chứng minh nguồn gốc và giá trị để thuận tiện cho việc mua bảo hiểm và làm thủ tục nếu cần.
 
-![Ảnh bìa: van-chuyen-tac-pham-nghe-thuat-do-co](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-1.jpg)
+![Ảnh bìa: Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — White Glove Logistics](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-1.jpg)
 
 > Trả lời nhanh: Vận chuyển tác phẩm nghệ thuật và đồ cổ cần quy trình chuyên biệt — đóng gói trong hòm gỗ có đệm foam theo hình dạng riêng của từng món, kiểm soát nhiệt độ và độ ẩm trong suốt hành trình, có condition report chi tiết trước và sau vận chuyển, cùng đội ngũ có kinh nghiệm xử lý hiện vật giá trị cao.

@@ -9,7 +9,7 @@ keyword: "hóa đơn vat trong nhập khẩu: tại sao quan trọng với doanh
 draft: false
 ---
 
-![Cover: Hóa đơn VAT trong nhập khẩu — tại sao quan trọng với doanh nghiệp?](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-1.jpg)
+![Ảnh bìa: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — White Glove Logistics](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-1.jpg)
 
 > Hàng nhập khẩu không đi kèm “hóa đơn VAT Việt Nam” do nhà cung cấp nước ngoài phát hành. Để hạch toán và khấu trừ VAT đầu vào, doanh nghiệp cần phân biệt rõ commercial invoice của nhà cung cấp, tờ khai hải quan, chứng từ nộp thuế GTGT ở khâu nhập khẩu và hóa đơn dịch vụ trong nước. Bộ hồ sơ phải khớp về tên hàng, trị giá, mã HS, người nhập khẩu và dòng tiền.
 

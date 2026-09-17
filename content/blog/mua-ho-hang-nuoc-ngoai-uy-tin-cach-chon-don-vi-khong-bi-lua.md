@@ -9,7 +9,7 @@ keyword: "mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không 
 draft: false
 ---
 
-![Blog hero: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-1.jpg)
+![Ảnh bìa: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-1.jpg)
 
 > Trả lời nhanh:
 
