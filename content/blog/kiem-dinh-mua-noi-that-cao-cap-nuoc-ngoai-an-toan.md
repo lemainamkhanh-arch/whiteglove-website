@@ -69,7 +69,7 @@ Chi phí kiểm định phụ thuộc vào giá trị hàng hóa và đơn vị 
 - Phí bảo hiểm: Thường 0,3-0,5% giá trị lô hàng cho bảo hiểm mọi rủi ro.
 - Phí thông quan và thuế nhập khẩu: Thuế VAT 10%, thuế nhập khẩu tùy mã HS (thường 0-25%).
 
-Để biết chi phí cụ thể cho đơn hàng của bạn, hãy tham khảo bảng giá chi tiết tại: https://whiteglove.vn/bang-gia.html.
+Để biết chi phí cụ thể cho đơn hàng của bạn, hãy tham khảo bảng giá chi tiết tại: [bảng giá dịch vụ](https://whiteglove.vn/bang-gia.html).
 
 ![Minh hoạ 2: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-3.jpg)
 
@@ -83,15 +83,15 @@ White Glove Logistics Vietnam cung cấp dịch vụ tích hợp từ kiểm đ�
 - Giao tận phòng & lắp đặt: Nhân viên được đào tạo chuyên sâu, mang găng tay trắng, lắp ráp và bố trí nội thất theo yêu cầu.
 - Hỗ trợ thủ tục hải quan: Chúng tôi lo toàn bộ giấy tờ, giúp bạn tiết kiệm thời gian.
 
-Để được tư vấn chi tiết và nhận báo giá, truy cập: https://whiteglove.vn/bang-gia.html.
+Để được tư vấn chi tiết và nhận báo giá, truy cập: [bảng giá dịch vụ](https://whiteglove.vn/bang-gia.html).
 
 ## Những lưu ý khi nhập nội thất từ Trung Quốc và các thị trường khác
 
-Nhập nội thất từ Trung Quốc thường có giá rẻ nhưng tiềm ẩn rủi ro về chất lượng gỗ, hóa chất độc hại (formaldehyde). Bạn có thể tham khảo hướng dẫn chi tiết tại bài viết: https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/. Với hàng từ châu Âu hoặc Mỹ, ưu điểm là chất lượng cao, nhưng thời gian vận chuyển dài và thủ tục phức tạp hơn. Luôn yêu cầu chứng nhận FSC (gỗ bền vững) và kiểm tra hàm lượng VOC (hợp chất hữu cơ bay hơi).
+Nhập nội thất từ Trung Quốc thường có giá rẻ nhưng tiềm ẩn rủi ro về chất lượng gỗ, hóa chất độc hại (formaldehyde). Bạn có thể tham khảo hướng dẫn chi tiết tại bài viết: [Hướng dẫn nhập nội thất Trung Quốc từ A→Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/). Với hàng từ châu Âu hoặc Mỹ, ưu điểm là chất lượng cao, nhưng thời gian vận chuyển dài và thủ tục phức tạp hơn. Luôn yêu cầu chứng nhận FSC (gỗ bền vững) và kiểm tra hàm lượng VOC (hợp chất hữu cơ bay hơi).
 
 ## Tại sao nên ủy thác nhập khẩu nội thất cho đơn vị chuyên nghiệp?
 
-Nếu bạn không có kinh nghiệm về hải quan, thuế và kiểm định, việc tự nhập khẩu dễ dẫn đến sai sót, phát sinh chi phí lưu kho, phạt. Dịch vụ ủy thác nhập khẩu giúp bạn tối ưu thời gian và chi phí. Đọc thêm tại: https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/. Ngoài ra, bạn có thể tham khảo bảng giá vận chuyển nội thất nhập khẩu để dự trù ngân sách: https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/.
+Nếu bạn không có kinh nghiệm về hải quan, thuế và kiểm định, việc tự nhập khẩu dễ dẫn đến sai sót, phát sinh chi phí lưu kho, phạt. Dịch vụ ủy thác nhập khẩu giúp bạn tối ưu thời gian và chi phí. Đọc thêm tại: [Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/). Ngoài ra, bạn có thể tham khảo bảng giá vận chuyển nội thất nhập khẩu để dự trù ngân sách: [Báo giá vận chuyển nội thất nhập khẩu](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/).
 
 ## Kết luận
 
