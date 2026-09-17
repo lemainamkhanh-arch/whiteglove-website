@@ -68,7 +68,7 @@ Khi bạn mua hộ hàng nước ngoài giá trị cao như sofa Ý, bàn ăn g�
 - Bảo vệ hàng hóa tối đa: Bảo hiểm toàn trình, đóng gói chuyên dụng, giao hàng tận phòng có lắp đặt.
 - Minh bạch chi phí: Báo giá trọn gói, không phát sinh, có hóa đơn chứng từ đầy đủ.
 
-White Glove Logistics Vietnam tự hào cung cấp dịch vụ mua hộ hàng nước ngoài uy tín, đặc biệt cho nội thất nhập khẩu. Chúng tôi cam kết giao tận phòng, lắp đặt chuyên nghiệp, bảo hiểm hàng hóa toàn trình và condition report chi tiết. Bạn có thể tham khảo quy trình ủy thác nhập khẩu tại bài viết <a href='https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/'>Ủy thác nhập khẩu là gì?</a> để hiểu rõ hơn.
+White Glove Logistics Vietnam tự hào cung cấp dịch vụ mua hộ hàng nước ngoài uy tín, đặc biệt cho nội thất nhập khẩu. Chúng tôi cam kết giao tận phòng, lắp đặt chuyên nghiệp, bảo hiểm hàng hóa toàn trình và condition report chi tiết. Bạn có thể tham khảo quy trình ủy thác nhập khẩu tại bài viết [Ủy thác nhập khẩu là gì?](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) để hiểu rõ hơn.
 
 ![Minh hoạ 1: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-2.jpg)
 
@@ -82,7 +82,7 @@ Dưới đây là các yếu tố chi phí bạn cần lưu ý khi chọn dịch
 - Phí giao hàng nội địa: Bao gồm vận chuyển từ cảng đến kho, giao tận phòng (có thể tính thêm phí thang máy, cầu thang).
 - Phí bảo hiểm: Thường 0.5-2% giá trị hàng, bắt buộc cho hàng giá trị cao.
 
-Để biết bảng giá chi tiết cho từng loại hàng, bạn có thể truy cập <a href='https://whiteglove.vn/bang-gia.html'>bảng giá dịch vụ</a> của White Glove Logistics Vietnam. Ngoài ra, bài viết <a href='https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/'>Báo giá vận chuyển nội thất nhập khẩu</a> sẽ giúp bạn dự toán ngân sách chính xác hơn.
+Để biết bảng giá chi tiết cho từng loại hàng, bạn có thể truy cập [bảng giá dịch vụ](https://whiteglove.vn/bang-gia.html) của White Glove Logistics Vietnam. Ngoài ra, bài viết [Báo giá vận chuyển nội thất nhập khẩu](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/) sẽ giúp bạn dự toán ngân sách chính xác hơn.
 
 ## Các câu hỏi cần đặt ra trước khi chọn đơn vị mua hộ
 
@@ -92,13 +92,13 @@ Dưới đây là các yếu tố chi phí bạn cần lưu ý khi chọn dịch
 - Có hỗ trợ lắp đặt và dọn dẹp bao bì sau giao hàng không?
 - Thời gian giao hàng trung bình và cam kết bồi thường nếu chậm trễ?
 
-Nếu bạn đang có nhu cầu nhập nội thất từ Trung Quốc, hãy tham khảo hướng dẫn chi tiết tại <a href='https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/'>Hướng dẫn nhập nội thất Trung Quốc A-Z</a> để tránh sai sót.
+Nếu bạn đang có nhu cầu nhập nội thất từ Trung Quốc, hãy tham khảo hướng dẫn chi tiết tại [Hướng dẫn nhập nội thất Trung Quốc A-Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) để tránh sai sót.
 
 ![Minh hoạ 2: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-3.jpg)
 
 ## Kết luận
 
-Mua hộ hàng nước ngoài uy tín là chìa khóa để bạn sở hữu nội thất cao cấp với chi phí hợp lý, an toàn. Hãy dành thời gian kiểm tra kỹ đơn vị cung cấp, yêu cầu bảo hiểm và dịch vụ white glove delivery để bảo vệ tài sản của mình. White Glove Logistics Vietnam sẵn sàng đồng hành cùng bạn với quy trình chuyên nghiệp, minh bạch. Liên hệ ngay để nhận báo giá tại <a href='https://whiteglove.vn/bang-gia.html'>https://whiteglove.vn/bang-gia.html</a>.
+Mua hộ hàng nước ngoài uy tín là chìa khóa để bạn sở hữu nội thất cao cấp với chi phí hợp lý, an toàn. Hãy dành thời gian kiểm tra kỹ đơn vị cung cấp, yêu cầu bảo hiểm và dịch vụ white glove delivery để bảo vệ tài sản của mình. White Glove Logistics Vietnam sẵn sàng đồng hành cùng bạn với quy trình chuyên nghiệp, minh bạch. Liên hệ ngay để nhận báo giá tại [[bảng giá dịch vụ](https://whiteglove.vn/bang-gia.html](https://whiteglove.vn/bang-gia.html)).
 
 ## Câu hỏi thường gặp
 
