@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-21T01:02:45.228Z"
+updated: "2026-09-22T01:04:34.197Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (35)
+## Ý tưởng (34)
 
 - Cách chia nguồn hàng cho một dự án nội thất: món nào nhập châu Âu, món nào nhập Trung Quốc
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
@@ -22,7 +22,6 @@ updated: "2026-09-21T01:02:45.228Z"
 - Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
 - Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào
 - Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time
-- Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
 - Cách kiểm tra supplier Trung Quốc có đáng tin không (5 bước kiểm chứng)
@@ -53,9 +52,9 @@ updated: "2026-09-21T01:02:45.228Z"
 
 ## Đã duyệt (1)
 
-- Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch
+- Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara
 
-## Đã publish (21)
+## Đã publish (22)
 
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
@@ -65,6 +64,7 @@ updated: "2026-09-21T01:02:45.228Z"
 - Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — [https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/](https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/)
 - Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026) — [https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/)
 - Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn — [https://whiteglove.vn/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son/](https://whiteglove.vn/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son/)
+- Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch — [https://whiteglove.vn/blog/nhap-khau-chinh-ngach-la-gi-so-sanh-tieu-ngach/](https://whiteglove.vn/blog/nhap-khau-chinh-ngach-la-gi-so-sanh-tieu-ngach/)
 - Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — [https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/](https://whiteglove.vn/blog/chi-phi-van-chuyen-do-noi-that/)
 - Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-de-vo/](https://whiteglove.vn/blog/van-chuyen-noi-that-de-vo/)
 - Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì? — [https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/](https://whiteglove.vn/blog/van-chuyen-noi-that-van-phong/)
