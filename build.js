@@ -283,16 +283,26 @@ fs.writeFileSync('blog/index.html', fill(blogTpl, { HEADER: subHeader, CATEGORY_
 
 // 3) sitemap.xml
 const today = new Date().toISOString().slice(0, 10);
+// lastmod phai phan anh ngay noi dung THUC SU thay doi, khong dung ngay build.
+function lastContentChange(file) {
+  try {
+    const out = require('child_process').execSync('git log -1 --format=%cs -- ' + file, { stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim();
+    if (/^\d{4}-\d{2}-\d{2}$/.test(out)) return out;
+  } catch (e) {}
+  return today;
+}
+const siteLastmod = lastContentChange('content/site.json');
+const latestPostDate = posts.reduce((m, p) => (p.date && p.date > m ? p.date : m), siteLastmod);
 const urls = [
-  { loc: SITE + '/', lastmod: today, priority: '1.0' },
-  { loc: SITE + '/bang-gia.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/quy-trinh.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/sourcing.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/white-glove-delivery.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/uy-thac-nhap-khau.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/mua-ho-hang-cao-cap.html', lastmod: today, priority: '0.8' },
-  { loc: SITE + '/blog/', lastmod: today, priority: '0.6' },
-  ...posts.map((p) => ({ loc: SITE + '/blog/' + p.slug + '/', lastmod: p.date || today, priority: '0.7' })),
+  { loc: SITE + '/', lastmod: siteLastmod, priority: '1.0' },
+  { loc: SITE + '/bang-gia.html', lastmod: siteLastmod, priority: '0.8' },
+  { loc: SITE + '/quy-trinh.html', lastmod: siteLastmod, priority: '0.8' },
+  { loc: SITE + '/sourcing.html', lastmod: siteLastmod, priority: '0.8' },
+  { loc: SITE + '/white-glove-delivery.html', lastmod: siteLastmod, priority: '0.8' },
+  { loc: SITE + '/uy-thac-nhap-khau.html', lastmod: siteLastmod, priority: '0.8' },
+  { loc: SITE + '/mua-ho-hang-cao-cap.html', lastmod: siteLastmod, priority: '0.8' },
+  { loc: SITE + '/blog/', lastmod: latestPostDate, priority: '0.6' },
+  ...posts.map((p) => ({ loc: SITE + '/blog/' + p.slug + '/', lastmod: p.date || siteLastmod, priority: '0.7' })),
 ];
 fs.writeFileSync('sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +

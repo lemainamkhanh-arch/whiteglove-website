@@ -18,6 +18,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -32,7 +34,7 @@ jobs:
       - name: Assemble _site
         run: |
           mkdir -p _site
-          cp -r index.html white-glove-delivery.html uy-thac-nhap-khau.html mua-ho-hang-cao-cap.html sourcing.html bang-gia.html quy-trinh.html portal.html assets admin content blog terms privacy sitemap.xml robots.txt llms.txt googlef676cce070b8ebee.html tiktok0IVshlxxu3Ci4Xeqods70hzIU3E2KZmv.txt favicon.ico favicon-16x16.png favicon-32x32.png apple-touch-icon.png android-chrome-192x192.png android-chrome-512x512.png site.webmanifest favicon.svg _site/
+          cp -r index.html white-glove-delivery.html uy-thac-nhap-khau.html mua-ho-hang-cao-cap.html sourcing.html bang-gia.html quy-trinh.html portal.html assets admin content blog terms privacy sitemap.xml robots.txt llms.txt 0a35dde4443672ca8859d17fc3e7f58d.txt googlef676cce070b8ebee.html tiktok0IVshlxxu3Ci4Xeqods70hzIU3E2KZmv.txt favicon.ico favicon-16x16.png favicon-32x32.png apple-touch-icon.png android-chrome-192x192.png android-chrome-512x512.png site.webmanifest favicon.svg _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
@@ -43,3 +45,12 @@ jobs:
         with:
           timeout: 1800000
           error_count: 20
+      - name: Ping IndexNow (Bing / Yandex / Copilot)
+        if: success()
+        run: |
+          sleep 20
+          KEYFILE=$(basename $(ls [0-9a-f]*.txt | head -1))
+          KEY="${KEYFILE%.txt}"
+          URLS=$(node -e "const fs=require('fs');const s=fs.readFileSync('sitemap.xml','utf8');const today=new Date().toISOString().slice(0,10);let u=[...s.matchAll(/<loc>(.*?)<\/loc><lastmod>(.*?)<\/lastmod>/g)].filter(m=>m[2]===today).map(m=>m[1]);if(!u.length){u=[...s.matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>m[1]);}console.log(JSON.stringify(u))")
+          echo "IndexNow payload bytes: ${#URLS}"
+          curl -sS -o /dev/null -w "IndexNow HTTP %{http_code}\n" -X POST "https://api.indexnow.org/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "{\"host\":\"whiteglove.vn\",\"key\":\"$KEY\",\"keyLocation\":\"https://whiteglove.vn/$KEYFILE\",\"urlList\":$URLS}"
