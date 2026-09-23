@@ -267,7 +267,7 @@ if (featuredPost) {
     '<span class="fs">' + esc(featuredPost.description || '') + '</span></a>';
 }
 
-const categoryOrder = ['Nhập khẩu & hải quan','Vận chuyển nội thất','White Glove Delivery','Đóng gói & bảo hiểm','Chi phí & báo giá','Hướng dẫn & checklist','Chưa phân loại'];
+const categoryOrder = ['Nhập khẩu & hải quan','Vận chuyển nội thất','White Glove Delivery','Đóng gói & bảo hiểm','Chi phí & báo giá','Hướng dẫn & checklist','Thương hiệu & Nhập khẩu','Chưa phân loại'];
 const categories = categoryOrder.filter(c => posts.some(p => categoryName(p) === c));
 const categoryButtons = ['<button class="category-filter-btn is-active" type="button" data-category="all" aria-pressed="true">Tất cả</button>']
   .concat(categories.map(c => '<button class="category-filter-btn" type="button" data-category="' + categoryKey(c) + '" aria-pressed="false">' + esc(c) + '</button>')).join('');
