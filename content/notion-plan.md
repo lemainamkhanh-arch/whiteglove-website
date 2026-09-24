@@ -1,12 +1,24 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-22T01:04:34.197Z"
+updated: "2026-09-24T04:13:42.786Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (34)
+## Ý tưởng (45)
 
+- Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
+- Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
+- Promemoria và Ceccotti Collezioni: đồ gỗ thủ công Ý cho không gian cần độc bản
+- Cửa và vách Ý: Rimadesio, Lualdi — bài toán oversize khi nhập về Việt Nam
+- Vòi và sen cao cấp Đức – Đan Mạch: Dornbracht, Vola — vì sao phải nhập và lưu ý phụ tùng
+- Thiết bị phòng tắm cổ điển Anh – Ý: Devon&Devon, Catchpole & Rye và chuyện nhập hàng nặng, dễ vỡ
+- Nội thất Ý không có showroom chính hãng: Poliform, Minotti, Giorgetti — nhập khẩu khác gì mua qua trung gian?
+- Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì?
+- Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam
+- Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn
+- Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì?
+- Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu?
 - Cách chia nguồn hàng cho một dự án nội thất: món nào nhập châu Âu, món nào nhập Trung Quốc
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
@@ -37,7 +49,6 @@ updated: "2026-09-22T01:04:34.197Z"
 - 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
 - Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh
 - Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu
-- Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026)
 - White glove delivery khác gì giao hàng thường? So sánh chi tiết
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
 - Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
@@ -52,10 +63,11 @@ updated: "2026-09-22T01:04:34.197Z"
 
 ## Đã duyệt (1)
 
-- Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara
+- Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026)
 
-## Đã publish (22)
+## Đã publish (23)
 
+- Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
 - Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
