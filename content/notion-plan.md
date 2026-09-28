@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-25T01:02:40.383Z"
+updated: "2026-09-28T01:02:02.966Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (44)
+## Ý tưởng (43)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -18,7 +18,6 @@ updated: "2026-09-25T01:02:40.383Z"
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì?
-- Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu?
 - Cách chia nguồn hàng cho một dự án nội thất: món nào nhập châu Âu, món nào nhập Trung Quốc
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
@@ -62,9 +61,9 @@ updated: "2026-09-25T01:02:40.383Z"
 
 ## Đã duyệt (1)
 
-- Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào?
+- Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu?
 
-## Đã publish (24)
+## Đã publish (25)
 
 - Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
@@ -89,4 +88,5 @@ updated: "2026-09-25T01:02:40.383Z"
 - Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — [https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/)
 - Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — [https://whiteglove.vn/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua/](https://whiteglove.vn/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua/)
 - Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — [https://whiteglove.vn/blog/van-chuyen-tac-pham-nghe-thuat-do-co/](https://whiteglove.vn/blog/van-chuyen-tac-pham-nghe-thuat-do-co/)
+- Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào? — [https://whiteglove.vn/blog/dich-vu-lap-dat-noi-that-tai-nha-quy-trinh-chuan-gom-nhung-buoc-nao/](https://whiteglove.vn/blog/dich-vu-lap-dat-noi-that-tai-nha-quy-trinh-chuan-gom-nhung-buoc-nao/)
 - White Glove Delivery là gì? Khi nào bạn thật sự cần dịch vụ này — [https://whiteglove.vn/blog/white-glove-delivery-la-gi/](https://whiteglove.vn/blog/white-glove-delivery-la-gi/)
