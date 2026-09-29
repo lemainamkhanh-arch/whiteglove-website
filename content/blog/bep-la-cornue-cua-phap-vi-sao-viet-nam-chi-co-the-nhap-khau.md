@@ -4,7 +4,7 @@ description: "Bếp La Cornue có bán chính hãng ở Việt Nam không? Tìm 
 slug: bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau
 category: "Nhập khẩu & hải quan"
 created: "2026-09-23T03:15:00.000Z"
-date: 2026-09-26
+date: 2026-09-28
 keyword: "bếp la cornue của pháp: vì sao việt nam chỉ có thể nhập khẩu?"
 draft: false
 ---
