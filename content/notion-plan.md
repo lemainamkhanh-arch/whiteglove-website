@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-09-29T01:03:23.247Z"
+updated: "2026-10-01T01:13:24.967Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (42)
+## Ý tưởng (41)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -25,7 +25,6 @@ updated: "2026-09-29T01:03:23.247Z"
 - Sofa dài 3m từ Ý có vừa container 20ft? Bài toán oversize khi nhập nội thất châu Âu
 - Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia
 - Nhập nội thất Bắc Âu: gỗ, thiết kế tối giản và rủi ro độ ẩm khi về Việt Nam
-- Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX
 - Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
 - Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026
@@ -60,11 +59,12 @@ updated: "2026-09-29T01:03:23.247Z"
 
 ## Đã duyệt (1)
 
-- Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần
+- Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX
 
-## Đã publish (26)
+## Đã publish (27)
 
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
+- Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — [https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/](https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/)
 - Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
