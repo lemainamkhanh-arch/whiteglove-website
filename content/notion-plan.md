@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-02T01:01:48.555Z"
+updated: "2026-10-05T01:02:15.822Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (40)
+## Ý tưởng (39)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -29,7 +29,6 @@ updated: "2026-10-02T01:01:48.555Z"
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
 - Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026
 - Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
-- Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào
 - Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
@@ -58,9 +57,9 @@ updated: "2026-10-02T01:01:48.555Z"
 
 ## Đã duyệt (1)
 
-- Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu
+- Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào
 
-## Đã publish (28)
+## Đã publish (29)
 
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
 - Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — [https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/](https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/)
@@ -71,6 +70,7 @@ updated: "2026-10-02T01:01:48.555Z"
 - Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
 - Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — [https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/](https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/)
+- Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — [https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/](https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/)
 - Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — [https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/](https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/)
 - Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026) — [https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/)
 - Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn — [https://whiteglove.vn/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son/](https://whiteglove.vn/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son/)
