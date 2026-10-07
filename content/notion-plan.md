@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-06T01:02:35.608Z"
+updated: "2026-10-07T12:49:52.597Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
@@ -54,12 +54,9 @@ updated: "2026-10-06T01:02:35.608Z"
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 
-## Đã duyệt (1)
+## Đã publish (31)
 
-- Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì?
-
-## Đã publish (30)
-
+- Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
 - Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — [https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/](https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/)
 - Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — [https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/](https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/)
