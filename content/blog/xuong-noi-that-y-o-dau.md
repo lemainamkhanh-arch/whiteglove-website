@@ -9,7 +9,7 @@ keyword: "xưởng nội thất ý ở đâu? bản đồ vùng sản xuất bri
 draft: false
 ---
 
-![Ảnh bìa: Xưởng nội thất Ý ở đâu? — Ảnh: Poliform (poliform.it — press area)](https://files.catbox.moe/ewppbd.jpg)
+![Ảnh bìa: Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — White Glove Logistics — Ảnh: Poliform (poliform.it — press area)](/assets/blog/xuong-noi-that-y-o-dau-1.jpg)
 
 > Trả lời nhanh: Nên tìm xưởng nội thất Ý ở vùng nào?
 

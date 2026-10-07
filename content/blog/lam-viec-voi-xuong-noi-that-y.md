@@ -4,7 +4,7 @@ description: "Làm việc với xưởng nội thất Ý: made-to-order mất ba
 slug: lam-viec-voi-xuong-noi-that-y
 category: "Hướng dẫn & checklist"
 created: "2026-09-18T03:34:00.000Z"
-date: 2026-09-28
+date: 2026-09-29
 keyword: "làm việc với xưởng nội thất ý: made-to-order, đặt cọc và lead time 12–20 tuần"
 draft: false
 ---
