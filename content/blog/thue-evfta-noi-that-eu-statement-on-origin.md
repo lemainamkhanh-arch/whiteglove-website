@@ -4,12 +4,14 @@ description: "Nội thất nhập từ EU có được giảm thuế EVFTA? Tìm
 slug: thue-evfta-noi-that-eu-statement-on-origin
 category: "Nhập khẩu & hải quan"
 created: "2026-09-18T03:34:00.000Z"
-date: 2026-09-29
+date: 2026-10-01
 keyword: "hàng nội thất từ eu có được giảm thuế theo evfta? statement on origin và hệ thống rex"
 draft: false
 ---
 
 > Trả lời nhanh:
+
+![Ảnh bìa: Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — White Glove Logistics](/assets/blog/thue-evfta-noi-that-eu-statement-on-origin-1.jpg)
 
 - Có. Nội thất nhập từ EU (bao gồm Ý) được hưởng thuế suất ưu đãi 0% theo EVFTA nếu đáp ứng quy tắc xuất xứ.
 - Chứng từ chứng minh xuất xứ là statement on origin (tự chứng nhận), KHÔNG phải C/O mẫu EUR.1.

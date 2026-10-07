@@ -9,7 +9,7 @@ keyword: "mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không 
 draft: false
 ---
 
-![Ảnh bìa: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](https://files.catbox.moe/s4t308.jpg)
+![Ảnh bìa: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-1.jpg)
 
 > Trả lời nhanh:
 
@@ -70,7 +70,7 @@ Khi bạn mua hộ hàng nước ngoài giá trị cao như sofa Ý, bàn ăn g�
 
 White Glove Logistics Vietnam tự hào cung cấp dịch vụ mua hộ hàng nước ngoài uy tín, đặc biệt cho nội thất nhập khẩu. Chúng tôi cam kết giao tận phòng, lắp đặt chuyên nghiệp, bảo hiểm hàng hóa toàn trình và condition report chi tiết. Bạn có thể tham khảo quy trình ủy thác nhập khẩu tại bài viết [Ủy thác nhập khẩu là gì?](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) để hiểu rõ hơn.
 
-![Minh hoạ 1: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](https://files.catbox.moe/s61e2h.jpg)
+![Minh hoạ 1: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-2.jpg)
 
 ## So sánh chi phí giữa các hình thức mua hộ phổ biến
 
@@ -94,7 +94,7 @@ Dưới đây là các yếu tố chi phí bạn cần lưu ý khi chọn dịch
 
 Nếu bạn đang có nhu cầu nhập nội thất từ Trung Quốc, hãy tham khảo hướng dẫn chi tiết tại [Hướng dẫn nhập nội thất Trung Quốc A-Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) để tránh sai sót.
 
-![Minh hoạ 2: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](https://files.catbox.moe/bsi899.jpg)
+![Minh hoạ 2: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-3.jpg)
 
 ## Kết luận
 

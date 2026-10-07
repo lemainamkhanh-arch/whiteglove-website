@@ -4,7 +4,7 @@ description: "Tra cứu nhanh mã HS cho sofa, bàn, ghế, đèn, thảm, gỗ,
 slug: bang-ma-hs-noi-that-do-trang-tri-nhap-khau
 category: "Nhập khẩu & hải quan"
 created: "2026-08-11T04:29:00.000Z"
-date: 2026-10-01
+date: 2026-10-02
 keyword: "bảng mã hs phổ biến cho nội thất & đồ trang trí nhập khẩu"
 draft: false
 ---
@@ -15,6 +15,8 @@ draft: false
 - Mã HS đèn trang trí: 9405.19 (đèn chùm, đèn bàn, đèn treo).
 - Mã HS đồ trang trí: 9701.90 (tranh ảnh), 6911.10 (đồ gốm sứ trang trí), 8306.29 (tượng, vật phẩm trang trí bằng kim loại).
 - Mức thuế nhập khẩu ưu đãi (MFN) dao động 0–25%, tùy mã HS và xuất xứ.
+
+![Ảnh bìa: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — White Glove Logistics](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-1.jpg)
 
 ## Mã HS của nội thất gỗ và đồ trang trí nhập khẩu là bao nhiêu? – Danh mục chi tiết theo từng nhóm hàng
 
