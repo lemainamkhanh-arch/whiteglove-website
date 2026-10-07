@@ -287,12 +287,10 @@ html,body{max-width:100%;overflow-x:clip}
 .svc-hero-compact{padding:56px 0 28px}
 .svc-hero-compact h1{font-size:clamp(2.1rem,4.2vw,3.5rem)}
 .svc-hero-compact .hero-copy p{font-size:1.04rem;max-width:640px;margin:18px 0 24px}
-.svc-strip{padding:64px 0}
-.svc-strip-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
-.svc-strip-grid article{background:#fff;padding:22px 24px}
-.svc-strip-grid b{display:block;font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:var(--blue);margin-bottom:8px}
-.svc-strip-grid p{margin:0;font-size:.86rem;line-height:1.6;color:var(--muted)}
-.svc-note{margin:18px 0 0;font-size:.78rem;color:#8a857c;text-align:center}
+.svc-hero-center{display:block;text-align:center;max-width:840px;margin:0 auto}
+.svc-hero-center .hero-copy p{margin-left:auto;margin-right:auto}
+.svc-hero-center .hero-actions{justify-content:center}
+.svc-hero-center .hero-note{justify-content:center;flex-wrap:wrap;text-align:left}
 .svc-cta-compact{padding:64px 0}
 .svc-cta-compact h2{font-size:clamp(1.8rem,3.4vw,2.9rem)}
 .yt-toolbar{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-top:24px}
@@ -313,8 +311,7 @@ html,body{max-width:100%;overflow-x:clip}
 .yt-ext:hover{background:var(--gold);color:#fff}
 .yt-empty{grid-column:1/-1;text-align:center;padding:44px 16px;color:#8a857c;font-size:.9rem}
 .yt-pager{margin-top:22px}
-@media(max-width:900px){.svc-strip-grid{grid-template-columns:1fr}}
-@media(max-width:640px){.svc-tight{padding:48px 0}.svc-hero-compact{padding:36px 0 18px}.svc-hero-compact .hero-copy p{font-size:.95rem}.svc-strip{padding:48px 0}.svc-cta-compact{padding:48px 0}.yt-search{max-width:none}.yt-count{font-size:.64rem}.yt-short-wrap:hover{transform:none;box-shadow:none}.yt-toolbar{margin-top:18px}}
+@media(max-width:640px){.svc-tight{padding:48px 0}.svc-hero-compact{padding:36px 0 18px}.svc-hero-compact .hero-copy p{font-size:.95rem}.svc-cta-compact{padding:48px 0}.yt-search{max-width:none}.yt-count{font-size:.64rem}.yt-short-wrap:hover{transform:none;box-shadow:none}.yt-toolbar{margin-top:18px}}
 </style>
 </head>
 <body>
@@ -333,9 +330,8 @@ html,body{max-width:100%;overflow-x:clip}
 <div class="navlinks"><div class="nav-dropdown"><a href="/#services">Dịch vụ</a><div class="nav-dropdown-menu"><a href="/white-glove-delivery.html">White Glove Delivery</a><a href="/uy-thac-nhap-khau.html">Ủy thác nhập khẩu</a><a href="/mua-ho-hang-cao-cap.html">Mua hộ hàng cao cấp</a></div></div><a href="/#process">Quy trình</a><a href="/#about">Về chúng tôi</a><a href="/sourcing.html" style="color:var(--blue)" aria-current="page">Sourcing</a><a href="/bang-gia.html">Bảng giá</a><a href="/blog/">Blog</a><a class="nav-login" href="/#login" data-login-open><svg class="nav-login-ic" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><rect x="4.5" y="10.5" width="15" height="10" rx="1"/><path d="M8 10.5V7.6a4 4 0 0 1 8 0v2.9"/></svg>Đăng nhập</a><a class="btn primary" href="/#quote">Báo giá</a></div>
 </nav>
 <main id="top">
-<section class="hero svc-hero-compact"><div class="wrap hero-grid"><div class="hero-copy"><div class="eyebrow">Sourcing & supplier coordination</div><h1>Tìm đúng nguồn.<br>Xem trực tiếp sản phẩm.</h1><p>Thư viện video sản phẩm thực tế theo từng nhóm hàng — xem trước khi gửi brief. White Glove rà soát nguồn, dữ liệu cần xác minh và phương án đưa hàng về Việt Nam.</p><div class="hero-actions"><a class="btn primary" href="#video-catalog">Xem thư viện video →</a><a class="btn ghost" href="/#quote">Gửi sourcing brief</a></div><div class="hero-note"><span>Video sản phẩm thực tế</span><span>Lọc theo danh mục</span><span>Tìm kiếm tức thì</span></div></div></div></section>
+<section class="hero svc-hero-compact"><div class="wrap svc-hero-center"><div class="hero-copy"><div class="eyebrow">Sourcing & supplier coordination</div><h1>Tìm đúng nguồn.<br>Xem trực tiếp sản phẩm.</h1><p>Thư viện video sản phẩm thực tế theo từng nhóm hàng — xem trước khi gửi brief. White Glove rà soát nguồn, dữ liệu cần xác minh và phương án đưa hàng về Việt Nam.</p><div class="hero-actions"><a class="btn primary" href="#video-catalog">Xem thư viện video →</a><a class="btn ghost" href="/#quote">Gửi sourcing brief</a></div><div class="hero-note"><span>Video sản phẩm thực tế</span><span>Lọc theo danh mục</span><span>Tìm kiếm tức thì</span></div></div></div></section>
 <section id="video-catalog" class="section soft svc-tight"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Video catalog</div><h2>Thư viện nguồn hàng & góc nhìn ngành.</h2></div><p>Chọn danh mục hoặc tìm theo tên sản phẩm. Bấm vào video để xem ngay tại chỗ.</p></div><div class="yt-toolbar"><div class="yt-search"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5 21 21"/></svg><input id="yt-search" type="search" placeholder="Tìm video theo tên sản phẩm…" aria-label="Tìm video theo tên sản phẩm" autocomplete="off"><button type="button" class="yt-clear" id="yt-clear" aria-label="Xoá từ khoá" hidden>×</button></div><span class="yt-count" id="yt-count" aria-live="polite"></span></div><div class="yt-filters" id="yt-filters" role="group" aria-label="Lọc video theo danh mục"></div><div class="yt-shorts-grid" id="yt-shorts-grid" style="margin-top:24px"></div><div class="yt-pager" id="yt-pager" role="navigation" aria-label="Phân trang video"></div><noscript><p style="text-align:center;padding:20px"><a href="https://www.youtube.com/channel/UCGfUe5ljqW9n2ZsSLXgcbPA" target="_blank">Xem video trên YouTube →</a></p></noscript></div></section>
-<section class="section svc-strip"><div class="wrap"><div class="svc-strip-grid"><article><b>Source</b><p>Tìm và đối chiếu nguồn theo brief, gồm lựa chọn chính và lựa chọn thay thế.</p></article><article><b>Verify</b><p>Rà soát thông tin người bán, condition và hồ sơ có sẵn trước giao dịch.</p></article><article><b>Plan</b><p>Khung chi phí, mốc triển khai và phương án vận chuyển, final-mile.</p></article></div><p class="svc-note">White Glove không cam kết tìm được mọi sản phẩm hoặc chốt tổng chi phí khi dữ liệu hàng và nguồn chưa rõ.</p></div></section>
 <section class="cta svc-cta-compact"><div class="wrap" style="text-align:center"><div class="eyebrow">Start with the brief</div><h2>Cho chúng tôi sản phẩm bạn đang tìm.</h2><p style="margin:16px auto 28px;max-width:640px">Ảnh, link hoặc thông số · ngân sách · condition · deadline · điểm giao cuối cùng.</p><a class="btn primary" href="/#quote">Gửi sourcing brief</a></div></section>
 </main>
 
