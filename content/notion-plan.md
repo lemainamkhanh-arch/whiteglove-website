@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-07T18:59:42.416Z"
+updated: "2026-10-08T01:08:53.834Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (38)
+## Ý tưởng (37)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -22,7 +22,6 @@ updated: "2026-10-07T18:59:42.416Z"
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
 - Đi hội chợ nội thất châu Âu để chọn nguồn: Salone del Mobile, imm Cologne, Maison&Objet, Hábitat Valencia
 - Sofa dài 3m từ Ý có vừa container 20ft? Bài toán oversize khi nhập nội thất châu Âu
-- Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia
 - Nhập nội thất Bắc Âu: gỗ, thiết kế tối giản và rủi ro độ ẩm khi về Việt Nam
 - Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
@@ -53,6 +52,10 @@ updated: "2026-10-07T18:59:42.416Z"
 ## Chờ duyệt (1)
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
+
+## Đã duyệt (1)
+
+- Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia
 
 ## Đã publish (31)
 
