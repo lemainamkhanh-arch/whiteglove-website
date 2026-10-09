@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-08T04:04:35.427Z"
+updated: "2026-10-09T01:08:22.098Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (37)
+## Ý tưởng (36)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -39,7 +39,6 @@ updated: "2026-10-08T04:04:35.427Z"
 - Rủi ro pháp lý khi nhập hàng không chính ngạch — case study thực tế
 - Cách đọc báo giá & hợp đồng với supplier Trung Quốc — tránh phí ẩn
 - So sánh: Tự nhập vs thuê forwarder vs ủy thác nhập khẩu — bảng chi phí thực tế
-- CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu?
 - 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
 - Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh
 - White glove delivery khác gì giao hàng thường? So sánh chi tiết
@@ -52,6 +51,10 @@ updated: "2026-10-08T04:04:35.427Z"
 ## Chờ duyệt (1)
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
+
+## Đã duyệt (1)
+
+- CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu?
 
 ## Đã publish (32)
 
