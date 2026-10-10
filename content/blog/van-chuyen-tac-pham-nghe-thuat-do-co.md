@@ -13,6 +13,10 @@ Tác phẩm nghệ thuật, đồ cổ không chỉ có giá trị vật chất 
 
 ## Những yếu tố rủi ro cần kiểm soát
 
+![Minh hoạ 1: Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-1.jpg)
+
+![Minh hoạ 2: Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-2.jpg)
+
 - **Va đập cơ học**: khung tranh, tượng, đồ gốm rất dễ nứt vỡ nếu không được cố định đúng cách.
 - **Thay đổi nhiệt độ, độ ẩm đột ngột**: đặc biệt nguy hiểm với tranh sơn dầu, giấy cổ, đồ gỗ sơn mài — có thể gây cong vênh, bong tróc.
 - **Ánh sáng trực tiếp**: một số chất liệu như giấy, vải cổ dễ bị phai màu nếu tiếp xúc ánh nắng trong thời gian vận chuyển dài.
@@ -44,6 +48,6 @@ An toàn nếu được đóng gói đúng chuẩn — mỗi món cần lớp đ
 
 Với một số loại đồ cổ, đặc biệt khi vận chuyển liên tỉnh hoặc quốc tế, nên chuẩn bị giấy tờ chứng minh nguồn gốc và giá trị để thuận tiện cho việc mua bảo hiểm và làm thủ tục nếu cần.
 
-![Ảnh bìa: Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — White Glove Logistics](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-1.jpg)
+![Ảnh bìa: Vận chuyển tác phẩm nghệ thuật, đồ cổ: quy trình an toàn tuyệt đối — White Glove Logistics](/assets/blog/van-chuyen-tac-pham-nghe-thuat-do-co-3.jpg)
 
 > Trả lời nhanh: Vận chuyển tác phẩm nghệ thuật và đồ cổ cần quy trình chuyên biệt — đóng gói trong hòm gỗ có đệm foam theo hình dạng riêng của từng món, kiểm soát nhiệt độ và độ ẩm trong suốt hành trình, có condition report chi tiết trước và sau vận chuyển, cùng đội ngũ có kinh nghiệm xử lý hiện vật giá trị cao.

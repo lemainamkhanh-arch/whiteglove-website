@@ -17,6 +17,10 @@ Piano là nhạc cụ có cấu trúc phức tạp, trọng lượng lớn (từ
 
 ## Những rủi ro thường gặp khi vận chuyển piano
 
+![Minh hoạ 1: Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC BY 2.0) / Wi](/assets/blog/van-chuyen-dan-piano-tphcm-2.jpg)
+
+![Minh hoạ 2: Vận chuyển đàn piano tại TP.HCM: lưu ý để tránh hư hỏng — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC BY 2.0) / Wi](/assets/blog/van-chuyen-dan-piano-tphcm-3.jpg)
+
 - **Nghiêng đàn sai góc**: piano cơ có cấu trúc dây và khung gang bên trong rất nặng, nghiêng sai góc có thể khiến trọng tâm dồn lệch, gây nứt vỏ hoặc hỏng cơ cấu phím.
 - **Thiếu vật liệu bảo vệ chuyên dụng**: chăn đệm thông thường không đủ để bảo vệ các góc cạnh và bề mặt sơn mài của đàn.
 - **Di chuyển qua cầu thang, khe cửa hẹp**: đàn piano, đặc biệt là grand piano, cần được tháo chân và bọc kỹ trước khi di chuyển qua không gian hẹp.

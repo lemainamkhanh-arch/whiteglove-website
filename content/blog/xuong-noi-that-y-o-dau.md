@@ -23,6 +23,8 @@ Bài viết này sẽ giúp bạn xác định chính xác xưởng nội thất
 
 ## 1. Brianza – Thủ phủ nội thất gỗ cao cấp
 
+![Minh hoạ 2: Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — Ảnh: Poliform (poliform.it — press area)](/assets/blog/xuong-noi-that-y-o-dau-2.jpg)
+
 Nếu bạn đang tìm xưởng nội thất Ý chuyên sản xuất tủ, bàn, giường và hệ tủ âm tường từ gỗ óc chó, sồi hoặc MDF sơn mài cao cấp, Brianza là điểm đến đầu tiên. Vùng Brianza thuộc tỉnh Monza và Brianza (Lombardy) bao gồm các thành phố Seregno, Lissone, Cantù – nơi đặt trụ sở của hầu hết các thương hiệu nội thất Ý đình đám. Theo dữ liệu từ Google Arts & Culture (Brianza District), khu vực này đã sản xuất đồ nội thất từ thế kỷ 18 và hiện chiếm khoảng 30% tổng kim ngạch xuất khẩu nội thất của Ý.
 
 ### Đặc điểm xưởng tại Brianza
@@ -63,7 +65,7 @@ Carrara nằm ở Tuscany, nổi tiếng với các mỏ đá marble trắng (bi
 
 Đá marble rất nặng và giòn, cần đóng gói trong thùng gỗ chắc chắn và có bảo hiểm hàng hóa. Ngoài ra, cần chú ý đến thủ tục hải quan vì đá tự nhiên thuộc danh mục kiểm tra chất lượng. White Glove Logistics hỗ trợ condition report trước khi đóng hàng và bảo hiểm toàn bộ rủi ro trong quá trình vận chuyển.
 
-![Minh hoạ 1: Xưởng nội thất Ý ở đâu? Brianza, Manzano và vùng sản xuất nội thất — Ảnh: Poliform (poliform.it — press area)](/assets/blog/xuong-noi-that-y-o-dau-2.jpg)
+![Minh hoạ 1: Xưởng nội thất Ý ở đâu? Brianza, Manzano và vùng sản xuất nội thất — Ảnh: Poliform (poliform.it — press area)](/assets/blog/xuong-noi-that-y-o-dau-3.jpg)
 
 ## 4. Murano – Đảo thủy tinh thổi thủ công
 
@@ -107,7 +109,7 @@ Dưới đây là quy trình 5 bước giúp bạn xác định xưởng nội t
 
 White Glove Logistics cung cấp dịch vụ white glove delivery trọn gói: giao tận phòng, lắp đặt, bảo hiểm hàng hóa và condition report chi tiết. [Nhận báo giá ngay](https://whiteglove.vn/bang-gia.html) để được tư vấn lộ trình tối ưu cho lô hàng nội thất Ý của bạn.
 
-![Minh hoạ 2: Xưởng nội thất Ý ở đâu? Brianza, Manzano và vùng sản xuất nội thất — Ảnh: Poliform (poliform.it — press area)](/assets/blog/xuong-noi-that-y-o-dau-3.jpg)
+![Minh hoạ 1: Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — Ảnh: Poliform (poliform.it — press area)](/assets/blog/xuong-noi-that-y-o-dau-4.jpg)
 
 ## Câu hỏi thường gặp
 

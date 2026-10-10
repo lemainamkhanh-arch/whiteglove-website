@@ -20,6 +20,10 @@ draft: false
 
 ## Mã HS của nội thất gỗ và đồ trang trí nhập khẩu là bao nhiêu? – Danh mục chi tiết theo từng nhóm hàng
 
+![Minh hoạ 1: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA 4.](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-2.jpg)
+
+![Minh hoạ 2: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA 4.](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-3.jpg)
+
 Câu trả lời ngắn gọn: Mã HS của nội thất gỗ nằm trong nhóm 9403 (đồ nội thất), mã HS đồ trang trí thuộc các nhóm 9701 (tranh ảnh), 6911 (gốm sứ), 8306 (kim loại trang trí). Tuy nhiên, mỗi sản phẩm cụ thể có mã 8-10 số khác nhau. Việc tra đúng mã HS là bước đầu tiên quyết định chi phí nhập khẩu, thời gian thông quan và rủi ro pháp lý. Dưới đây là bảng mã phổ biến cho các dòng nội thất và đồ trang trí cao cấp thường được nhập khẩu bởi White Glove Logistics.
 
 ### Nhóm 9401 – Ghế ngồi (sofa, ghế bành, ghế ăn)

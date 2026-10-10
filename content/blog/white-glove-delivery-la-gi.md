@@ -15,6 +15,10 @@ Nếu bạn từng mua một món nội thất nhập khẩu vài trăm triệu,
 
 ## White glove delivery là gì?
 
+![Minh hoạ 1: White Glove Delivery là gì? Khi nào bạn thật sự cần dịch vụ này — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/white-glove-delivery-la-gi-2.jpg)
+
+![Minh hoạ 2: White Glove Delivery là gì? Khi nào bạn thật sự cần dịch vụ này — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/white-glove-delivery-la-gi-3.jpg)
+
 White glove delivery (giao hàng "găng tay trắng") là chuẩn dịch vụ giao nhận cao cấp nhất: hàng hóa được khảo sát trước, đóng gói chuyên dụng, vận chuyển bởi đội ngũ được đào tạo, **lắp đặt hoàn thiện tại chỗ** và bàn giao kèm hồ sơ tình trạng. Tên gọi xuất phát từ hình ảnh nhân viên đeo găng trắng khi chạm vào sản phẩm — mọi chi tiết đều được đối xử như tác phẩm nghệ thuật.
 
 ## Khác gì giao hàng thông thường?

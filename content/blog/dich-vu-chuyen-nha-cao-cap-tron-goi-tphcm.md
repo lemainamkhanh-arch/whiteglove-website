@@ -17,6 +17,10 @@ Chuyển nhà chưa bao giờ là chuyện đơn giản, đặc biệt khi trong
 
 ## Vì sao nên chọn dịch vụ trọn gói thay vì tự chuyển nhà?
 
+![Minh hoạ 1: Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm-2.jpg)
+
+![Minh hoạ 2: Dịch vụ chuyển nhà cao cấp trọn gói tại TP.HCM — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/dich-vu-chuyen-nha-cao-cap-tron-goi-tphcm-3.jpg)
+
 Tự chuyển nhà thường khiến gia chủ phải xoay sở cùng lúc nhiều việc: tìm xe, tìm nhân công, chuẩn bị vật liệu đóng gói, sắp xếp lịch tháo lắp nội thất... trong khi vẫn phải quán xuyến công việc và gia đình. Dịch vụ trọn gói giải quyết toàn bộ chuỗi công việc này bằng một đội ngũ chuyên nghiệp, đã được đào tạo về cách xử lý từng loại vật liệu — từ kính, đá, gỗ tự nhiên đến các thiết bị điện tử nhạy cảm.
 
 Quan trọng hơn, đơn vị chuyên nghiệp luôn có quy trình kiểm tra tình trạng đồ đạc (condition report) trước và sau khi vận chuyển, giúp gia chủ có căn cứ rõ ràng nếu phát sinh vấn đề.

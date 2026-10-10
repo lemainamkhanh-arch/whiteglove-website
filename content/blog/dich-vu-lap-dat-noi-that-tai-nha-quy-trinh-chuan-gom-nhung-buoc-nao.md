@@ -48,7 +48,7 @@ Không phải đơn vị vận chuyển nào cũng cung cấp dịch vụ lắp 
 
 Để biết thêm chi tiết về chi phí và các gói dịch vụ, bạn có thể [nhận báo giá](https://whiteglove.vn/bang-gia.html) trực tiếp từ đội ngũ tư vấn.
 
-![Minh hoạ 1: Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào? — White Glove Logistics](/assets/blog/dich-vu-lap-dat-noi-that-tai-nha-quy-trinh-chuan-gom-nhung-buoc-nao-2.jpg)
+![Minh hoạ 1: Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào? — Ảnh: VCCmatt (CC BY-SA 4.0); Willyvu (CC BY-SA 4.0); heb@Wikimedia Commons (mail) (CC BY-SA 3.0); WillNemoy (CC BY-S](/assets/blog/dich-vu-lap-dat-noi-that-tai-nha-quy-trinh-chuan-gom-nhung-buoc-nao-2.jpg)
 
 ## Lưu ý khi sử dụng dịch vụ lắp đặt nội thất tại nhà
 
@@ -58,7 +58,7 @@ Không phải đơn vị vận chuyển nào cũng cung cấp dịch vụ lắp 
 
 Nếu bạn đang tìm hiểu về toàn bộ quy trình nhập khẩu, bài viết [ủy thác nhập khẩu là gì?](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) sẽ cung cấp cái nhìn tổng quan về các bước từ đặt hàng đến thông quan.
 
-![Minh hoạ 2: Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào? — White Glove Logistics](/assets/blog/dich-vu-lap-dat-noi-that-tai-nha-quy-trinh-chuan-gom-nhung-buoc-nao-3.jpg)
+![Minh hoạ 2: Dịch vụ lắp đặt nội thất tại nhà: quy trình chuẩn gồm những bước nào? — Ảnh: VCCmatt (CC BY-SA 4.0); Willyvu (CC BY-SA 4.0); heb@Wikimedia Commons (mail) (CC BY-SA 3.0); WillNemoy (CC BY-S](/assets/blog/dich-vu-lap-dat-noi-that-tai-nha-quy-trinh-chuan-gom-nhung-buoc-nao-3.jpg)
 
 ## Câu hỏi thường gặp
 

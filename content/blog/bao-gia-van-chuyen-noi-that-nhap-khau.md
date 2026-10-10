@@ -15,6 +15,10 @@ draft: false
 
 ## Vì sao báo giá vận chuyển nội thất khác báo giá giao hàng thường?
 
+![Minh hoạ 1: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-2.jpg)
+
+![Minh hoạ 2: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-3.jpg)
+
 Giao hàng thường có bảng giá cố định theo trọng lượng và khoảng cách. Vận chuyển nội thất nhập khẩu — đặc biệt hàng cao cấp — phụ thuộc nhiều biến số: kích thước cồng kềnh, độ phức tạp lắp đặt, có cần ủy thác nhập khẩu/thông quan không, điều kiện tiếp cận tại điểm giao… nên mỗi lô hàng cần một báo giá riêng dựa trên thông tin cụ thể.
 
 ## 6 thông tin cần chuẩn bị trước khi xin báo giá

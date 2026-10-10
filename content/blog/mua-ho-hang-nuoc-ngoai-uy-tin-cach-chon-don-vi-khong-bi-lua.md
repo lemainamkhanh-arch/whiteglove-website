@@ -21,6 +21,8 @@ draft: false
 
 ## Vì sao cần chọn đơn vị mua hộ hàng nước ngoài uy tín?
 
+![Minh hoạ 2: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA 3.0) / Wikimed](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-2.jpg)
+
 Mua hộ hàng nước ngoài là giải pháp tiết kiệm cho người Việt muốn sở hữu nội thất, đồ trang trí, thiết bị cao cấp từ châu Âu, Mỹ, Nhật, Hàn. Tuy nhiên, thị trường đang tràn lan các đơn vị môi giới thiếu chuyên nghiệp, dễ dẫn đến mất cọc, hàng hư hỏng, hoặc bị đội giá. Đặc biệt với hàng giá trị cao, việc chọn sai đối tác có thể gây thiệt hại lớn. Một đơn vị mua hộ uy tín sẽ giúp bạn kiểm soát toàn bộ quy trình từ đặt hàng, vận chuyển quốc tế, thông quan, đến giao nhận tận nơi.
 
 ### Tiêu chí nhận biết dịch vụ mua hộ uy tín
@@ -70,7 +72,7 @@ Khi bạn mua hộ hàng nước ngoài giá trị cao như sofa Ý, bàn ăn g�
 
 White Glove Logistics Vietnam tự hào cung cấp dịch vụ mua hộ hàng nước ngoài uy tín, đặc biệt cho nội thất nhập khẩu. Chúng tôi cam kết giao tận phòng, lắp đặt chuyên nghiệp, bảo hiểm hàng hóa toàn trình và condition report chi tiết. Bạn có thể tham khảo quy trình ủy thác nhập khẩu tại bài viết [Ủy thác nhập khẩu là gì?](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) để hiểu rõ hơn.
 
-![Minh hoạ 1: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-2.jpg)
+![Minh hoạ 1: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-3.jpg)
 
 ## So sánh chi phí giữa các hình thức mua hộ phổ biến
 
@@ -94,7 +96,7 @@ Dưới đây là các yếu tố chi phí bạn cần lưu ý khi chọn dịch
 
 Nếu bạn đang có nhu cầu nhập nội thất từ Trung Quốc, hãy tham khảo hướng dẫn chi tiết tại [Hướng dẫn nhập nội thất Trung Quốc A-Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) để tránh sai sót.
 
-![Minh hoạ 2: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — White Glove Logistics](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-3.jpg)
+![Minh hoạ 1: Mua hộ hàng nước ngoài uy tín: cách chọn đơn vị không bị lừa — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA 3.0) / Wikimed](/assets/blog/mua-ho-hang-nuoc-ngoai-uy-tin-cach-chon-don-vi-khong-bi-lua-4.jpg)
 
 ## Kết luận
 

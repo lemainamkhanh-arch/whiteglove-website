@@ -15,6 +15,10 @@ draft: false
 
 ## Vận chuyển nội thất từ Ý về Việt Nam mất bao nhiêu ngày?
 
+![Minh hoạ 1: Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / W](/assets/blog/van-chuyen-noi-that-tu-chau-au-2.jpg)
+
+![Minh hoạ 2: Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / W](/assets/blog/van-chuyen-noi-that-tu-chau-au-3.jpg)
+
 Thời gian vận chuyển nội thất từ Ý về Việt Nam dao động từ 21 đến 50 ngày, phụ thuộc vào cảng xếp hàng, hãng tàu và loại container. Cụ thể, tuyến từ cảng La Spezia (Ý) đến cảng Cát Lái (TP.HCM) mất khoảng 21–35 ngày đối với tàu chạy thẳng, nhưng có thể kéo dài đến 50 ngày nếu tàu trung chuyển qua Singapore hoặc các cảng trung gian. Các cảng chính tại Ý bao gồm La Spezia, Genova, Livorno và Trieste, trong đó La Spezia là cảng phổ biến nhất cho hàng nội thất nhờ hạ tầng hiện đại và kết nối thuận tiện với các khu vực sản xuất nội thất như Milan, Venice và Tuscany.
 
 ### Tuyến La Spezia – TP.HCM mất bao lâu?

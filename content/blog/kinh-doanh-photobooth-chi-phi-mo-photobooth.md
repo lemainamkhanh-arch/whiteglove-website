@@ -31,7 +31,7 @@ Một hệ thống photobooth hoàn chỉnh thường gồm cabin hoặc khu v�
 
 ### 1. Đặt booth cố định tại café, bar hoặc khách sạn
 
-![White Glove kinh-doanh-photobooth-chi-phi-mo-photobooth](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-3.png)
+![Minh hoạ 1: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-3.jpg)
 
 Booth được đặt tại một venue có sẵn lưu lượng khách. Doanh thu có thể tính theo mô hình chia sẻ doanh thu, thuê vị trí cố định hoặc kết hợp phí tối thiểu với revenue share.
 
@@ -41,7 +41,7 @@ Hãy ưu tiên khảo sát các địa điểm mà khách Việt thường dành
 
 ### 2. Mở studio hoặc flagship photobooth
 
-![White Glove kinh-doanh-photobooth-chi-phi-mo-photobooth](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-4.png)
+![Minh hoạ 2: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-4.jpg)
 
 Nhà đầu tư sở hữu không gian riêng với nhiều concept chụp, nhiều background và các gói trải nghiệm khác nhau. Mô hình này giúp kiểm soát thương hiệu tốt hơn nhưng cần vốn lớn hơn cho mặt bằng, thiết kế, nhân sự và marketing.
 
@@ -49,7 +49,7 @@ Flagship phù hợp khi đã có dữ liệu về giá bán, số lượt chụp
 
 ### 3. Cho thuê photobooth cho sự kiện
 
-![White Glove kinh-doanh-photobooth-chi-phi-mo-photobooth](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-5.png)
+![Minh hoạ 3: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-5.jpg)
 
 Thiết bị được vận chuyển tới đám cưới, lễ khai trương, hội nghị, activation thương hiệu hoặc tiệc doanh nghiệp. Doanh thu tính theo thời lượng, số giờ phục vụ, nhân sự vận hành và mức độ tùy chỉnh.
 

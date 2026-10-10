@@ -22,6 +22,8 @@ La Cornue là biểu tượng của bếp cao cấp Pháp, nổi tiếng với t
 
 ## La Cornue có đại lý chính thức tại Việt Nam không?
 
+![Minh hoạ 2: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-2.jpg)
+
 Câu trả lời ngắn gọn: chưa có. Theo thông tin từ trang dealer locator chính thức của La Cornue (la-cornue.com), danh sách đại lý ủy quyền hiện chỉ có tại các thị trường châu Âu, Bắc Mỹ, Trung Đông và một số nước châu Á như Singapore, Hồng Kông, nhưng chưa có tên Việt Nam. Điều này có nghĩa là nếu bạn muốn mua bếp La Cornue mới 100% chính hãng, con đường duy nhất là nhập khẩu trực tiếp từ Pháp hoặc từ đại lý ở nước thứ ba.
 
 ## Vì sao bếp La Cornue chưa có mặt chính thức tại thị trường Việt Nam?
@@ -46,7 +48,7 @@ Bếp La Cornue là sản phẩm nặng, cồng kềnh, có giá trị cao và y
 
 White Glove Logistics cung cấp giải pháp trọn gói từ nhập khẩu, vận chuyển, lắp đặt đến bảo hiểm hàng hóa. Tham khảo dịch vụ [ủy thác nhập khẩu là gì](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) để hiểu rõ hơn quy trình.
 
-![Minh hoạ 1: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-2.jpg)
+![Minh hoạ 1: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-3.jpg)
 
 ## Những rủi ro khi tự nhập khẩu bếp La Cornue và cách phòng tránh
 
@@ -57,7 +59,7 @@ White Glove Logistics cung cấp giải pháp trọn gói từ nhập khẩu, v�
 
 Để tránh những rủi ro trên, bạn nên sử dụng dịch vụ của White Glove Logistics – đơn vị chuyên nhập khẩu và vận chuyển nội thất cao cấp. Xem thêm [báo giá vận chuyển nội thất nhập khẩu](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/) để dự trù chi phí.
 
-![Minh hoạ 2: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-3.jpg)
+![Minh hoạ 1: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-4.jpg)
 
 ## Dịch vụ White Glove Logistics hỗ trợ nhập khẩu bếp La Cornue như thế nào?
 

@@ -17,6 +17,10 @@ Một chiếc bàn mặt đá hay tủ kính cường lực có thể chịu đ�
 
 ## Vì sao nội thất dễ vỡ cần quy trình riêng?
 
+![Minh hoạ 1: Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì? — Ảnh: Holger Uwe Schmitt / Wikimedia Commons (CC BY-SA 4.0); User:Vmenkov / Wikimedia Commons (CC BY-SA 3.0); Rijksmuseum / ](/assets/blog/van-chuyen-noi-that-de-vo-2.jpg)
+
+![Minh hoạ 2: Vận chuyển nội thất dễ vỡ: kính, đá, gỗ tự nhiên cần lưu ý gì? — Ảnh: Holger Uwe Schmitt / Wikimedia Commons (CC BY-SA 4.0); User:Vmenkov / Wikimedia Commons (CC BY-SA 3.0); Rijksmuseum / ](/assets/blog/van-chuyen-noi-that-de-vo-3.jpg)
+
 Kính, đá và gỗ tự nhiên có đặc tính vật lý khác nhau: kính/đá chịu lực nén tốt nhưng rất kém chịu lực xoắn hoặc va đập điểm; gỗ tự nhiên dễ trầy xước bề mặt và biến dạng khi ẩm. Đóng gói chung một kiểu cho tất cả loại hàng gần như chắc chắn dẫn đến hư hỏng.
 
 ## Lưu ý theo từng loại vật liệu

@@ -17,6 +17,10 @@ Chuyển văn phòng khác chuyển nhà ở một điểm quan trọng: doanh n
 
 ## Vận chuyển nội thất văn phòng khác gì nội thất gia đình?
 
+![Minh hoạ 1: Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/van-chuyen-noi-that-van-phong-2.jpg)
+
+![Minh hoạ 2: Vận chuyển nội thất văn phòng khi chuyển địa điểm: cần lưu ý gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/van-chuyen-noi-that-van-phong-3.jpg)
+
 - Số lượng lớn, nhiều món giống nhau (bàn, ghế, tủ hồ sơ) cần sắp xếp đúng vị trí tại văn phòng mới
 - Có thiết bị nhạy cảm đi kèm: máy chủ, tổng đài, máy in mạng — cần tháo lắp và bảo vệ riêng
 - Thường yêu cầu chuyển ngoài giờ hành chính hoặc cuối tuần để không gián đoạn vận hành

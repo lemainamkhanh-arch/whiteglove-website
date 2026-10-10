@@ -17,6 +17,10 @@ Rủi ro lớn nhất khi vận chuyển nội thất đường dài không ph�
 
 ## Vì sao đóng gói đúng chuẩn quan trọng với vận chuyển đường dài?
 
+![Minh hoạ 1: Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — Ảnh: VCCmatt (CC BY-SA 4.0); Willyvu (CC BY-SA 4.0); heb@Wikimedia Commons (mail) (CC BY-SA 3.0); WillNemoy (CC BY-SA 4.0](/assets/blog/dong-goi-noi-that-van-chuyen-duong-dai-2.jpg)
+
+![Minh hoạ 2: Đóng gói nội thất khi vận chuyển đường dài: hướng dẫn đúng chuẩn — Ảnh: VCCmatt (CC BY-SA 4.0); Willyvu (CC BY-SA 4.0); heb@Wikimedia Commons (mail) (CC BY-SA 3.0); WillNemoy (CC BY-SA 4.0](/assets/blog/dong-goi-noi-that-van-chuyen-duong-dai-3.jpg)
+
 Đường dài đồng nghĩa với nhiều giờ rủi ro lũy kế: rung xóc liên tục, thay đổi nhiệt độ/ẩm khi qua nhiều vùng, xếp chồng nhiều lớp hàng trong khoang xe. Đóng gói qua loa có thể không lộ vấn đề ngay, nhưng tích lũy hư hỏng theo từng km.
 
 ## Phân loại vật liệu đóng gói theo chất liệu nội thất
