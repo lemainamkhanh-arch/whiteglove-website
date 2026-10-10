@@ -1,6 +1,6 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-09T01:08:22.098Z"
+updated: "2026-10-10T07:11:11.505Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
@@ -52,11 +52,7 @@ updated: "2026-10-09T01:08:22.098Z"
 
 - Giao hàng nội thất cao cấp tại TP.HCM: cần lưu ý gì?
 
-## Đã duyệt (1)
-
-- CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu?
-
-## Đã publish (32)
+## Đã publish (33)
 
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
@@ -69,6 +65,7 @@ updated: "2026-10-09T01:08:22.098Z"
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
 - Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
+- CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — [https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/](https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/)
 - Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — [https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/](https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/)
 - Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — [https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/](https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/)
 - Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — [https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/](https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/)
