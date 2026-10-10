@@ -17,7 +17,7 @@ Một số hình ảnh minh họa cho các hướng triển khai photobooth: boo
 
 ![Ảnh bìa: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — White Glove Logistics](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-1.jpg)
 
-![Phụ kiện và setup photobooth cho sự kiện](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-2.jpg)
+![Minh hoạ 1: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-2.jpg)
 
 ## Kinh doanh photobooth là gì?
 
@@ -31,7 +31,7 @@ Một hệ thống photobooth hoàn chỉnh thường gồm cabin hoặc khu v�
 
 ### 1. Đặt booth cố định tại café, bar hoặc khách sạn
 
-![Minh hoạ 1: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-3.jpg)
+![Minh hoạ 2: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-3.jpg)
 
 Booth được đặt tại một venue có sẵn lưu lượng khách. Doanh thu có thể tính theo mô hình chia sẻ doanh thu, thuê vị trí cố định hoặc kết hợp phí tối thiểu với revenue share.
 
@@ -41,7 +41,7 @@ Hãy ưu tiên khảo sát các địa điểm mà khách Việt thường dành
 
 ### 2. Mở studio hoặc flagship photobooth
 
-![Minh hoạ 2: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-4.jpg)
+![Minh hoạ 3: Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain);](/assets/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth-4.jpg)
 
 Nhà đầu tư sở hữu không gian riêng với nhiều concept chụp, nhiều background và các gói trải nghiệm khác nhau. Mô hình này giúp kiểm soát thương hiệu tốt hơn nhưng cần vốn lớn hơn cho mặt bằng, thiết kế, nhân sự và marketing.
 
