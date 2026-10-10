@@ -21,11 +21,11 @@ draft: false
 
 ## Tại sao nên nhập nội thất từ Tây Ban Nha – đặc biệt là sofa Yecla và gốm Valencia?
 
-![Minh hoạ 2: Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-noi-that-tay-ban-nha-2.jpg)
+![Minh hoạ 1: Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-noi-that-tay-ban-nha-2.jpg)
 
-![Minh hoạ 1: Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-noi-that-tay-ban-nha-3.jpg)
+![Minh hoạ 2: Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-noi-that-tay-ban-nha-3.jpg)
 
-![Minh hoạ 1: Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-noi-that-tay-ban-nha-4.jpg)
+![Minh hoạ 3: Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-noi-that-tay-ban-nha-4.jpg)
 
 Nội thất Tây Ban Nha không chỉ là sản phẩm, mà còn là tinh hoa thủ công và thiết kế châu Âu. Cụm sofa Yecla (thuộc vùng Murcia) từ lâu đã là trung tâm sản xuất đồ bọc nệm lớn nhất Tây Ban Nha, với hơn 300 nhà máy, tham gia hội chợ Feria del Mueble Yecla (FMY) hàng năm. Trong khi đó, gốm Valencia – đặc biệt từ các xưởng quanh Hábitat Valencia – mang phong cách men màu, họa tiết Moorish và độ bền vượt trội. Nhập khẩu những dòng sản phẩm này về Việt Nam giúp gia chủ sở hữu nội thất độc bản, đẳng cấp, phù hợp với không gian biệt thự, căn hộ cao cấp.
 

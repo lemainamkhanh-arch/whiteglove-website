@@ -20,7 +20,7 @@ draft: false
 
 ## Nhập khẩu bếp Officine Gullo về Việt Nam cần những bước nào?
 
-![Minh hoạ 2: Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — Ảnh: Officine Gullo (officinegullo.com — press area)](/assets/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi-2.jpg)
+![Minh hoạ 1: Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — Ảnh: Officine Gullo (officinegullo.com — press area)](/assets/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi-2.jpg)
 
 Để nhập khẩu một bộ bếp Officine Gullo nguyên bộ về Việt Nam, bạn cần thực hiện các bước sau: lựa chọn bộ sản phẩm (range, hood, cabinet, sink), đặt hàng qua đại lý chính hãng, chuẩn bị hồ sơ nhập khẩu, vận chuyển quốc tế, làm thủ tục hải quan, và cuối cùng là giao nhận, lắp đặt tận nơi. Dưới đây là chi tiết từng bước.
 
@@ -59,7 +59,7 @@ Sau khi hàng về đến cảng Việt Nam và hoàn tất thông quan, White G
 
 Bạn cũng có thể xem thêm [báo giá vận chuyển nội thất nhập khẩu](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/) để ước tính chi phí cho lô hàng oversize.
 
-![Minh hoạ 1: Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — Ảnh: Officine Gullo (officinegullo.com — press area)](/assets/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi-3.jpg)
+![Minh hoạ 2: Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — Ảnh: Officine Gullo (officinegullo.com — press area)](/assets/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi-3.jpg)
 
 ## Lưu ý đặc biệt khi nhập khẩu bếp Officine Gullo oversize
 
@@ -71,7 +71,7 @@ Do kích thước và trọng lượng lớn (range có thể nặng 150–300 k
 
 Tham khảo bài [ủy thác nhập khẩu là gì?](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) để hiểu cách tối ưu chi phí và thủ tục khi nhập hàng cồng kềnh.
 
-![Minh hoạ 2: Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — Ảnh: Officine Gullo (officinegullo.com — press area)](/assets/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi-4.jpg)
+![Minh hoạ 3: Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — Ảnh: Officine Gullo (officinegullo.com — press area)](/assets/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi-4.jpg)
 
 ## Câu hỏi thường gặp
 

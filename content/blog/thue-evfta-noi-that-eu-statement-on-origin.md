@@ -21,9 +21,9 @@ draft: false
 
 ## Nội thất nhập từ Ý có được hưởng thuế ưu đãi EVFTA không?
 
-![Minh hoạ 2: Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0](/assets/blog/thue-evfta-noi-that-eu-statement-on-origin-2.jpg)
+![Minh hoạ 1: Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public ](/assets/blog/thue-evfta-noi-that-eu-statement-on-origin-2.jpg)
 
-![Minh hoạ 1: Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wi](/assets/blog/thue-evfta-noi-that-eu-statement-on-origin-3.jpg)
+![Minh hoạ 2: Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public ](/assets/blog/thue-evfta-noi-that-eu-statement-on-origin-3.jpg)
 
 ![Minh hoạ 1: Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0](/assets/blog/thue-evfta-noi-that-eu-statement-on-origin-4.jpg)
 

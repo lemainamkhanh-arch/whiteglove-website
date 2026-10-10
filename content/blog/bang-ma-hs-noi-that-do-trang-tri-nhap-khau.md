@@ -20,9 +20,9 @@ draft: false
 
 ## Mã HS của nội thất gỗ và đồ trang trí nhập khẩu là bao nhiêu? – Danh mục chi tiết theo từng nhóm hàng
 
-![Minh hoạ 2: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason Ed](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-2.jpg)
+![Minh hoạ 1: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason Ed](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-2.jpg)
 
-![Minh hoạ 1: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA 4.](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-3.jpg)
+![Minh hoạ 2: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason Ed](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-3.jpg)
 
 ![Minh hoạ 1: Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason Ed](/assets/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau-4.jpg)
 

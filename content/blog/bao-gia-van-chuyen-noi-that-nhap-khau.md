@@ -15,9 +15,9 @@ draft: false
 
 ## Vì sao báo giá vận chuyển nội thất khác báo giá giao hàng thường?
 
-![Minh hoạ 2: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-2.jpg)
+![Minh hoạ 1: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-2.jpg)
 
-![Minh hoạ 1: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-3.jpg)
+![Minh hoạ 2: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-3.jpg)
 
 ![Minh hoạ 1: Báo giá vận chuyển nội thất nhập khẩu: cần chuẩn bị thông tin gì? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. ](/assets/blog/bao-gia-van-chuyen-noi-that-nhap-khau-4.jpg)
 

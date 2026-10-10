@@ -17,11 +17,11 @@ TP.HCM là thị trường nội thất sôi động nhất cả nước, nhưng
 
 ## Vận chuyển đồ nội thất tại TP.HCM khác gì các tỉnh khác?
 
-![Minh hoạ 2: Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commo](/assets/blog/van-chuyen-do-noi-that-tphcm-2.jpg)
+![Minh hoạ 1: Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commo](/assets/blog/van-chuyen-do-noi-that-tphcm-2.jpg)
 
-![Minh hoạ 1: Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commo](/assets/blog/van-chuyen-do-noi-that-tphcm-3.jpg)
+![Minh hoạ 2: Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commo](/assets/blog/van-chuyen-do-noi-that-tphcm-3.jpg)
 
-![Minh hoạ 1: Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commo](/assets/blog/van-chuyen-do-noi-that-tphcm-4.jpg)
+![Minh hoạ 3: Vận chuyển đồ nội thất tại TP.HCM: bảng giá, quy trình và lưu ý 2026 — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sg](/assets/blog/van-chuyen-do-noi-that-tphcm-4.jpg)
 
 - **Hạn chế giờ xe tải**: nhiều tuyến đường trung tâm (Q.1, Q.3, Q.5...) cấm xe tải giờ cao điểm, cần lên lịch giao ngoài giờ cấm
 - **Chung cư cao tầng**: phải đặt lịch thang máy chở hàng trước, một số tòa yêu cầu giấy phép ra vào của ban quản lý

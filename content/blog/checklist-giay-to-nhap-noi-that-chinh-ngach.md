@@ -21,7 +21,7 @@ draft: false
 
 ## Nhập khẩu nội thất chính ngạch cần những giấy tờ gì?
 
-![Minh hoạ 2: Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026) — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/checklist-giay-to-nhap-noi-that-chinh-ngach-2.jpg)
+![Minh hoạ 1: Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026) — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/checklist-giay-to-nhap-noi-that-chinh-ngach-2.jpg)
 
 Để nhập khẩu nội thất chính ngạch, doanh nghiệp cần chuẩn bị một bộ hồ sơ gồm các chứng từ bắt buộc theo quy định của Tổng cục Hải quan và các văn bản pháp luật liên quan. Dưới đây là danh sách chi tiết từng loại giấy tờ, giải thích vai trò và lưu ý khi chuẩn bị.
 
@@ -69,7 +69,7 @@ Một số mặt hàng nội thất làm từ gỗ tự nhiên thuộc danh mụ
 
 Nếu bạn chưa tự tin về quy trình, hãy tham khảo [hướng dẫn nhập nội thất Trung Quốc A→Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) để tránh sai sót.
 
-![Minh hoạ 1: Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026) — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/checklist-giay-to-nhap-noi-that-chinh-ngach-3.jpg)
+![Minh hoạ 2: Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026) — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/checklist-giay-to-nhap-noi-that-chinh-ngach-3.jpg)
 
 ## Lưu ý về thuế nhập khẩu và thuế GTGT
 
@@ -81,7 +81,7 @@ Khi nhập khẩu nội thất chính ngạch, doanh nghiệp phải nộp:
 
 Để tính chính xác chi phí, bạn có thể tham khảo [báo giá vận chuyển nội thất nhập khẩu](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/) của White Glove Logistics.
 
-![Minh hoạ 2: Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026) — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/checklist-giay-to-nhap-noi-that-chinh-ngach-4.jpg)
+![Minh hoạ 3: Checklist giấy tờ cần khi nhập nội thất chính ngạch (2026) — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/checklist-giay-to-nhap-noi-that-chinh-ngach-4.jpg)
 
 ## Vai trò của White Glove Logistics trong quy trình nhập khẩu nội thất
 

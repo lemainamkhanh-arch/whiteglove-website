@@ -15,11 +15,11 @@ draft: false
 
 ## Condition report gồm những gì?
 
-![Minh hoạ 2: Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC ](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-2.jpg)
+![Minh hoạ 1: Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC ](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-2.jpg)
 
-![Minh hoạ 1: Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC ](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-3.jpg)
+![Minh hoạ 2: Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC ](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-3.jpg)
 
-![Minh hoạ 1: Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC ](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-4.jpg)
+![Minh hoạ 3: Condition report là gì? Vì sao quan trọng khi nhận hàng giá trị cao — Ảnh: Jorge Royan (CC BY-SA 3.0); Norwegian Radio Orchestra from Norway (CC BY 2.0); Ma_Ti_EU from Berlin, Germany (CC ](/assets/blog/condition-report-la-gi-vi-sao-quan-trong-khi-nhan-hang-gia-tri-cao-4.jpg)
 
 Một condition report đầy đủ thường có:
 
