@@ -72,7 +72,7 @@ Lead time không cố định mà phụ thuộc vào nhiều yếu tố. Dưới
 - Mùa cao điểm: các tháng 9–11 (chuẩn bị cho Milan Design Week và mùa lễ) thường kéo dài lead time thêm 2–4 tuần.
 - Chứng nhận xuất xứ: nếu lô hàng trên 6.000 EUR, nhà xuất khẩu phải đăng ký REX – quy trình này mất 1–2 tuần nếu chưa có sẵn.
 
-![Minh hoạ 1: Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — White Glove Logistics](/assets/blog/lam-viec-voi-xuong-noi-that-y-3.jpg)
+![Minh hoạ 1: Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — Ảnh: Unknown / Wikimedia Commons (Public domain); Alberto153 / Wikimedia Commons (CC BY-SA 4.0); Giulia Nota](/assets/blog/lam-viec-voi-xuong-noi-that-y-3.jpg)
 
 ## 4. So sánh chi phí: đặt cọc xưởng Ý so với mua hàng sẵn kho
 
@@ -83,7 +83,7 @@ Mặc dù đặt cọc và lead time dài hơn, nhưng nội thất made-to-orde
 - Chất lượng: thủ công, nguyên liệu chính hãng, kiểm định nghiêm ngặt (Ý) so với sản xuất hàng loạt, kiểm soát chất lượng trung bình.
 - Giá trị đầu tư: nội thất Ý giữ giá tốt theo thời gian, có thể trở thành tài sản thừa kế.
 
-![Minh hoạ 1: Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — Ảnh: Unknown / Wikimedia Commons (Public domain); Alberto153 / Wikimedia Commons (CC BY-SA 4.0); Giulia Nota](/assets/blog/lam-viec-voi-xuong-noi-that-y-4.jpg)
+![Minh hoạ 2: Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — Ảnh: Unknown / Wikimedia Commons (Public domain); Alberto153 / Wikimedia Commons (CC BY-SA 4.0); Giulia Nota](/assets/blog/lam-viec-voi-xuong-noi-that-y-4.jpg)
 
 ## 5. Dịch vụ White Glove Logistics: bàn giao nội thất Ý tận nơi an toàn
 

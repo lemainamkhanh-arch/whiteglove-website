@@ -21,9 +21,11 @@ draft: false
 
 ## CO và CQ là gì? Định nghĩa chi tiết cho hàng nội thất nhập khẩu
 
-![Minh hoạ 1: CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA 4.0)](/assets/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau-2.jpg)
+![Minh hoạ 2: CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason Edward](/assets/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau-2.jpg)
 
-![Minh hoạ 2: CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA 4.0)](/assets/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau-3.jpg)
+![Minh hoạ 1: CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA 4.0)](/assets/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau-3.jpg)
+
+![Minh hoạ 1: CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason Edward](/assets/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau-4.jpg)
 
 CO (Certificate of Origin) và CQ (Certificate of Quality) là hai loại chứng từ quan trọng trong thương mại quốc tế. Đối với lĩnh vực nội thất nhập khẩu, việc hiểu rõ bản chất và chức năng của từng loại giấy tờ này giúp doanh nghiệp tránh được những rủi ro về thủ tục hải quan và tối ưu chi phí.
 

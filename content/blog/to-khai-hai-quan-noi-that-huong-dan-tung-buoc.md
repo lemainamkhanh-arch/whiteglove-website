@@ -58,7 +58,7 @@ Một thư mục lô hàng nên có hợp đồng hoặc purchase order, commerc
 
 Nếu sử dụng dịch vụ khai thuê hải quan, doanh nghiệp vẫn nên giữ bản sao đầy đủ. Không nên chỉ phụ thuộc vào email của forwarder vì sau này có thể cần giải trình cho kế toán, kiểm toán, cơ quan thuế hoặc cơ quan hải quan. Bài [Nhập khẩu kinh doanh tại Việt Nam: lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/) có thể dùng làm checklist nền cho việc tổ chức hồ sơ.
 
-![Minh hoạ 1: Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA](/assets/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc-3.jpg)
+![Minh hoạ 1: Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason](/assets/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc-3.jpg)
 
 ### 3. Kiểm tra mã HS trước khi khai
 
@@ -68,7 +68,7 @@ Mã HS không nên được chọn chỉ vì thấy thuế suất thấp. Hãy l
 
 Doanh nghiệp cần dự kiến không chỉ giá mua mà còn cước quốc tế, bảo hiểm, phí cảng, thuế nhập khẩu, VAT khâu nhập khẩu, phí kiểm hóa, lưu kho, vận chuyển nội địa và chi phí lắp đặt. Đọc thêm [Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp?](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/) để phân biệt commercial invoice, tờ khai và chứng từ nộp thuế.
 
-![Minh hoạ 2: Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC BY-SA](/assets/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc-4.jpg)
+![Minh hoạ 2: Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — Ảnh: SmartTEHLatvia / Wikimedia Commons (CC BY-SA 4.0); CBP Photography / Wikimedia Commons (Public domain); Tech. Sgt. Jason](/assets/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc-4.jpg)
 
 ## Hướng dẫn điền tờ khai hải quan từng bước
 

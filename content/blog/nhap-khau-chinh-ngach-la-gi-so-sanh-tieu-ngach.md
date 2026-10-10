@@ -61,7 +61,7 @@ Trung Quốc là nguồn cung nội thất lớn nhất cho thị trường Vi�
 
 Để tránh rủi ro, bạn nên tham khảo bài viết [hướng dẫn nhập nội thất Trung Quốc A→Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) của chúng tôi.
 
-![Minh hoạ 1: Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch — White Glove Logistics](/assets/blog/nhap-khau-chinh-ngach-la-gi-so-sanh-tieu-ngach-3.jpg)
+![Minh hoạ 1: Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-khau-chinh-ngach-la-gi-so-sanh-tieu-ngach-3.jpg)
 
 ## Quy trình nhập khẩu chính ngạch nội thất từ A đến Z
 
@@ -88,7 +88,7 @@ Tham khảo [báo giá vận chuyển nội thất nhập khẩu](https://whiteg
 
 ## FAQ về nhập khẩu chính ngạch và tiểu ngạch
 
-![Minh hoạ 1: Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-khau-chinh-ngach-la-gi-so-sanh-tieu-ngach-4.jpg)
+![Minh hoạ 2: Nhập khẩu chính ngạch là gì? So sánh chi tiết với tiểu ngạch — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Commons](/assets/blog/nhap-khau-chinh-ngach-la-gi-so-sanh-tieu-ngach-4.jpg)
 
 ## Câu hỏi thường gặp
 

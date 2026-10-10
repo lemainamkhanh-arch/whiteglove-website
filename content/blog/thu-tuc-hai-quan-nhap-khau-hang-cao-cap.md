@@ -60,7 +60,7 @@ Một trong những nỗi lo lớn nhất của khách hàng là chi phí phát 
 - Phí dịch vụ hải quan: Nếu bạn sử dụng dịch vụ ủy thác nhập khẩu, đơn vị này sẽ thu phí dựa trên giá trị lô hàng hoặc theo thỏa thuận.
 - Phí vận chuyển nội địa và bảo hiểm: Sau khi thông quan, hàng hóa cần được vận chuyển đến kho hoặc địa chỉ giao hàng. Bảo hiểm hàng hóa là lựa chọn khôn ngoan để bảo vệ tài sản giá trị cao.
 
-![Minh hoạ 1: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — White Glove Logistics](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-3.jpg)
+![Minh hoạ 1: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA ](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-3.jpg)
 
 ## Lưu ý đặc thù khi nhập khẩu nội thất cao cấp
 
@@ -73,7 +73,7 @@ Nội thất cao cấp (gỗ quý, da thật, đá tự nhiên, pha lê) thườ
 
 Để hiểu rõ hơn về quy trình nhập khẩu nội thất từ Trung Quốc – một thị trường phổ biến cho hàng cao cấp, bạn có thể tham khảo [hướng dẫn nhập nội thất Trung Quốc A→Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) để tránh sai sót.
 
-![Minh hoạ 1: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA ](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-4.jpg)
+![Minh hoạ 2: Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA ](/assets/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap-4.jpg)
 
 ## Vai trò của dịch vụ ủy thác nhập khẩu chuyên nghiệp
 

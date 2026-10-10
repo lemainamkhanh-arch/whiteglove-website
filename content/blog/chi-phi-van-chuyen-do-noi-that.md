@@ -17,9 +17,11 @@ Nhiều người tìm "bảng giá vận chuyển nội thất" mong có một c
 
 ## 5 yếu tố chính ảnh hưởng đến chi phí
 
-![Minh hoạ 1: Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/chi-phi-van-chuyen-do-noi-that-2.jpg)
+![Minh hoạ 2: Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/chi-phi-van-chuyen-do-noi-that-2.jpg)
 
-![Minh hoạ 2: Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/chi-phi-van-chuyen-do-noi-that-3.jpg)
+![Minh hoạ 1: Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/chi-phi-van-chuyen-do-noi-that-3.jpg)
+
+![Minh hoạ 1: Chi phí vận chuyển đồ nội thất phụ thuộc vào yếu tố gì? — Ảnh: Peachyeung316 (CC BY-SA 4.0); Richard Sutcliffe (CC BY-SA 2.0); Michael Trolove (CC BY-SA 2.0) / Wikimedia Commons](/assets/blog/chi-phi-van-chuyen-do-noi-that-4.jpg)
 
 - Loại và chất liệu nội thất: gỗ tự nhiên, sofa da, kính, đá — ảnh hưởng cách đóng gói, bảo hiểm và nhân sự xử lý
 - Kích thước và trọng lượng: hàng cồng kềnh cần xe lớn hơn, có thể cần từ 2 người khiêng trở lên

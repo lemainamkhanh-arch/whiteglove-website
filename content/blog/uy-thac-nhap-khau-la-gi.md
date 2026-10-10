@@ -17,9 +17,11 @@ Nếu bạn muốn mua một lô nội thất nhập khẩu, thiết bị y tế
 
 ## Ủy thác nhập khẩu là gì?
 
-![Minh hoạ 1: Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/uy-thac-nhap-khau-la-gi-2.jpg)
+![Minh hoạ 2: Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/uy-thac-nhap-khau-la-gi-2.jpg)
 
-![Minh hoạ 2: Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/uy-thac-nhap-khau-la-gi-3.jpg)
+![Minh hoạ 1: Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/uy-thac-nhap-khau-la-gi-3.jpg)
+
+![Minh hoạ 1: Ủy thác nhập khẩu là gì? Quy trình, chi phí và rủi ro cần biết — Ảnh: Amon Carter Museum of American Art (CC0); Myotus (CC0); Michael Barera (CC BY-SA 4.0) / Wikimedia Commons](/assets/blog/uy-thac-nhap-khau-la-gi-4.jpg)
 
 Theo Luật Thương mại 2005 (Điều 155–165 về ủy thác mua bán hàng hóa), ủy thác là hoạt động thương mại, theo đó **bên nhận ủy thác** thực hiện việc mua bán hàng hóa với danh nghĩa của mình theo điều kiện đã thoả thuận với **bên ủy thác**, và được nhận thù lao ủy thác.
 

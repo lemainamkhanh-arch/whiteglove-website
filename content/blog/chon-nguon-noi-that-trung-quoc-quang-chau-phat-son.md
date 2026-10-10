@@ -57,7 +57,7 @@ Phật Sơn (Foshan) được mệnh danh là thủ phủ sản xuất nội th�
 - Yêu cầu đặt hàng tối thiểu (MOQ): Thường từ 10-50 sản phẩm/mẫu, không phù hợp cho đơn hàng thử nghiệm.
 - Cần kiểm tra uy tín nhà cung cấp: Tránh xưởng nhỏ, thiếu giấy tờ xuất khẩu hợp lệ.
 
-![Minh hoạ 1: Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn — White Glove Logistics](/assets/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son-3.jpg)
+![Minh hoạ 1: Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Comm](/assets/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son-3.jpg)
 
 ## So sánh chi phí và quy trình nhập khẩu nội thất từ Quảng Châu và Phật Sơn
 
@@ -79,7 +79,7 @@ Chi phí nhập khẩu nội thất từ Trung Quốc không chỉ bao gồm gi�
 
 Nếu bạn chưa có kinh nghiệm, hãy tìm hiểu thêm về [ủy thác nhập khẩu là gì](https://whiteglove.vn/blog/uy-thac-nhap-khau-la-gi/) để hiểu cách chúng tôi hỗ trợ bạn từ khâu tìm nguồn đến giao hàng tận nơi.
 
-![Minh hoạ 1: Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (C](/assets/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son-4.jpg)
+![Minh hoạ 2: Cách chọn nguồn nội thất Trung Quốc uy tín — Quảng Châu vs Phật Sơn — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Comm](/assets/blog/chon-nguon-noi-that-trung-quoc-quang-chau-phat-son-4.jpg)
 
 ## Dịch vụ White Glove Logistics Vietnam – Đối tác nhập khẩu nội thất cao cấp của bạn
 

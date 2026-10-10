@@ -60,7 +60,7 @@ Sofa là món nội thất dễ bị làm giả nhất. Để kiểm tra chất 
 
 Nếu bạn cần hỗ trợ kiểm tra trước khi mua, đội ngũ White Glove Logistics Vietnam có thể tư vấn miễn phí dựa trên kinh nghiệm vận chuyển hàng nghìn bộ sofa nhập khẩu.
 
-![Minh hoạ 1: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — White Glove Logistics](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-3.jpg)
+![Minh hoạ 1: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Com](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-3.jpg)
 
 ## Chi phí kiểm định và vận chuyển nội thất nhập khẩu: Những điều cần biết
 
@@ -73,7 +73,7 @@ Chi phí kiểm định phụ thuộc vào giá trị hàng hóa và đơn vị 
 
 Để biết chi phí cụ thể cho đơn hàng của bạn, hãy tham khảo bảng giá chi tiết tại: [bảng giá dịch vụ](https://whiteglove.vn/bang-gia.html).
 
-![Minh hoạ 1: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Com](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-4.jpg)
+![Minh hoạ 2: Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — Ảnh: H. Zell (CC BY-SA 3.0); Matti Blume (CC BY-SA 4.0); Raimond Spekking (CC BY-SA 4.0); Syced (CC0) / Wikimedia Com](/assets/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan-4.jpg)
 
 ## Dịch vụ White Glove: Giải pháp trọn gói cho nội thất nhập khẩu cao cấp
 

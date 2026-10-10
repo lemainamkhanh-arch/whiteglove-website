@@ -72,7 +72,7 @@ Một cách mô phỏng dễ hiểu:
 - Giá tính VAT giả định: 240.000.000 đồng;
 - Nếu thuế suất VAT áp dụng là 10%, VAT nhập khẩu là 24.000.000 đồng.
 
-![Minh hoạ 1: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC ](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-3.jpg)
+![Minh hoạ 1: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA 3.0) / Wi](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-3.jpg)
 
 Con số trên chỉ là ví dụ minh họa, không phải báo giá hoặc kết luận cho mọi mặt hàng. Thuế suất có thể phụ thuộc vào nhóm sản phẩm, mã HS, chính sách tại thời điểm nhập khẩu và chương trình giảm thuế đang có hiệu lực. Không nên mặc định mọi hàng nội thất đều chịu cùng một mức VAT hoặc mọi hàng từ Trung Quốc đều được hưởng cùng một mức thuế nhập khẩu.
 
@@ -96,13 +96,13 @@ Chứng từ xuất xứ như Form E hoặc chứng từ theo hiệp định th�
 
 Vì vậy, khi lập dự toán, nên tách ít nhất bốn dòng: trị giá hàng, logistics và phụ phí, thuế nhập khẩu, VAT nhập khẩu. Cách tách này giúp doanh nghiệp nhìn đúng giá vốn và không nhầm “thuế nhập khẩu thấp” với “tổng nghĩa vụ thuế thấp”. Nếu cần bảng tham chiếu riêng cho nhóm nội thất từ Trung Quốc, hãy đối chiếu với [Hướng dẫn nhập nội thất Trung Quốc từ A→Z](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/) và kiểm tra lại theo mã HS thực tế.
 
-![Minh hoạ 2: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC ](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-4.jpg)
+![Minh hoạ 2: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA 3.0) / Wi](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-4.jpg)
 
 ## Điều kiện khấu trừ VAT nhập khẩu
 
 Doanh nghiệp nộp thuế theo phương pháp khấu trừ chỉ nên kê khai VAT nhập khẩu đầu vào khi bộ hồ sơ đáp ứng các điều kiện liên quan. Có thể kiểm tra theo bốn nhóm sau.
 
-![Minh hoạ 3: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — Ảnh: AIFONGE 8002 / Wikimedia Commons (CC0); AIFONGE 8002 / Wikimedia Commons (CC0); Paul Burns / Wikimedia Commons (CC ](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-5.jpg)
+![Minh hoạ 3: Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — Ảnh: Axisadman (CC BY-SA 3.0); Nick Saltmarsh (CC BY 2.0); Gilgen Logistics AG (CC BY-SA 4.0); Cjp24 (CC BY-SA 3.0) / Wi](/assets/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong-5.jpg)
 
 ### Hàng hóa phục vụ hoạt động chịu VAT
 

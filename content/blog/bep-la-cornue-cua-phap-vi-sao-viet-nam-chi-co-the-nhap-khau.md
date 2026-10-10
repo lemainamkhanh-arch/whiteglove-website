@@ -59,7 +59,7 @@ White Glove Logistics cung cấp giải pháp trọn gói từ nhập khẩu, v�
 
 Để tránh những rủi ro trên, bạn nên sử dụng dịch vụ của White Glove Logistics – đơn vị chuyên nhập khẩu và vận chuyển nội thất cao cấp. Xem thêm [báo giá vận chuyển nội thất nhập khẩu](https://whiteglove.vn/blog/bao-gia-van-chuyen-noi-that-nhap-khau/) để dự trù chi phí.
 
-![Minh hoạ 1: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-4.jpg)
+![Minh hoạ 2: Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — Ảnh: La Cornue (lacornueusa.com — ảnh sản phẩm chính thức)](/assets/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau-4.jpg)
 
 ## Dịch vụ White Glove Logistics hỗ trợ nhập khẩu bếp La Cornue như thế nào?
 
