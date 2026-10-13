@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-12T01:01:33.455Z"
+updated: "2026-10-13T01:01:28.550Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (35)
+## Ý tưởng (34)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -16,7 +16,6 @@ updated: "2026-10-12T01:01:33.455Z"
 - Nội thất Ý không có showroom chính hãng: Poliform, Minotti, Giorgetti — nhập khẩu khác gì mua qua trung gian?
 - Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì?
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam
-- Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn
 - Cách chia nguồn hàng cho một dự án nội thất: món nào nhập châu Âu, món nào nhập Trung Quốc
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
@@ -53,9 +52,9 @@ updated: "2026-10-12T01:01:33.455Z"
 
 ## Đã duyệt (1)
 
-- Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh
+- Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn
 
-## Đã publish (33)
+## Đã publish (34)
 
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
@@ -70,6 +69,7 @@ updated: "2026-10-12T01:01:33.455Z"
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
 - CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — [https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/](https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/)
 - Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — [https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/](https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/)
+- Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh — [https://whiteglove.vn/blog/thue-nhap-khau-noi-that-trung-quoc-2026/](https://whiteglove.vn/blog/thue-nhap-khau-noi-that-trung-quoc-2026/)
 - Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — [https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/](https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/)
 - Thủ tục hải quan nhập khẩu hàng cao cấp: đầy đủ giấy tờ, minh bạch chi phí — [https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/](https://whiteglove.vn/blog/thu-tuc-hai-quan-nhap-khau-hang-cao-cap/)
 - Hướng dẫn nhập nội thất Trung Quốc từ A→Z cho người mới bắt đầu (2026) — [https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/](https://whiteglove.vn/blog/huong-dan-nhap-noi-that-trung-quoc-a-z/)
