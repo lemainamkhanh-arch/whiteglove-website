@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-13T01:01:28.550Z"
+updated: "2026-10-15T01:01:32.268Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (34)
+## Ý tưởng (33)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -26,7 +26,6 @@ updated: "2026-10-13T01:01:28.550Z"
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
 - Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026
 - Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
-- Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
 - Cách kiểm tra supplier Trung Quốc có đáng tin không (5 bước kiểm chứng)
@@ -52,10 +51,11 @@ updated: "2026-10-13T01:01:28.550Z"
 
 ## Đã duyệt (1)
 
-- Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn
+- Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time
 
-## Đã publish (34)
+## Đã publish (35)
 
+- Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
 - Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — [https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/](https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/)
