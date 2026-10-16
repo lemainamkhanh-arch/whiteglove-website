@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-15T01:01:32.268Z"
+updated: "2026-10-16T01:04:51.294Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (33)
+## Ý tưởng (32)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -22,7 +22,6 @@ updated: "2026-10-15T01:01:32.268Z"
 - Đi hội chợ nội thất châu Âu để chọn nguồn: Salone del Mobile, imm Cologne, Maison&Objet, Hábitat Valencia
 - Sofa dài 3m từ Ý có vừa container 20ft? Bài toán oversize khi nhập nội thất châu Âu
 - Nhập nội thất Bắc Âu: gỗ, thiết kế tối giản và rủi ro độ ẩm khi về Việt Nam
-- Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
 - Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026
 - Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
@@ -51,9 +50,9 @@ updated: "2026-10-15T01:01:32.268Z"
 
 ## Đã duyệt (1)
 
-- Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time
+- Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE
 
-## Đã publish (35)
+## Đã publish (36)
 
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
@@ -62,6 +61,7 @@ updated: "2026-10-15T01:01:32.268Z"
 - Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — [https://whiteglove.vn/blog/nhap-noi-that-tay-ban-nha/](https://whiteglove.vn/blog/nhap-noi-that-tay-ban-nha/)
 - Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — [https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/](https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/)
 - Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào — [https://whiteglove.vn/blog/van-chuyen-noi-that-tu-chau-au/](https://whiteglove.vn/blog/van-chuyen-noi-that-tu-chau-au/)
+- Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time — [https://whiteglove.vn/blog/nhap-noi-that-thiet-bi-bep-duc/](https://whiteglove.vn/blog/nhap-noi-that-thiet-bi-bep-duc/)
 - Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
