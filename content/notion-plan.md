@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-10-27T01:01:39.841Z"
+updated: "2026-10-29T01:01:13.776Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (30)
+## Ý tưởng (29)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -15,7 +15,6 @@ updated: "2026-10-27T01:01:39.841Z"
 - Thiết bị phòng tắm cổ điển Anh – Ý: Devon&Devon, Catchpole & Rye và chuyện nhập hàng nặng, dễ vỡ
 - Nội thất Ý không có showroom chính hãng: Poliform, Minotti, Giorgetti — nhập khẩu khác gì mua qua trung gian?
 - Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì?
-- Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
 - Đi hội chợ nội thất châu Âu để chọn nguồn: Salone del Mobile, imm Cologne, Maison&Objet, Hábitat Valencia
@@ -48,15 +47,16 @@ updated: "2026-10-27T01:01:39.841Z"
 
 ## Đã duyệt (1)
 
-- Sofa dài 3m từ Ý có vừa container 20ft? Bài toán oversize khi nhập nội thất châu Âu
+- Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam
 
-## Đã publish (38)
+## Đã publish (39)
 
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
 - Bếp La Cornue của Pháp: vì sao Việt Nam chỉ có thể nhập khẩu? — [https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/](https://whiteglove.vn/blog/bep-la-cornue-cua-phap-vi-sao-viet-nam-chi-co-the-nhap-khau/)
 - Cách chia nguồn hàng cho một dự án nội thất: món nào nhập châu Âu, món nào nhập Trung Quốc — [https://whiteglove.vn/blog/chia-nguon-hang-du-an-noi-that/](https://whiteglove.vn/blog/chia-nguon-hang-du-an-noi-that/)
 - Làm việc với xưởng nội thất Ý: made-to-order, đặt cọc và lead time 12–20 tuần — [https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/](https://whiteglove.vn/blog/lam-viec-voi-xuong-noi-that-y/)
+- Sofa dài 3m từ Ý có vừa container 20ft? Bài toán oversize khi nhập nội thất châu Âu — [https://whiteglove.vn/blog/sofa-3m-container-20ft-oversize/](https://whiteglove.vn/blog/sofa-3m-container-20ft-oversize/)
 - Nhập nội thất từ Tây Ban Nha: cụm sofa Yecla và gốm Valencia — [https://whiteglove.vn/blog/nhap-noi-that-tay-ban-nha/](https://whiteglove.vn/blog/nhap-noi-that-tay-ban-nha/)
 - Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — [https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/](https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/)
 - Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE — [https://whiteglove.vn/blog/chung-tu-nhap-noi-that-chau-au/](https://whiteglove.vn/blog/chung-tu-nhap-noi-that-chau-au/)
