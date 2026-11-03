@@ -4,7 +4,7 @@ description: "Nội thất Bắc Âu nhập về Việt Nam có bị cong nở v
 slug: nhap-noi-that-bac-au-do-am
 category: "Nhập khẩu & hải quan"
 created: "2026-09-18T03:34:00.000Z"
-date: 2026-10-19
+date: 2026-10-30
 keyword: "nhập nội thất bắc âu: gỗ, thiết kế tối giản và rủi ro độ ẩm khi về việt nam"
 draft: false
 ---
