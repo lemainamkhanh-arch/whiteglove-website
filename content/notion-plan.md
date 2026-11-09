@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-11-03T01:03:37.656Z"
+updated: "2026-11-09T01:01:25.063Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (27)
+## Ý tưởng (26)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -31,7 +31,6 @@ updated: "2026-11-03T01:03:37.656Z"
 - Rủi ro pháp lý khi nhập hàng không chính ngạch — case study thực tế
 - Cách đọc báo giá & hợp đồng với supplier Trung Quốc — tránh phí ẩn
 - So sánh: Tự nhập vs thuê forwarder vs ủy thác nhập khẩu — bảng chi phí thực tế
-- 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
 - White glove delivery khác gì giao hàng thường? So sánh chi tiết
 - Thuê dịch vụ lắp đặt đồ nội thất nhập khẩu: quy trình đặt lịch
 
@@ -45,9 +44,9 @@ updated: "2026-11-03T01:03:37.656Z"
 
 ## Đã duyệt (1)
 
-- Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026
+- 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
 
-## Đã publish (41)
+## Đã publish (42)
 
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam — [https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/](https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/)
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
@@ -60,6 +59,7 @@ updated: "2026-11-03T01:03:37.656Z"
 - Nhập nội thất Bắc Âu: gỗ, thiết kế tối giản và rủi ro độ ẩm khi về Việt Nam — [https://whiteglove.vn/blog/nhap-noi-that-bac-au-do-am/](https://whiteglove.vn/blog/nhap-noi-that-bac-au-do-am/)
 - Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — [https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/](https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/)
 - Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE — [https://whiteglove.vn/blog/chung-tu-nhap-noi-that-chau-au/](https://whiteglove.vn/blog/chung-tu-nhap-noi-that-chau-au/)
+- Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026 — [https://whiteglove.vn/blog/chi-phi-nhap-container-noi-that-tu-y/](https://whiteglove.vn/blog/chi-phi-nhap-container-noi-that-tu-y/)
 - Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào — [https://whiteglove.vn/blog/van-chuyen-noi-that-tu-chau-au/](https://whiteglove.vn/blog/van-chuyen-noi-that-tu-chau-au/)
 - Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time — [https://whiteglove.vn/blog/nhap-noi-that-thiet-bi-bep-duc/](https://whiteglove.vn/blog/nhap-noi-that-thiet-bi-bep-duc/)
 - Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)
