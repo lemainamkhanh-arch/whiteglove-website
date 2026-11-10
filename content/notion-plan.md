@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-11-09T01:01:25.063Z"
+updated: "2026-11-10T01:01:39.175Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (26)
+## Ý tưởng (25)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -24,7 +24,6 @@ updated: "2026-11-09T01:01:25.063Z"
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
 - Cách kiểm tra supplier Trung Quốc có đáng tin không (5 bước kiểm chứng)
 - Case study: Nhập + giao lắp trọn gói bộ nội thất Ý cho biệt thự tại TP.HCM
-- Bảo hiểm hàng hóa giá trị cao khi vận chuyển quốc tế — có đáng không?
 - Quy trình giao & lắp đặt nội thất cho dự án khách sạn/resort
 - Nhập nội thất khách sạn từ Trung Quốc: chi phí, thủ tục, checklist
 - Kinh nghiệm mua hàng trên 1688/Taobao không bị lừa (dành cho nội thất)
@@ -44,9 +43,9 @@ updated: "2026-11-09T01:01:25.063Z"
 
 ## Đã duyệt (1)
 
-- 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc
+- Bảo hiểm hàng hóa giá trị cao khi vận chuyển quốc tế — có đáng không?
 
-## Đã publish (42)
+## Đã publish (43)
 
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam — [https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/](https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/)
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
@@ -68,6 +67,7 @@ updated: "2026-11-09T01:01:25.063Z"
 - Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
 - CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — [https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/](https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/)
+- 5 tiêu chí kiểm tra chất lượng sofa & đồ gỗ trước khi đặt cọc — [https://whiteglove.vn/blog/5-tieu-chi-kiem-tra-sofa-do-go-truoc-dat-coc/](https://whiteglove.vn/blog/5-tieu-chi-kiem-tra-sofa-do-go-truoc-dat-coc/)
 - Cách kiểm định & mua nội thất/thiết bị cao cấp từ nước ngoài an toàn — [https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/](https://whiteglove.vn/blog/kiem-dinh-mua-noi-that-cao-cap-nuoc-ngoai-an-toan/)
 - Thuế nhập khẩu nội thất từ Trung Quốc 2026 — bảng tra nhanh — [https://whiteglove.vn/blog/thue-nhap-khau-noi-that-trung-quoc-2026/](https://whiteglove.vn/blog/thue-nhap-khau-noi-that-trung-quoc-2026/)
 - Bảng mã HS phổ biến cho nội thất & đồ trang trí nhập khẩu — [https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/](https://whiteglove.vn/blog/bang-ma-hs-noi-that-do-trang-tri-nhap-khau/)
