@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-11-10T01:01:39.175Z"
+updated: "2026-11-12T01:01:36.086Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (25)
+## Ý tưởng (24)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -14,7 +14,6 @@ updated: "2026-11-10T01:01:39.175Z"
 - Vòi và sen cao cấp Đức – Đan Mạch: Dornbracht, Vola — vì sao phải nhập và lưu ý phụ tùng
 - Thiết bị phòng tắm cổ điển Anh – Ý: Devon&Devon, Catchpole & Rye và chuyện nhập hàng nặng, dễ vỡ
 - Nội thất Ý không có showroom chính hãng: Poliform, Minotti, Giorgetti — nhập khẩu khác gì mua qua trung gian?
-- Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì?
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
 - Đi hội chợ nội thất châu Âu để chọn nguồn: Salone del Mobile, imm Cologne, Maison&Objet, Hábitat Valencia
@@ -43,9 +42,9 @@ updated: "2026-11-10T01:01:39.175Z"
 
 ## Đã duyệt (1)
 
-- Bảo hiểm hàng hóa giá trị cao khi vận chuyển quốc tế — có đáng không?
+- Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì?
 
-## Đã publish (43)
+## Đã publish (44)
 
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam — [https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/](https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/)
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
@@ -64,6 +63,7 @@ updated: "2026-11-10T01:01:39.175Z"
 - Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)
 - Nhập khẩu kinh doanh tại Việt Nam: Lưu ý pháp lý mới nhất và hồ sơ cần lưu trữ — [https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/](https://whiteglove.vn/blog/luu-y-phap-ly-nhap-khau-kinh-doanh-ho-so-can-luu-tru/)
 - Kinh doanh photobooth: Chi phí đầu tư, mô hình vận hành và cách nhập thiết bị — [https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/](https://whiteglove.vn/blog/kinh-doanh-photobooth-chi-phi-mo-photobooth/)
+- Bảo hiểm hàng hóa giá trị cao khi vận chuyển quốc tế — có đáng không? — [https://whiteglove.vn/blog/bao-hiem-hang-hoa-gia-tri-cao-van-chuyen-quoc-te/](https://whiteglove.vn/blog/bao-hiem-hang-hoa-gia-tri-cao-van-chuyen-quoc-te/)
 - Hóa đơn VAT trong nhập khẩu: tại sao quan trọng với doanh nghiệp? — [https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/](https://whiteglove.vn/blog/hoa-don-vat-trong-nhap-khau-tai-sao-quan-trong/)
 - Tờ khai hải quan cho hàng nội thất: hướng dẫn điền từng bước — [https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/](https://whiteglove.vn/blog/to-khai-hai-quan-noi-that-huong-dan-tung-buoc/)
 - CO/CQ là gì? Khi nào cần cho hàng nội thất nhập khẩu? — [https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/](https://whiteglove.vn/blog/co-cq-la-gi-khi-nao-can-cho-noi-that-nhap-khau/)
