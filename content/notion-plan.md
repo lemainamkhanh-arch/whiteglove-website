@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-11-12T01:01:36.086Z"
+updated: "2026-11-17T01:08:00.538Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (24)
+## Ý tưởng (23)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -18,7 +18,6 @@ updated: "2026-11-12T01:01:36.086Z"
 - Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
 - Đi hội chợ nội thất châu Âu để chọn nguồn: Salone del Mobile, imm Cologne, Maison&Objet, Hábitat Valencia
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
-- Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
 - Review các xưởng nội thất Phật Sơn — chất lượng, giá, cách làm việc
 - Cách kiểm tra supplier Trung Quốc có đáng tin không (5 bước kiểm chứng)
@@ -42,10 +41,11 @@ updated: "2026-11-12T01:01:36.086Z"
 
 ## Đã duyệt (1)
 
-- Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì?
+- Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
 
-## Đã publish (44)
+## Đã publish (45)
 
+- Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì? — [https://whiteglove.vn/blog/sub-zero-wolf-vi-sao-phai-nhap-khau-va-can-chuan-bi-gi/](https://whiteglove.vn/blog/sub-zero-wolf-vi-sao-phai-nhap-khau-va-can-chuan-bi-gi/)
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam — [https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/](https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/)
 - Lacanche — bếp gang Pháp: kích thước, điện áp và cách nhập an toàn — [https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/](https://whiteglove.vn/blog/lacanche-bep-gang-phap-kich-thuoc-dien-ap-va-cach-nhap-an-toan/)
 - Officine Gullo — bếp inox thủ công Ý: nhập khẩu nguyên bộ gồm những gì? — [https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/](https://whiteglove.vn/blog/officine-gullo-bep-inox-thu-cong-y-nhap-khau-nguyen-bo-gom-nhung-gi/)
