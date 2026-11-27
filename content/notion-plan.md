@@ -1,11 +1,11 @@
 ---
 title: "Kế hoạch content từ Notion"
-updated: "2026-11-17T01:08:00.538Z"
+updated: "2026-11-27T01:02:33.414Z"
 ---
 
 > File này được tạo tự động từ database SEO Content Plan trên Notion. Sửa nội dung/bài trong Notion rồi sync để cập nhật site; đổi Trạng thái sang **Đã duyệt** để publish bài mới.
 
-## Ý tưởng (23)
+## Ý tưởng (22)
 
 - Đèn Murano: Barovier&Toso, Venini — thủy tinh Ý dễ vỡ, đóng thùng riêng thế nào?
 - Đá tự nhiên Antolini từ Ý: nhập nguyên khối, bảo hiểm và lắp đặt
@@ -15,7 +15,6 @@ updated: "2026-11-17T01:08:00.538Z"
 - Thiết bị phòng tắm cổ điển Anh – Ý: Devon&Devon, Catchpole & Rye và chuyện nhập hàng nặng, dễ vỡ
 - Nội thất Ý không có showroom chính hãng: Poliform, Minotti, Giorgetti — nhập khẩu khác gì mua qua trung gian?
 - Bảo hành & phụ tùng nội thất châu Âu khi đã ở Việt Nam
-- Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
 - Đi hội chợ nội thất châu Âu để chọn nguồn: Salone del Mobile, imm Cologne, Maison&Objet, Hábitat Valencia
 - Nội thất Thổ Nhĩ Kỳ: gần châu Âu nhưng không có ưu đãi EVFTA
 - Tổng hợp: Chi phí ẩn khi nhập nội thất Trung Quốc mà người mới thường bỏ qua
@@ -41,9 +40,9 @@ updated: "2026-11-17T01:08:00.538Z"
 
 ## Đã duyệt (1)
 
-- Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu?
+- Đặt hàng châu Âu thanh toán bằng EUR: chốt tỷ giá thế nào để không lỗ
 
-## Đã publish (45)
+## Đã publish (46)
 
 - Sub-Zero & Wolf: vì sao phải nhập khẩu và cần chuẩn bị gì? — [https://whiteglove.vn/blog/sub-zero-wolf-vi-sao-phai-nhap-khau-va-can-chuan-bi-gi/](https://whiteglove.vn/blog/sub-zero-wolf-vi-sao-phai-nhap-khau-va-can-chuan-bi-gi/)
 - Fhiaba — tủ lạnh âm tủ chuẩn Ý: lưu ý điện áp, tản nhiệt và bảo hành khi về Việt Nam — [https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/](https://whiteglove.vn/blog/fhiaba-tu-lanh-am-tu-chuan-y-luu-y-dien-ap-tan-nhiet-va-bao-hanh-khi-ve-viet-nam/)
@@ -58,6 +57,7 @@ updated: "2026-11-17T01:08:00.538Z"
 - Hàng nội thất từ EU có được giảm thuế theo EVFTA? Statement on origin và hệ thống REX — [https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/](https://whiteglove.vn/blog/thue-evfta-noi-that-eu-statement-on-origin/)
 - Bộ chứng từ nhập nội thất từ châu Âu: hóa đơn, packing list, xuất xứ, FSC/REACH/CE — [https://whiteglove.vn/blog/chung-tu-nhap-noi-that-chau-au/](https://whiteglove.vn/blog/chung-tu-nhap-noi-that-chau-au/)
 - Chi phí nhập 1 container nội thất từ Ý về TP.HCM: bảng landed cost 2026 — [https://whiteglove.vn/blog/chi-phi-nhap-container-noi-that-tu-y/](https://whiteglove.vn/blog/chi-phi-nhap-container-noi-that-tu-y/)
+- Ba Lan – Bồ Đào Nha – Séc: nguồn nội thất châu Âu giá tốt hơn Tây Âu? — [https://whiteglove.vn/blog/noi-that-ba-lan-bo-dao-nha-sec/](https://whiteglove.vn/blog/noi-that-ba-lan-bo-dao-nha-sec/)
 - Vận chuyển nội thất từ châu Âu về Việt Nam: cảng nào, mất bao lâu, container nào — [https://whiteglove.vn/blog/van-chuyen-noi-that-tu-chau-au/](https://whiteglove.vn/blog/van-chuyen-noi-that-tu-chau-au/)
 - Nhập nội thất & thiết bị bếp từ Đức: tiêu chuẩn, chứng từ, lead time — [https://whiteglove.vn/blog/nhap-noi-that-thiet-bi-bep-duc/](https://whiteglove.vn/blog/nhap-noi-that-thiet-bi-bep-duc/)
 - Xưởng nội thất Ý ở đâu? Bản đồ vùng sản xuất Brianza – Manzano – Carrara — [https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/](https://whiteglove.vn/blog/xuong-noi-that-y-o-dau/)

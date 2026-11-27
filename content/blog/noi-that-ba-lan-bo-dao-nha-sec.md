@@ -4,7 +4,7 @@ description: "So sánh nhập nội thất Ba Lan, Bồ Đào Nha, Séc với Ý
 slug: noi-that-ba-lan-bo-dao-nha-sec
 category: "Nhập khẩu & hải quan"
 created: "2026-09-18T03:34:00.000Z"
-date: 2026-10-26
+date: 2026-11-17
 keyword: "ba lan – bồ đào nha – séc: nguồn nội thất châu âu giá tốt hơn tây âu?"
 draft: false
 ---
